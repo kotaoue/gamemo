@@ -8,7 +8,7 @@
 - [ ] [Live☆Twin リィラ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15625)*2
 - [ ] [Evil★Twin チャレンジ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15632)
 ## ほしい通常
-- [ ] [](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=)
+- [ ] [真紅眼の黒竜](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4088) ANNIVERSARY PACK
 ## ほしい効果
 - [ ] [レディ・デバッガー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13522)
 - [ ] [バックアップ・セクレタリー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13041)

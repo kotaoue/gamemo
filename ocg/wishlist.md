@@ -41,6 +41,7 @@
 - [ ] [リンク・スパイダー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13034)
 - [ ] [I：Pマスカレーナ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14676)
 - [ ] [マズルフラッシュ・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13838)
+- [ ] [LL－アセンブリー・ナイチンゲール](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12957)
 ## ほしい魔法
 - [ ] [トレード・イン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7248)
 - [ ] [ダーク・オカルティズム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14584)

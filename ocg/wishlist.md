@@ -2,18 +2,18 @@
 
 ## デッキに入れたい
 ### 1枚
-- [ ] 剛鬼アイアン・クロー
-- [ ] 剛鬼デストロイ・オーガ
-- [ ] 剛鬼ハッグベア
-− [ ] 剛鬼マンジロック
+- [ ] [剛鬼アイアン・クロー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14990)
+- [ ] [剛鬼デストロイ・オーガ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13344)
+- [ ] [剛鬼ハッグベア](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13565)
+− [ ] [剛鬼マンジロック](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13564)
 ### ２枚
-- [ ] 剛鬼フィニッシュホールド
-- [ ] 剛鬼ライジングスコーピオ
+- [ ] [剛鬼フィニッシュホールド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14789)
+- [ ] [剛鬼ライジングスコーピオ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13050)
 ### 3枚
-− [ ] 剛鬼ムーンサルト
-- [ ] 剛鬼ガッツ
-- [ ] 剛鬼再戦
-- [ ] 剛鬼死闘
+− [ ] [剛鬼ムーンサルト](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13719)
+- [ ] [剛鬼ガッツ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14991)
+- [ ] [剛鬼再戦](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13093)
+- [ ] [剛鬼死闘](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13515)
 ## ほしい高レア
 - [ ] [Live☆Twin リィラ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15625)*2
 - [ ] [Evil★Twin チャレンジ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15632)
@@ -31,7 +31,7 @@
 - [ ] [素早いビーバー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13256)
 - [ ] [ネオ・カイザー・グライダー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14370)
 - [ ] [矮星竜 プラネター](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11865)
-- [ ] コードブレイカー・ゼロデイ
+- [ ] [コードブレイカー・ゼロデイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14988)
 ## ほしい融合
 - [ ] [ヴァレルロード・F・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14625)
 - [ ] [超魔導師－ブラック・マジシャンズ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14905)
@@ -53,9 +53,9 @@
 - [ ] [リンク・スパイダー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13034)
 - [ ] [I：Pマスカレーナ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14676)
 - [ ] [マズルフラッシュ・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13838)
-- [ ] コードブレイカー・ウイルスソードマン
-- [ ] コードブレイカー・ウイルスバーサーカー
-- [ ] 聖騎士の追想 イゾルデ
+- [ ] [コードブレイカー・ウイルスソードマン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15038)
+- [ ] [コードブレイカー・ウイルスバーサーカー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15037)
+- [ ] [聖騎士の追想 イゾルデ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13500)
 ## ほしい魔法
 - [ ] [トレード・イン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7248)
 - [ ] [ダーク・オカルティズム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14584)

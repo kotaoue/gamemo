@@ -56,10 +56,13 @@
 - [ ] [コードブレイカー・ウイルスソードマン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15038)
 - [ ] [コードブレイカー・ウイルスバーサーカー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15037)
 - [ ] [聖騎士の追想 イゾルデ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13500)
+- [ ] [鎖龍蛇－スカルデット](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13419)
+- [ ] [アップデートジャマー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14122)
 ## ほしい魔法
 - [ ] [トレード・イン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7248)
 - [ ] [ダーク・オカルティズム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14584)
 - [ ] [煉獄の災天](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15051)
+- [ ] [ドン・サウザンドの契約](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13005)
 ## ほしい罠
 - [ ] [拮抗勝負](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13293)
 - [ ] [レッド・リブート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13622)

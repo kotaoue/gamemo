@@ -1,6 +1,8 @@
 # 遊戯王 OCG欲しい物リスト
 
 ## デッキに入れたい
+
+## 剛鬼
 ### 1枚
 - [ ] [剛鬼アイアン・クロー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14990)
 - [ ] [剛鬼デストロイ・オーガ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13344)

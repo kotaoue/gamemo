@@ -1,13 +1,28 @@
 # 遊戯王 OCG欲しい物リスト
 
 ## デッキに入れたい
-
+− [ ] [剛鬼ムーンサルト](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13719)*2
+- [ ] [剛鬼ガッツ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14991)*2
+- [ ] [剛鬼再戦](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13093)
+- [ ] ダウンビート
+- [ ] 無限泡影
+- [ ] 灰流うらら
+- [ ] [I：Pマスカレーナ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14676)
+- [ ] [双穹の騎士アストラム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14297)
+- [ ] [聖騎士の追想 イゾルデ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13500)
+- [ ] 月鏡の盾
+- [ ] [コードブレイカー・ウイルスソードマン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15038)
+- [ ] [コードブレイカー・ウイルスバーサーカー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15037)
+- [ ] [コードブレイカー・ゼロデイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14988)
+− [ ] リンクリボー
+- [ ] 原始生命態ニビル
 ## 剛鬼
 ### 1枚
 - [ ] [剛鬼アイアン・クロー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14990)
 - [ ] [剛鬼デストロイ・オーガ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13344)
 - [ ] [剛鬼ハッグベア](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13565)
 − [ ] [剛鬼マンジロック](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13564)
+- [ ] [剛鬼死闘](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13515)
 ### ２枚
 - [ ] [剛鬼フィニッシュホールド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14789)
 - [ ] [剛鬼ライジングスコーピオ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13050)
@@ -15,7 +30,6 @@
 − [ ] [剛鬼ムーンサルト](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13719)
 - [ ] [剛鬼ガッツ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14991)
 - [ ] [剛鬼再戦](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13093)
-- [ ] [剛鬼死闘](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13515)
 ## ほしい高レア
 - [ ] [Live☆Twin リィラ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15625)*2
 - [ ] [Evil★Twin チャレンジ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15632)
@@ -33,7 +47,6 @@
 - [ ] [素早いビーバー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13256)
 - [ ] [ネオ・カイザー・グライダー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14370)
 - [ ] [矮星竜 プラネター](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11865)
-- [ ] [コードブレイカー・ゼロデイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14988)
 ## ほしい融合
 - [ ] [ヴァレルロード・F・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14625)
 - [ ] [超魔導師－ブラック・マジシャンズ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14905)
@@ -50,14 +63,9 @@
 - [ ] [LL－アセンブリー・ナイチンゲール](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12957)
 ## ほしいL
 - [ ] [サクリファイス・アニマ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13841)
-- [ ] [双穹の騎士アストラム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14297)
 - [ ] [スリーバーストショット・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13415)
 - [ ] [リンク・スパイダー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13034)
-- [ ] [I：Pマスカレーナ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14676)
 - [ ] [マズルフラッシュ・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13838)
-- [ ] [コードブレイカー・ウイルスソードマン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15038)
-- [ ] [コードブレイカー・ウイルスバーサーカー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15037)
-- [ ] [聖騎士の追想 イゾルデ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13500)
 - [ ] [鎖龍蛇－スカルデット](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13419)
 - [ ] [アップデートジャマー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14122)
 - [ ] [デリンジャラス・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14291)

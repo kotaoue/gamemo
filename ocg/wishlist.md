@@ -3,19 +3,22 @@
 ## デッキに入れたい
 − [ ] [剛鬼ムーンサルト](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13719)*2
 - [ ] [剛鬼ガッツ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14991)*2
-- [ ] [剛鬼再戦](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13093)
-- [ ] ダウンビート
-- [ ] 無限泡影
-- [ ] 灰流うらら
+- [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950)*2
+- [ ] [原始生命態ニビル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14741)
+
+- [ ] [剛鬼再戦](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13093)*3
+- [ ] [ダウンビート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13434)*2
+- [ ] [月鏡の盾](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11771)
+
+- [ ] [無限泡影](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13631)*2
+
 - [ ] [I：Pマスカレーナ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14676)
 - [ ] [双穹の騎士アストラム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14297)
 - [ ] [聖騎士の追想 イゾルデ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13500)
-- [ ] 月鏡の盾
 - [ ] [コードブレイカー・ウイルスソードマン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15038)
 - [ ] [コードブレイカー・ウイルスバーサーカー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15037)
 - [ ] [コードブレイカー・ゼロデイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14988)
-− [ ] リンクリボー
-- [ ] 原始生命態ニビル
+− [ ] [リンクリボー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13346)
 ## 剛鬼
 ### 1枚
 - [ ] [剛鬼アイアン・クロー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14990)

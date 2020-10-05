@@ -58,6 +58,8 @@
 - [ ] [聖騎士の追想 イゾルデ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13500)
 - [ ] [鎖龍蛇－スカルデット](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13419)
 - [ ] [アップデートジャマー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14122)
+- [ ] デリンジャラス・ドラゴン
+- [ ] トラックブラック
 ## ほしい魔法
 - [ ] [トレード・イン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7248)
 - [ ] [ダーク・オカルティズム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14584)

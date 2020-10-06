@@ -29,9 +29,9 @@
 - [ ] [矮星竜 プラネター](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11865)
 ## ほしい融合
 - [ ] [ヴァレルロード・F・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14625)
-- [ ] [超魔導師－ブラック・マジシャンズ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14905)
-- [ ] [F・G・D](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5502)
 - [ ] [グリーディー・ヴェノム・フュージョン・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12836)
+- [ ] [F・G・D](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5502)
+- [ ] [超魔導師－ブラック・マジシャンズ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14905)
 ## ほしいS
 - [ ] [アームズ・エイド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7987)
 - [ ] [クリアウィング・シンクロ・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11721)
@@ -39,22 +39,22 @@
 ## ほしいX
 - [ ] [インヴェルズ・ローチ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9612)
 - [ ] [神騎セイントレア](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11572)
-- [ ] [わくわくメルフィーズ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15523)
 - [ ] [LL－アセンブリー・ナイチンゲール](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12957)
+- [ ] [わくわくメルフィーズ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15523)
 ## ほしいL
-- [ ] [サクリファイス・アニマ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13841)
-- [ ] [スリーバーストショット・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13415)
-- [ ] [リンク・スパイダー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13034)
-- [ ] [マズルフラッシュ・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13838)
-- [ ] [鎖龍蛇－スカルデット](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13419)
 - [ ] [アップデートジャマー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14122)
+- [ ] [サクリファイス・アニマ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13841)
+- [ ] [鎖龍蛇－スカルデット](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13419)
+- [ ] [スリーバーストショット・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13415)
 - [ ] [デリンジャラス・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14291)
 - [ ] [トラックブラック](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14438)
+- [ ] [マズルフラッシュ・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13838)
+- [ ] [リンク・スパイダー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13034)
 ## ほしい魔法
-- [ ] [トレード・イン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7248)
 - [ ] [ダーク・オカルティズム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14584)
+- [ ] [ドン・サウザンドの契約](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13005)*2
+- [ ] [トレード・イン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7248)
 - [ ] [煉獄の災天](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15051)
-- [ ] [ドン・サウザンドの契約](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13005)
 ## ほしい罠
 - [ ] [拮抗勝負](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13293)
 - [ ] [レッド・リブート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13622)

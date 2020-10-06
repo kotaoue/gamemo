@@ -7,35 +7,25 @@
 - [ ] [ダウンビート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13434)*2
 
 - [ ] [I：Pマスカレーナ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14676)
-- [ ] [双穹の騎士アストラム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14297)
 - [ ] [聖騎士の追想 イゾルデ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13500)
+- [ ] [双穹の騎士アストラム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14297)
 - [ ] [リンクリボー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13346)
-## 剛鬼
-### 1枚
-- [ ] [剛鬼アイアン・クロー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14990)
-- [ ] [剛鬼デストロイ・オーガ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13344)
-- [ ] [剛鬼ハッグベア](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13565)
-- [ ] [剛鬼マンジロック](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13564)
-- [ ] [剛鬼死闘](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13515)
-- [ ] [剛鬼フィニッシュホールド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14789)
-### ２枚
-- [ ] [剛鬼ライジングスコーピオ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13050)
 ## ほしい高レア
 - [ ] [Live☆Twin リィラ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15625)*2
 - [ ] [Evil★Twin チャレンジ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15632)
 ## ほしい通常
 - [ ] [真紅眼の黒竜](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4088) ANNIVERSARY PACK
 ## ほしい効果
-- [ ] [レディ・デバッガー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13522)
-- [ ] [バックアップ・セクレタリー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13041)
-- [ ] [夢幻崩界イヴリース](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13571)
 - [ ] [闇黒の魔王ディアボロス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13683)
-- [ ] [ダークネス・ネオスフィア](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8537)
 - [ ] [ヴァレット・シンクロン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14084)
-- [ ] [幻創龍ファンタズメイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14097)
+- [ ] [剛鬼ライジングスコーピオ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13050)
 - [ ] [始原竜プライマル・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14950)
-- [ ] [素早いビーバー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13256)
+- [ ] [ダークネス・ネオスフィア](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8537)
+- [ ] [夢幻崩界イヴリース](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13571)
+- [ ] [バックアップ・セクレタリー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13041)
+- [ ] [幻創龍ファンタズメイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14097)
 - [ ] [ネオ・カイザー・グライダー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14370)
+- [ ] [レディ・デバッガー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13522)
 - [ ] [矮星竜 プラネター](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11865)
 ## ほしい融合
 - [ ] [ヴァレルロード・F・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14625)
@@ -43,9 +33,9 @@
 - [ ] [F・G・D](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5502)
 - [ ] [グリーディー・ヴェノム・フュージョン・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12836)
 ## ほしいS
+- [ ] [アームズ・エイド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7987)
 - [ ] [クリアウィング・シンクロ・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11721)
 - [ ] [ダーク・ダイブ・ボンバー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8035)
-- [ ] [アームズ・エイド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7987)
 ## ほしいX
 - [ ] [インヴェルズ・ローチ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9612)
 - [ ] [神騎セイントレア](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11572)

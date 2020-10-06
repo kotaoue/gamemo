@@ -30,7 +30,7 @@
 - [ ] [剛鬼フィニッシュホールド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14789)
 - [ ] [剛鬼ライジングスコーピオ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13050)
 ### 3枚
-− [ ] [剛鬼ムーンサルト](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13719)
+- [ ] [剛鬼ムーンサルト](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13719)
 - [ ] [剛鬼ガッツ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14991)
 - [ ] [剛鬼再戦](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13093)
 ## ほしい高レア

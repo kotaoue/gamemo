@@ -1,7 +1,7 @@
 # 遊戯王 OCG欲しい物リスト
 
 ## デッキに入れたい
-− [ ] [剛鬼ムーンサルト](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13719)*2
+- [ ] [剛鬼ムーンサルト](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13719)*2
 - [ ] [剛鬼ガッツ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14991)*2
 - [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950)*2
 - [ ] [原始生命態ニビル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14741)
@@ -18,7 +18,7 @@
 - [ ] [コードブレイカー・ウイルスソードマン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15038)
 - [ ] [コードブレイカー・ウイルスバーサーカー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15037)
 - [ ] [コードブレイカー・ゼロデイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14988)
-− [ ] [リンクリボー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13346)
+- [ ] [リンクリボー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13346)
 ## 剛鬼
 ### 1枚
 - [ ] [剛鬼アイアン・クロー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14990)

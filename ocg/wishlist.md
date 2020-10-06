@@ -24,7 +24,7 @@
 - [ ] [剛鬼アイアン・クロー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14990)
 - [ ] [剛鬼デストロイ・オーガ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13344)
 - [ ] [剛鬼ハッグベア](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13565)
-− [ ] [剛鬼マンジロック](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13564)
+- [ ] [剛鬼マンジロック](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13564)
 - [ ] [剛鬼死闘](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13515)
 ### ２枚
 - [ ] [剛鬼フィニッシュホールド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14789)

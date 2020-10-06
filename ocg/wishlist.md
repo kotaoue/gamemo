@@ -1,8 +1,8 @@
 # 遊戯王 OCG欲しい物リスト
 
 ## デッキに入れたい
-- [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950)*2
 - [ ] [原始生命態ニビル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14741)
+- [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950)*2
 
 - [ ] [ダウンビート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13434)*2
 
@@ -57,5 +57,7 @@
 - [ ] [煉獄の災天](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15051)
 ## ほしい罠
 - [ ] [拮抗勝負](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13293)
+- [ ] [御前試合](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934)
+- [ ] [死力のタッグ・チェンジ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8994)
 - [ ] [レッド・リブート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13622)
 - [ ] [超古代生物の墓場](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8230)

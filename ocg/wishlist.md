@@ -4,11 +4,11 @@
 - [ ] [原始生命態ニビル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14741)
 - [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950)*2
 
-- [ ] [ダウンビート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13434)*2
+- [x] [ダウンビート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13434)*2
 
 - [ ] [I：Pマスカレーナ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14676)
-- [ ] [聖騎士の追想 イゾルデ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13500)
-- [ ] [双穹の騎士アストラム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14297)
+- [x] [聖騎士の追想 イゾルデ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13500)
+- [x] [双穹の騎士アストラム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14297)
 - [ ] [リンクリボー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13346)
 ## ほしい高レア
 - [ ] [Live☆Twin リィラ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15625)*2

@@ -7,8 +7,6 @@
 - [x] [ダウンビート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13434)*2
 
 - [ ] [I：Pマスカレーナ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14676)
-- [x] [聖騎士の追想 イゾルデ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13500)
-- [x] [双穹の騎士アストラム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14297)
 - [ ] [リンクリボー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13346)
 ## ほしい高レア
 - [ ] [Live☆Twin リィラ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15625)*2
@@ -52,12 +50,11 @@
 - [ ] [リンク・スパイダー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13034)
 ## ほしい魔法
 - [ ] [ダーク・オカルティズム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14584)
-- [ ] [ドン・サウザンドの契約](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13005)*2
 - [ ] [トレード・イン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7248)
 - [ ] [煉獄の災天](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15051)
 ## ほしい罠
-- [ ] [拮抗勝負](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13293)
-- [ ] [御前試合](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934)
-- [ ] [死力のタッグ・チェンジ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8994)
-- [ ] [レッド・リブート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13622)
-- [ ] [超古代生物の墓場](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8230)
+- [ ] [拮抗勝負](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13293)*3
+- [ ] [御前試合](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934)*2
+- [ ] [死力のタッグ・チェンジ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8994)*3
+- [ ] [レッド・リブート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13622)*2
+- [ ] [超古代生物の墓場](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8230)*2

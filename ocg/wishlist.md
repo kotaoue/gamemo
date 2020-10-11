@@ -4,12 +4,10 @@
 - [ ] [原始生命態ニビル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14741)
 - [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950)*2
 
-- [x] [ダウンビート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13434)*2
-
 - [x] [I：Pマスカレーナ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14676)
-- [ ] [リンクリボー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13346)
+- [ ] ヴァレルロード・ドラゴン
 ## ほしい高レア
-- [ ] [Live☆Twin リィラ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15625)*2
+- [x] [Live☆Twin リィラ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15625)*2
 - [ ] [Evil★Twin チャレンジ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15632)
 ## ほしい通常
 - [ ] [真紅眼の黒竜](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4088) ANNIVERSARY PACK
@@ -48,6 +46,7 @@
 - [ ] [トラックブラック](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14438)
 - [ ] [マズルフラッシュ・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13838)
 - [ ] [リンク・スパイダー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13034)
+- [ ] [リンクリボー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13346)
 ## ほしい魔法
 - [ ] [ダーク・オカルティズム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14584)
 - [ ] [トレード・イン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7248)

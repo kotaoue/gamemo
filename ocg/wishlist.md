@@ -6,6 +6,10 @@
 
 - [x] [I：Pマスカレーナ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14676)
 - [ ] [ヴァレルロード・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13258)
+
+- [ ] [海造賊－青髭の海技士](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15320)*3
+- [ ] [海造賊－キャプテン黒髭](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15079)*3
+- [ ] [海造賊－双翼のリュース号](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15322)*3
 ## ほしい高レア
 - [x] [Live☆Twin リィラ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15625)*2
 - [ ] [Evil★Twin チャレンジ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15632)

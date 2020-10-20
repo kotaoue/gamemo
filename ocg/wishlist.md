@@ -3,9 +3,19 @@
 ## デッキに入れたい
 - [ ] [原始生命態ニビル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14741)
 - [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950)*2
+- [ ] ジェネクス・ウンディーネ
+- [ ] ジェネクス・コントローラー
+
+- [ ] ヴァレルロード・S・ドラゴン
+
+- [ ] 餅カエル
+- [ ] バハムート・シャーク
+- [ ] SNo.39 希望皇ホープ・ザ・ライトニング
 
 - [x] [I：Pマスカレーナ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14676)
 - [ ] [ヴァレルロード・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13258)
+
+- [ ] 強欲で貪欲な壺
 
 ## ほしい高レア
 - [ ] [Evil★Twin チャレンジ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15632)

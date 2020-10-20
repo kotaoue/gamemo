@@ -12,16 +12,9 @@
 - [ ] [バハムート・シャーク](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10332)
 - [ ] [SNo.39 希望皇ホープ・ザ・ライトニング](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11766)
 
-- [x] [I：Pマスカレーナ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14676)
 - [ ] [ヴァレルロード・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13258)
 
 - [ ] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465)
-
-
-- [x] [I：Pマスカレーナ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14676)
-- [ ] [ヴァレルロード・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13258)
-
-- [ ] 強欲で貪欲な壺
 
 ## ほしい高レア
 - [ ] [Evil★Twin チャレンジ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15632)

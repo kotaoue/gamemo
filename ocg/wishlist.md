@@ -7,11 +7,7 @@
 - [x] [I：Pマスカレーナ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14676)
 - [ ] [ヴァレルロード・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13258)
 
-- [ ] [海造賊－青髭の海技士](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15320)*3
-- [ ] [海造賊－キャプテン黒髭](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15079)*3
-- [ ] [海造賊－双翼のリュース号](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15322)*3
 ## ほしい高レア
-- [x] [Live☆Twin リィラ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15625)*2
 - [ ] [Evil★Twin チャレンジ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15632)
 ## ほしい通常
 - [ ] [真紅眼の黒竜](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4088) ANNIVERSARY PACK
@@ -47,7 +43,6 @@
 - [ ] [鎖龍蛇－スカルデット](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13419)
 - [ ] [スリーバーストショット・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13415)
 - [ ] [デリンジャラス・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14291)
-- [ ] [トラックブラック](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14438)
 - [ ] [マズルフラッシュ・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13838)
 - [ ] [リンク・スパイダー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13034)
 - [ ] [リンクリボー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13346)

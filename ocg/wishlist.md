@@ -3,14 +3,20 @@
 ## デッキに入れたい
 - [ ] [原始生命態ニビル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14741)
 - [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950)*2
-- [ ] ジェネクス・ウンディーネ
-- [ ] ジェネクス・コントローラー
+- [ ] [ジェネクス・ウンディーネ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7808)
+- [ ] [ジェネクス・コントローラー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7807)
 
-- [ ] ヴァレルロード・S・ドラゴン
+- [ ] [ヴァレルロード・S・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14114)
 
-- [ ] 餅カエル
-- [ ] バハムート・シャーク
-- [ ] SNo.39 希望皇ホープ・ザ・ライトニング
+- [ ] [餅カエル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12642)
+- [ ] [バハムート・シャーク](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10332)
+- [ ] [SNo.39 希望皇ホープ・ザ・ライトニング](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11766)
+
+- [x] [I：Pマスカレーナ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14676)
+- [ ] [ヴァレルロード・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13258)
+
+- [ ] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465)
+
 
 - [x] [I：Pマスカレーナ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14676)
 - [ ] [ヴァレルロード・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13258)

@@ -57,6 +57,7 @@
 - [ ] [リンクリボー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13346)
 ## ほしい魔法
 - [ ] [ダーク・オカルティズム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14584)
+- [ ] [天声の服従](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5551)
 - [ ] [トレード・イン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7248)
 - [ ] [煉獄の災天](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15051)
 ## ほしい罠

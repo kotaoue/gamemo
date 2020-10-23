@@ -10,12 +10,8 @@
 - [x] [ヴァレルロード・S・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14114)
 - [x] [白闘気白鯨](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13145)
 
-- [x] [餅カエル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12642)
-- [x] [バハムート・シャーク](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10332)
 - [ ] [SNo.39 希望皇ホープ・ザ・ライトニング](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11766)
 
-- [x] [ヴァレルロード・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13258)
-- [ ] [転生炎獣アルミラージ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14338)
 - [ ] [トロイメア・フェニックス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13600)
 
 - [ ] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465)

@@ -3,16 +3,20 @@
 ## デッキに入れたい
 - [ ] [原始生命態ニビル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14741)
 - [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950)*2
-- [ ] [ジェネクス・ウンディーネ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7808)
-- [ ] [ジェネクス・コントローラー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7807)
+- [x] [ジェネクス・ウンディーネ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7808)
+- [x] [ジェネクス・コントローラー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7807)
+- [ ] エフェクト・ヴェーラー
 
-- [ ] [ヴァレルロード・S・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14114)
+- [x] [ヴァレルロード・S・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14114)
+- [x] 白闘気白鯨
 
-- [ ] [餅カエル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12642)
-- [ ] [バハムート・シャーク](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10332)
+- [x] [餅カエル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12642)
+- [x] [バハムート・シャーク](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10332)
 - [ ] [SNo.39 希望皇ホープ・ザ・ライトニング](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11766)
 
-- [ ] [ヴァレルロード・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13258)
+- [x] [ヴァレルロード・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13258)
+- [ ] 転生炎獣アルミラージ
+- [ ] トロイメア・フェニックス
 
 - [ ] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465)
 

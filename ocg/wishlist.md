@@ -8,7 +8,7 @@
 - [ ] [エフェクト・ヴェーラー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8933)
 
 - [x] [ヴァレルロード・S・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14114)
-- [x] [白闘気白鯨](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13145)
+- [ ] [白闘気白鯨](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13145)
 
 - [ ] [SNo.39 希望皇ホープ・ザ・ライトニング](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11766)
 

@@ -3,21 +3,11 @@
 ## デッキに入れたい
 - [ ] [原始生命態ニビル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14741)
 - [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950)*2
-- [x] [ジェネクス・ウンディーネ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7808)
-- [x] [ジェネクス・コントローラー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7807)
-- [ ] [エフェクト・ヴェーラー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8933)
-
-- [x] [ヴァレルロード・S・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14114)
-- [ ] [白闘気白鯨](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13145)
-
-- [ ] [SNo.39 希望皇ホープ・ザ・ライトニング](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11766)
 
 - [ ] [トロイメア・フェニックス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13600)
 
 - [ ] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465)
 
-## ほしい高レア
-- [ ] [Evil★Twin チャレンジ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15632)
 ## ほしい通常
 - [ ] [真紅眼の黒竜](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4088) ANNIVERSARY PACK
 ## ほしい効果
@@ -26,9 +16,7 @@
 - [ ] [剛鬼ライジングスコーピオ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13050)
 - [ ] [始原竜プライマル・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14950)
 - [ ] [ダークネス・ネオスフィア](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8537)
-- [ ] [夢幻崩界イヴリース](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13571)
 - [ ] [バックアップ・セクレタリー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13041)
-- [ ] [幻創龍ファンタズメイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14097)
 - [ ] [ネオ・カイザー・グライダー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14370)
 - [ ] [レディ・デバッガー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13522)
 - [ ] [矮星竜 プラネター](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11865)

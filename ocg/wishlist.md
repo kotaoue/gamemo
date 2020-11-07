@@ -2,18 +2,18 @@
 
 ## デッキに入れたい
 - [ ] [原始生命態ニビル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14741)
-- [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950)*2
+- [ ] [魔サイの戦士](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11664)
 - [ ] [屋敷わらし](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13587)
 
 - [ ] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465)
 - [ ] [貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6511)
-
+## ほしい高レア
+- [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950) 通常絵 シク
 ## ほしい通常
 - [ ] [真紅眼の黒竜](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4088) ANNIVERSARY PACK
 ## ほしい効果
 - [ ] [闇黒の魔王ディアボロス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13683)
 - [ ] [ヴァレット・シンクロン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14084)
-- [ ] [剛鬼ライジングスコーピオ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13050)
 - [ ] [始原竜プライマル・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14950)
 - [ ] [ダークネス・ネオスフィア](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8537)
 - [ ] [バックアップ・セクレタリー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13041)

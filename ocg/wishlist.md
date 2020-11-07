@@ -3,10 +3,10 @@
 ## デッキに入れたい
 - [ ] [原始生命態ニビル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14741)
 - [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950)*2
-
-- [ ] [トロイメア・フェニックス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13600)
+- [ ] [屋敷わらし](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13587)
 
 - [ ] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465)
+- [ ] [貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6511)
 
 ## ほしい通常
 - [ ] [真紅眼の黒竜](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4088) ANNIVERSARY PACK
@@ -39,6 +39,7 @@
 - [ ] [サクリファイス・アニマ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13841)
 - [ ] [鎖龍蛇－スカルデット](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13419)
 - [ ] [スリーバーストショット・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13415)
+- [ ] [トロイメア・フェニックス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13600)
 - [ ] [デリンジャラス・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14291)
 - [ ] [マズルフラッシュ・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13838)
 - [ ] [リンク・スパイダー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13034)
@@ -53,4 +54,3 @@
 - [ ] [御前試合](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934)*2
 - [ ] [死力のタッグ・チェンジ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8994)*3
 - [ ] [レッド・リブート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13622)*2
-- [ ] [超古代生物の墓場](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8230)*2

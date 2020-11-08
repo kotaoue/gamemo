@@ -1,11 +1,10 @@
 # 遊戯王 OCG欲しい物リスト
 
 ## デッキに入れたい
-- [ ] [原始生命態ニビル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14741)
-- [ ] [魔サイの戦士](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11664)
-- [ ] [屋敷わらし](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13587)
-- [ ] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465)
-- [ ] [貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6511)*2
+- [ ] [屋敷わらし](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13587)*2
+- [ ] [禁じられた一滴](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15299)
+- [x] [貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6511)
+- [ ] [I：Pマスカレーナ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14676)
 ## ほしい高レア
 - [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950) 通常絵 シク
 ## ほしい通常
@@ -13,9 +12,11 @@
 ## ほしい効果
 - [ ] [闇黒の魔王ディアボロス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13683)
 - [ ] [ヴァレット・シンクロン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14084)
+- [ ] [原始生命態ニビル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14741)
 - [ ] [始原竜プライマル・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14950)
 - [ ] [ダークネス・ネオスフィア](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8537)
 - [ ] [バックアップ・セクレタリー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13041)
+- [ ] [魔サイの戦士](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11664)
 - [ ] [ネオ・カイザー・グライダー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14370)
 - [ ] [レディ・デバッガー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13522)
 - [ ] [矮星竜 プラネター](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11865)
@@ -44,9 +45,11 @@
 - [ ] [リンク・スパイダー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13034)
 - [ ] [リンクリボー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13346)
 ## ほしい魔法
-- [ ] [ダーク・オカルティズム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14584)
+- [ ] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465)*3
+- [ ] [ダーク・オカルティズム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14584)*3
 - [ ] [天声の服従](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5551)
 - [x] [トレード・イン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7248)
+- [ ] [貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6511)*2
 - [ ] [煉獄の災天](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15051)
 ## ほしい罠
 - [ ] [拮抗勝負](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13293)*3

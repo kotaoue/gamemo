@@ -1,7 +1,7 @@
 # 遊戯王 OCG欲しい物リスト
 
 ## デッキに入れたい
-- [ ] [屋敷わらし](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13587)*2
+- [x] [屋敷わらし](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13587)*2
 - [ ] [禁じられた一滴](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15299)
 - [x] [貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6511)
 - [ ] [I：Pマスカレーナ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14676)

@@ -4,9 +4,17 @@
 - [x] [屋敷わらし](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13587)*2
 - [ ] [禁じられた一滴](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15299)
 - [x] [貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6511)
-- [ ] [I：Pマスカレーナ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14676)
+- [x] [I：Pマスカレーナ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14676)
 ## ほしい高レア
-- [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950) 通常絵 シク
+- [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950) 通常絵 シク*3
+- [ ] [幽鬼うさぎ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11708) 通常絵 シク*2
+- [ ] [トーチ・ゴーレム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7386) UR
+- [ ] [手札抹殺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4821) シク or SR
+- [ ] [貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6511) UR
+- [ ] [抹殺の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14627) シク
+- [ ] [無限泡影](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13631) シク*2
+- [ ] [精神操作](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4817) シク*2
+- [ ] [神の宣告](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4861)
 ## ほしい通常
 - [ ] [真紅眼の黒竜](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4088) ANNIVERSARY PACK
 ## ほしい効果

@@ -9,7 +9,7 @@
 - [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950) 通常絵 シク*3
 - [ ] [幽鬼うさぎ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11708) 通常絵 シク*2
 - [ ] [トーチ・ゴーレム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7386) UR
-- [ ] [手札抹殺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4821) シク or SR
+- [x] [手札抹殺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4821) シク or SR
 - [ ] [貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6511) UR
 - [ ] [抹殺の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14627) シク
 - [ ] [無限泡影](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13631) シク*2

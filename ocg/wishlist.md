@@ -13,7 +13,7 @@
 - [ ] [抹殺の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14627) シク
 - [ ] [墓穴の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13619) シク
 - [ ] [無限泡影](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13631) シク*2
-- [ ] [コズミック・サイクロン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12464)
+- [ ] [コズミック・サイクロン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12464) シク
 - [ ] [精神操作](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4817) シク*2
 - [ ] [神の宣告](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4861) シク
 - [ ] [激流葬](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114) UR

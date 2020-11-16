@@ -8,11 +8,10 @@
 - [ ] [幽鬼うさぎ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11708) シク
 - [ ] [増殖するG](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9455) シク
 - [ ] [原始生命態ニビル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14741)
-- [x] [手札抹殺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4821) シク or SR
 - [ ] [貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6511) UR
 - [ ] [抹殺の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14627) シク
 - [ ] [墓穴の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13619) シク
-- [ ] [無限泡影](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13631) シク*2
+- [x] [無限泡影](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13631) シク*2
 - [ ] [コズミック・サイクロン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12464) シク
 - [ ] [精神操作](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4817) シク*2
 - [ ] [神の宣告](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4861) シク

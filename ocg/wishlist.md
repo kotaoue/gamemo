@@ -3,7 +3,7 @@
 ## デッキに入れたい
 ## ほしい高レア
 - [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950) 通常絵 シク*3
-- [ ] [トーチ・ゴーレム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7386) UR
+- [x] [トーチ・ゴーレム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7386) UR
 - [ ] [幽鬼うさぎ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11708) シク*2
 - [ ] [増殖するG](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9455) シク*3
 - [ ] [原始生命態ニビル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14741)

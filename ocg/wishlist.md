@@ -20,17 +20,12 @@
 ## ほしい効果
 - [ ] [闇黒の魔王ディアボロス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13683)
 - [ ] [ヴァレット・シンクロン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14084)
-- [ ] [原始生命態ニビル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14741)
-- [ ] [始原竜プライマル・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14950)
 - [ ] [ダークネス・ネオスフィア](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8537)
 - [ ] [バックアップ・セクレタリー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13041)
 - [ ] [魔サイの戦士](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11664)
-- [ ] [ネオ・カイザー・グライダー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14370)
 - [ ] [レディ・デバッガー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13522)
-- [ ] [矮星竜 プラネター](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11865)
 ## ほしい融合
 - [ ] [ヴァレルロード・F・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14625)
-- [ ] [F・G・D](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5502)
 - [ ] [超魔導師－ブラック・マジシャンズ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14905)
 ## ほしいS
 - [ ] [アームズ・エイド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7987)

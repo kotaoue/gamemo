@@ -30,7 +30,6 @@
 - [ ] [矮星竜 プラネター](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11865)
 ## ほしい融合
 - [ ] [ヴァレルロード・F・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14625)
-- [ ] [グリーディー・ヴェノム・フュージョン・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12836)
 - [ ] [F・G・D](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5502)
 - [ ] [超魔導師－ブラック・マジシャンズ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14905)
 ## ほしいS
@@ -40,27 +39,20 @@
 ## ほしいX
 - [ ] [インヴェルズ・ローチ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9612)
 - [ ] [神騎セイントレア](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11572)
-- [ ] [LL－アセンブリー・ナイチンゲール](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12957)
-- [ ] [わくわくメルフィーズ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15523)
 ## ほしいL
 - [ ] [アップデートジャマー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14122)
 - [ ] [サクリファイス・アニマ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13841)
 - [ ] [鎖龍蛇－スカルデット](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13419)
 - [ ] [スリーバーストショット・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13415)
-- [ ] [トロイメア・フェニックス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13600)
 - [ ] [デリンジャラス・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14291)
 - [ ] [マズルフラッシュ・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13838)
-- [ ] [リンク・スパイダー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13034)
 - [ ] [リンクリボー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13346)
 ## ほしい魔法
 - [ ] [禁じられた一滴](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15299)
-- [ ] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465)*3
 - [ ] [ダーク・オカルティズム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14584)*3
 - [ ] [天声の服従](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5551)
-- [ ] [貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6511)*2
 - [ ] [煉獄の災天](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15051)
 ## ほしい罠
 - [ ] [拮抗勝負](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13293)*3
 - [ ] [御前試合](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934)*2
-- [ ] [死力のタッグ・チェンジ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8994)*3
 - [ ] [レッド・リブート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13622)*2

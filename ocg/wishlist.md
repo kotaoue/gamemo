@@ -6,8 +6,7 @@
 - [x] [幽鬼うさぎ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11708) シク*2
 - [ ] [増殖するG](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9455) シク*3
 - [ ] [原始生命態ニビル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14741)
-- [x] [墓穴の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13619) シク*2
-- [x] [精神操作](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4817) シク*2
+- [x] [精神操作](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4817) シク*1
 - [ ] [神の宣告](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4861) シク*2
 - [ ] [激流葬](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114) UR
 - [ ] [虚無空間](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9153) シク

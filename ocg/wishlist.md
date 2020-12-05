@@ -10,7 +10,7 @@
 - [ ] [虚無空間](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9153) シク
 - [ ] [アクセスコード・トーカー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15032) シク
 - [ ] [I：Pマスカレーナ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14676) シク
-- [ ] [閉ザサレシ世界ノ冥神](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15741) シク
+- [x] [閉ザサレシ世界ノ冥神](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15741) シク
 ## ほしい通常
 - [ ] [真紅眼の黒竜](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4088) ANNIVERSARY PACK
 ## ほしい効果

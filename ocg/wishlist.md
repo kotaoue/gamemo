@@ -3,7 +3,6 @@
 ## デッキに入れたい
 ## ほしい高レア
 - [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950) 通常絵 シク*3
-- [x] [増殖するG](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9455) シク*2
 - [x] [原始生命態ニビル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14741) シク*2
 - [ ] [神の宣告](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4861) シク*1
 - [ ] [激流葬](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114) UR
@@ -11,7 +10,6 @@
 - [ ] [アクセスコード・トーカー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15032) シク
 - [ ] [I：Pマスカレーナ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14676) シク
 - [x] [破械雙王神ライゴウ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14672) シク
-- [x] [閉ザサレシ世界ノ冥神](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15741) シク
 ## ほしい通常
 - [ ] [真紅眼の黒竜](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4088) ANNIVERSARY PACK
 ## ほしい効果

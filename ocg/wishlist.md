@@ -1,14 +1,27 @@
 # 遊戯王 OCG欲しい物リスト
 
 ## デッキに入れたい
-- [ ] デスペラード・リボルバー・ドラゴン
-- [ ] パワー・ボンド
-- [ ] リミッター解除
-- [ ] 天龍雪獄
-- [ ] 巨神封じの矢
-- [ ] ペアサイクロイド
-- [ ] ユニオン・キャリアー
-- [ ] 警衛バリケイドベルグ
+- [ ] [ワイト](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4030) *3
+- [ ] [ワイトキング](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6341) *3
+- [ ] [ワイトベイキング](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15726) *3
+- [ ] [ワイトプリンス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11256) *3
+- [ ] [ワイトプリンセス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12768) *3
+- [ ] [ワイト夫人](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7611) *3
+- [ ] [ワイトメア](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9112) *2
+- [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950)
+- [ ] [屋敷わらし](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13587)
+- [ ] [リンクリボー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13346) *2
+- [ ] [I：Pマスカレーナ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14676)
+- [ ] [ライトロード・ドミニオン キュリオス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13492)
+- [ ] [彼岸の旅人 ダンテ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11320)
+- [ ] [デスペラード・リボルバー・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13473)
+- [ ] [パワー・ボンド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6398)
+- [ ] [リミッター解除](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5129)
+- [ ] [天龍雪獄](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15313)
+- [ ] [巨神封じの矢](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15065)
+- [ ] [ペアサイクロイド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11164)
+- [ ] [ユニオン・キャリアー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14932)
+- [ ] [警衛バリケイドベルグ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14710)
 ## ほしい高レア
 - [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950) 通常絵 シク*3
 - [ ] [激流葬](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114) UR

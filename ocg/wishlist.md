@@ -4,8 +4,7 @@
 - [x] [ワイト](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4030) *3
 - [x] [ワイトキング](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6341) *3
 - [x] [ワイトベイキング](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15726) *2
-- [x] [ワイトプリンス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11256) *3
-- [x] [ワイトプリンセス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12768) *3
+- [x] [ワイトプリンス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11256) *2
 - [x] [ワイト夫人](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7611) *3
 - [x] [ワイトメア](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9112) *2
 - [x] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950)

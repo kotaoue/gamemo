@@ -1,18 +1,7 @@
 # 遊戯王 OCG欲しい物リスト
 
 ## デッキに入れたい
-- [x] [ワイト](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4030) *3
-- [x] [ワイトキング](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6341) *3
 - [x] [ワイトベイキング](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15726) *2
-- [x] [ワイトプリンス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11256) *2
-- [x] [ワイト夫人](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7611) *3
-- [x] [ワイトメア](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9112) *2
-- [x] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950)
-- [x] [屋敷わらし](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13587)
-- [x] [リンクリボー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13346) *2
-- [x] [I：Pマスカレーナ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14676)
-- [x] [ライトロード・ドミニオン キュリオス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13492)
-- [x] [彼岸の旅人 ダンテ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11320)
 - [ ] [デスペラード・リボルバー・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13473)
 - [ ] [パワー・ボンド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6398)
 - [ ] [リミッター解除](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5129)
@@ -25,7 +14,6 @@
 - [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950) 通常絵 シク*2
 - [ ] [激流葬](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114) UR
 - [ ] [虚無空間](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9153) シク
-- [x] [I：Pマスカレーナ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14676) シク
 ## ほしい通常
 - [ ] [真紅眼の黒竜](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4088) ANNIVERSARY PACK
 ## ほしい効果

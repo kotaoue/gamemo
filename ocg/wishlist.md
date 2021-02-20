@@ -1,7 +1,6 @@
 # 遊戯王 OCG欲しい物リスト
 
 ## デッキに入れたい
-- [x] [ワイトベイキング](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15726) *2
 ## ほしい高レア
 - [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950) 通常絵 シク*2
 - [ ] [サイバネット・マイニング](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14301) *3

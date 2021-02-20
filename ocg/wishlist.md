@@ -4,6 +4,7 @@
 - [x] [ワイトベイキング](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15726) *2
 ## ほしい高レア
 - [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950) 通常絵 シク*2
+- [ ] [サイバネット・マイニング](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14301) *3
 - [ ] [激流葬](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114) UR
 - [ ] [虚無空間](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9153) シク
 ## ほしい通常

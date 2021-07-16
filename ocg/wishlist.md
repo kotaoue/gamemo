@@ -2,35 +2,21 @@
 
 ## デッキに入れたい
 希望皇アストラル・ホープ
-- [] [アストラル・クリボー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16636)
-- [x] [ZS－武装賢者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15963)
-- [x] [ZS－昇華賢者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15964)
-- [x] [ZW－天馬双翼剣](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15962)
+- [] [アストラル・クリボー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16636) * 3
+- [x] [ZS－昇華賢者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15964) * 1
 - [x] [召喚僧サモンプリースト](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6400)
-- [x] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950)
-- [x] [増殖するG](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9455)
-- [x] [希望の記憶](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14348)
-- [x] [シャイニング・ドロー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14222)
-- [x] [ゼアル・フィールド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16468)
-- [x] [ダブル・アップ・チャンス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9663)
-- [x] [RUM－ゼアル・フォース](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16011)
-- [x] [HRUM－ユートピア・フォース](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16473)
-- [x] [ギャラクシー・サイクロン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11737)
-- [x] [増援](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5328)
-- [ ] [抹殺の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14627)
+- [x] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950) * 3
+- [x] [増殖するG](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9455) * 2
+- [x] [ギャラクシー・サイクロン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11737) * 2
+- [ ] [抹殺の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14627) * 2
 - [ ] [墓穴の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13619)
-- [x] [No.39 希望皇ホープ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9575)
-- [x] [No.39 希望皇ホープ・ダブル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14220)
+- [x] [No.39 希望皇ホープ・ダブル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14220) * 2
 - [ ] [CNo.39 希望皇ホープレイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9914)
 - [x] [獣装合体 ライオ・ホープレイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16421)
-- [x] [竜装合体 ドラゴニック・ホープレイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16000)
-- [x] [ZW－獣王獅子武装](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10406)
 - [ ] [ZW－弩級兵装竜王戟](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16001)
-- [x] [ZS－希望賢者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16472)
-- [x] [No.99 希望皇龍ホープドラグーン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11305)
-- [x] [No.99 希望皇ホープドラグナー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16471)
+- [x] [No.99 希望皇ホープドラグナー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16471) * 2
 - [ ] [No.38 希望魁竜タイタニック・ギャラクシー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12260)
-- [ ] [No.41 泥睡魔獣バグースカ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13163)
+- [x] [No.41 泥睡魔獣バグースカ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13163)
 - [ ] [天霆號アーゼウス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15524)
 - [ ] [森羅の姫芽宮](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12027)
 ## ほしい高レア

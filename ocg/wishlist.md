@@ -34,8 +34,6 @@
 - [ ] [天霆號アーゼウス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15524)
 - [ ] [森羅の姫芽宮](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12027)
 ## ほしい高レア
-- [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950) 通常絵 シク*2
-- [x] [サイバネット・マイニング](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14301) *3
 - [ ] [激流葬](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114) UR
 - [ ] [虚無空間](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9153) シク
 ## ほしい通常

@@ -2,7 +2,7 @@
 
 ## デッキに入れたい
 希望皇アストラル・ホープ
-- [ ] [アストラル・クリボー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16636) * 3
+- [x] [アストラル・クリボー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16636) * 3
 - [x] [ZS－昇華賢者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15964) * 1
 - [x] [召喚僧サモンプリースト](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6400)
 - [x] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950) * 3
@@ -10,11 +10,11 @@
 - [ ] [抹殺の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14627) * 2
 - [ ] [墓穴の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13619)
 - [ ] [CNo.39 希望皇ホープレイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9914)
-- [ ] [ZW－弩級兵装竜王戟](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16001)
+- [x] [ZW－弩級兵装竜王戟](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16001)
 - [x] [No.99 希望皇ホープドラグナー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16471) * 2
-- [ ] [No.38 希望魁竜タイタニック・ギャラクシー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12260)
-- [ ] [No.90 銀河眼の光子卿](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13826)
-- [ ] [天霆號アーゼウス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15524)
+- [x] [No.38 希望魁竜タイタニック・ギャラクシー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12260)
+- [x] [No.90 銀河眼の光子卿](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13826)
+- [x] [天霆號アーゼウス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15524)
 - [ ] [森羅の姫芽宮](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12027)
 ## ほしい高レア
 - [ ] [激流葬](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114) UR

@@ -7,8 +7,8 @@
 - [x] [召喚僧サモンプリースト](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6400)
 - [x] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950) * 3
 - [x] [ギャラクシー・サイクロン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11737) * 2
-- [ ] [抹殺の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14627) * 2
-- [ ] [墓穴の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13619)
+- [x] [抹殺の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14627)
+- [x] [墓穴の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13619)
 - [ ] [CNo.39 希望皇ホープレイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9914)
 - [x] [ZW－弩級兵装竜王戟](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16001)
 - [x] [No.99 希望皇ホープドラグナー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16471) * 2

@@ -5,9 +5,6 @@
 - [x] [ギャラクシー・サイクロン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11737) * 2
 - [x] [抹殺の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14627)
 - [x] [墓穴の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13619)
-- [x] [CNo.39 希望皇ホープレイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9914)
-- [x] [ZW－弩級兵装竜王戟](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16001)
-- [x] [天霆號アーゼウス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15524)
 - [ ] [森羅の姫芽宮](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12027)
 ## ほしい高レア
 - [ ] [激流葬](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114) UR

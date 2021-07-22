@@ -28,7 +28,7 @@
 - [ ] [クリアウィング・シンクロ・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11721)
 - [ ] [ダーク・ダイブ・ボンバー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8035)
 ## ほしいX
-- [ ] [インヴェルズ・ローチ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9612)
+- [x] [インヴェルズ・ローチ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9612)
 - [ ] [神騎セイントレア](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11572)
 ## ほしいL
 - [ ] [アップデートジャマー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14122)

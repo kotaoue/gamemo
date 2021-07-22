@@ -1,10 +1,13 @@
 # 遊戯王 OCG欲しい物リスト
 
 ## デッキに入れたい
-希望皇アストラル・ホープ
+- [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950) * 2
+- [ ] [増殖するG](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9455) * 3
+- [ ] [Live☆Twin トラブルサン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16251) * 1
 - [x] [ギャラクシー・サイクロン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11737) * 2
-- [x] [抹殺の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14627)
+- [x] [抹殺の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14627) * 2
 - [x] [墓穴の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13619)
+- [x] [大捕り物](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14328)
 - [ ] [森羅の姫芽宮](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12027)
 ## ほしい高レア
 - [ ] [激流葬](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114) UR

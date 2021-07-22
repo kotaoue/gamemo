@@ -1,8 +1,8 @@
 # 遊戯王 OCG欲しい物リスト
 
 ## デッキに入れたい
-- [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950) * 2
-- [ ] [増殖するG](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9455) * 3
+- [x] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950) * 2
+- [x] [増殖するG](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9455) * 3
 - [ ] [Live☆Twin トラブルサン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16251) * 1
 - [x] [ギャラクシー・サイクロン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11737) * 2
 - [x] [抹殺の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14627) * 2

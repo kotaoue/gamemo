@@ -8,7 +8,7 @@
 - [x] [抹殺の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14627) * 2
 - [x] [墓穴の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13619)
 - [x] [大捕り物](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14328)
-- [ ] [森羅の姫芽宮](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12027)
+- [x] [激流葬](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114)
 ## ほしい高レア
 - [ ] [激流葬](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114) UR
 - [ ] [虚無空間](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9153) シク
@@ -33,6 +33,7 @@
 ## ほしいX
 - [x] [インヴェルズ・ローチ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9612)
 - [ ] [神騎セイントレア](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11572)
+- [ ] [森羅の姫芽宮](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12027)
 ## ほしいL
 - [ ] [アップデートジャマー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14122)
 - [ ] [警衛バリケイドベルグ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14710)

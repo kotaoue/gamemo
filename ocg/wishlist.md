@@ -6,7 +6,7 @@
 - [x] [Live☆Twin トラブルサン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16251) * 1
 - [x] [抹殺の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14627) * 2
 - [x] [激流葬](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114)
-- [ ] [闇の量産工場](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6129)
+- [x] [闇の量産工場](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6129)
 - [ ] [悪魔への貢物](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8497)
 - [ ] [予想GUY](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11740)
 - [ ] [ダーク・リベリオン・エクシーズ・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11385)

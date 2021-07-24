@@ -34,7 +34,7 @@
 - [ ] [森羅の姫芽宮](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12027)
 - [ ] [セイクリッド・プレアデス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9824)
 - [ ] [旋壊のヴェスペネイト](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15281)
- [ ] [CX 激烈華戦艦タオヤメ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10717)
+- [ ] [CX 激烈華戦艦タオヤメ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10717)
 - [ ] [No.27 弩級戦艦－ドレッドノイド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13823)
 - [ ] [No.60 刻不知のデュガレス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14564)
 - [ ] [No.67 パラダイスマッシャー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13824)

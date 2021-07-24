@@ -8,9 +8,6 @@
 - [x] [激流葬](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114)
 - [x] [闇の量産工場](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6129) * 2
 - [ ] [悪魔への貢物](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8497) * 2
-- [ ] [セイクリッド・プレアデス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9824)
-- [ ] [旋壊のヴェスペネイト](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15281)
-- [ ] [No.67 パラダイスマッシャー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13824)
 ## ほしい高レア
 - [ ] [激流葬](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114) UR
 - [ ] [虚無空間](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9153) シク
@@ -33,9 +30,17 @@
 - [ ] [クリアウィング・シンクロ・ドラゴン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11721)
 - [ ] [ダーク・ダイブ・ボンバー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8035)
 ## ほしいX
-- [x] [インヴェルズ・ローチ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9612)
 - [ ] [神騎セイントレア](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11572)
 - [ ] [森羅の姫芽宮](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12027)
+- [ ] [セイクリッド・プレアデス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9824)
+- [ ] [旋壊のヴェスペネイト](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15281)
+ [ ] [CX 激烈華戦艦タオヤメ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10717)
+- [ ] [No.27 弩級戦艦－ドレッドノイド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13823)
+- [ ] [No.60 刻不知のデュガレス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14564)
+- [ ] [No.67 パラダイスマッシャー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13824)
+- [ ] [No.85 クレイジー・ボックス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10707)
+- [ ] [超巨大空中宮殿ガンガリディア](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10718)
+- [x] [超次元ロボ ギャラクシー・デストロイヤー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10174)
 ## ほしいL
 - [ ] [アップデートジャマー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14122)
 - [ ] [警衛バリケイドベルグ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14710)

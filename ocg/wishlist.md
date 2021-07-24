@@ -10,7 +10,9 @@
 - [ ] [悪魔への貢物](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8497) * 2
 ## ほしい高レア
 - [ ] [激流葬](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114) UR
-- [ ] [虚無空間](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9153) シク
+- [ ] [虚無空間](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9153) SE
+- [ ] [禁じられた一滴](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15299) SE
+- [ ] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465) SE
 ## ほしい通常
 - [ ] [真紅眼の黒竜](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4088) ANNIVERSARY PACK
 ## ほしい効果
@@ -52,7 +54,6 @@
 - [ ] [ユニオン・キャリアー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14932)
 - [ ] [リンクリボー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13346)
 ## ほしい魔法
-- [ ] [禁じられた一滴](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15299)
 - [ ] [ダーク・オカルティズム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14584)*3
 - [ ] [天声の服従](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5551)
 - [ ] [パワー・ボンド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6398)

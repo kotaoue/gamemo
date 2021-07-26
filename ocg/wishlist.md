@@ -3,7 +3,7 @@
 ## デッキに入れたい
 - [x] [増殖するG](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9455) * 3
 - [x] [Live☆Twin トラブルサン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16251) * 1
-- [ ] [抹殺の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14627) * 3
+- [x] [抹殺の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14627) * 3
 - [x] [激流葬](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114)
 - [x] [闇の量産工場](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6129) * 2
 - [ ] [悪魔への貢物](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8497) * 2

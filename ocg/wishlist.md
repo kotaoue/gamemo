@@ -1,10 +1,8 @@
 # 遊戯王 OCG欲しい物リスト
 
 ## デッキに入れたい
-- [x] [増殖するG](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9455) * 3
 - [x] [抹殺の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14627) * 3
-- [x] [闇の量産工場](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6129) * 2
-- [ ] [悪魔への貢物](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8497) * 2
+- [x] [悪魔への貢物](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8497) * 2
 ## ほしい高レア
 - [ ] [禁じられた一滴](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15299) SE
 - [ ] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465) SE

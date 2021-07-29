@@ -5,7 +5,6 @@
 - [x] [悪魔への貢物](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8497) * 2
 - [ ] [D-HERO ダッシュガイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6753)
 - [ ] [D-HERO ディバインガイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12707)
-- [ ] [D-HERO デストロイフェニックスガイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16524)
 - [ ] [フュージョン・デステニー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14304)
 ## ほしい高レア
 - [ ] [禁じられた一滴](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15299) SE

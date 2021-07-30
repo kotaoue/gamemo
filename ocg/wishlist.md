@@ -2,16 +2,16 @@
 
 ## デッキに入れたい
 - [x] [抹殺の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14627) * 3
-- [x] [悪魔への貢物](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8497) * 2
 - [ ] [D-HERO ダッシュガイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6753)
 - [ ] [D-HERO ディバインガイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12707)
-- [ ] [フュージョン・デステニー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14304)
+- [x] [フュージョン・デステニー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14304)
 ## ほしい高レア
 - [ ] [禁じられた一滴](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15299) SE
 - [ ] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465) SE
 - [ ] [激流葬](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114) UR
 - [ ] [虚無空間](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9153) SE
 - [ ] [トロイメア・ユニコーン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13601) SE
+- [x] [フュージョン・デステニー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14304) SE
 - [ ] [捕食植物ヴェルテ・アナコンダ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14944) SE
 ## ほしい通常
 - [ ] [真紅眼の黒竜](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4088) ANNIVERSARY PACK

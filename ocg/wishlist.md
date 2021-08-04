@@ -1,8 +1,8 @@
 # 遊戯王 OCG欲しい物リスト
 
 ## デッキに入れたい
-- [ ] [D-HERO ダッシュガイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6753)
-- [ ] [D-HERO ディバインガイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12707)
+- [x] [D-HERO ダッシュガイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6753)
+- [x] [D-HERO ディバインガイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12707)
 - [x] [フュージョン・デステニー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14304)
 - [ ] [天霆號アーゼウス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15524)
 - [ ] [No.27 弩級戦艦－ドレッドノイド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13823)
@@ -14,7 +14,6 @@
 - [ ] [虚無空間](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9153) SE
 - [ ] [トロイメア・ユニコーン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13601) SE
 - [ ] [D-HERO デストロイフェニックスガイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16524) SE
-- [x] [フュージョン・デステニー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14304) SE
 - [ ] [捕食植物ヴェルテ・アナコンダ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14944) SE
 ## ほしい通常
 - [ ] [真紅眼の黒竜](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4088) ANNIVERSARY PACK

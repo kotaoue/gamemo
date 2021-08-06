@@ -1,7 +1,6 @@
 # 遊戯王 OCG欲しい物リスト
 
 ## デッキに入れたい
-- [x] [D-HERO ダッシュガイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6753)
 - [x] [D-HERO ディバインガイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12707)
 - [x] [天霆號アーゼウス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15524)
 - [ ] [No.27 弩級戦艦－ドレッドノイド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13823)

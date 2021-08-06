@@ -3,9 +3,9 @@
 ## デッキに入れたい
 - [x] [D-HERO ダッシュガイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6753)
 - [x] [D-HERO ディバインガイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12707)
-- [x] [フュージョン・デステニー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14304)
 - [ ] [天霆號アーゼウス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15524)
 - [ ] [No.27 弩級戦艦－ドレッドノイド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13823)
+- [ ] [Evil★Twin’s トラブル・サニー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16537)
 ## ほしい高レア
 - [ ] [エフェクト・ヴェーラー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8933) SE * 3
 - [ ] [禁じられた一滴](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15299) SE * 3

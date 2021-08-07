@@ -36,10 +36,10 @@
 - [ ] [神騎セイントレア](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11572)
 - [ ] [森羅の姫芽宮](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12027)
 - [ ] [セイクリッド・プレアデス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9824)
-- [x] [旋壊のヴェスペネイト](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15281)
+- [ ] [旋壊のヴェスペネイト](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15281)
 - [ ] [CX 激烈華戦艦タオヤメ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10717)
-- [x] [No.27 弩級戦艦－ドレッドノイド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13823)
-- [ ] [No.67 パラダイスマッシャー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13824)
+- [ ] [No.27 弩級戦艦－ドレッドノイド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13823)
+- [x] [No.67 パラダイスマッシャー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13824)
 - [ ] [No.85 クレイジー・ボックス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10707)
 - [ ] [超巨大空中宮殿ガンガリディア](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10718)
 ## ほしいL

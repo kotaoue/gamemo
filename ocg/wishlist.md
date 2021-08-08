@@ -6,15 +6,13 @@
 - [x] [天霆號アーゼウス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15524)
 - [x] [No.27 弩級戦艦－ドレッドノイド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13823)
 - [x] [シャーク・フォートレス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10529)
-- [x] [迅雷の騎士ガイアドラグーン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10069)
 - [x] [Evil★Twin’s トラブル・サニー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16537)
+- [ ] [ライトニング・ストーム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14876) SE*2
 ## ほしい高レア
 - [ ] [エフェクト・ヴェーラー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8933) SE*3
-- [ ] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465) SE
 - [ ] [激流葬](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114) UR
 - [ ] [虚無空間](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9153) SE
 - [ ] [トロイメア・ユニコーン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13601) SE
-- [ ] [D-HERO デストロイフェニックスガイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16524) SE
 - [ ] [捕食植物ヴェルテ・アナコンダ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14944) SE
 ## ほしい通常
 - [ ] [真紅眼の黒竜](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4088) ANNIVERSARY PACK
@@ -37,6 +35,7 @@
 ## ほしいX
 - [ ] [神騎セイントレア](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11572)
 - [ ] [森羅の姫芽宮](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12027)
+- [x] [迅雷の騎士ガイアドラグーン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10069)
 - [ ] [セイクリッド・プレアデス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9824)
 - [ ] [旋壊のヴェスペネイト](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15281)
 - [ ] [CX 激烈華戦艦タオヤメ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10717)
@@ -55,7 +54,6 @@
 ## ほしい魔法
 - [ ] [ダーク・オカルティズム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14584)*3
 - [ ] [天声の服従](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5551)
-- [ ] [パワー・ボンド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=6398)
 - [ ] [煉獄の災天](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15051)
 ## ほしい罠
 - [ ] [拮抗勝負](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13293)*3

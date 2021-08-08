@@ -1,14 +1,14 @@
 # 遊戯王 OCG欲しい物リスト
 
 ## デッキに入れたい
-- [ ] [禁じられた一滴](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15299) SE * 2
+- [x] [禁じられた一滴](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15299) SE*2
 - [x] [D-HERO ディバインガイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12707)
 - [x] [天霆號アーゼウス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15524)
-- [ ] [No.27 弩級戦艦－ドレッドノイド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13823)
-- [ ] [シャーク・フォートレス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10529)
+- [x] [No.27 弩級戦艦－ドレッドノイド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13823)
+- [x] [シャーク・フォートレス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10529)
 - [x] [Evil★Twin’s トラブル・サニー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16537)
 ## ほしい高レア
-- [ ] [エフェクト・ヴェーラー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8933) SE * 3
+- [ ] [エフェクト・ヴェーラー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8933) SE*3
 - [ ] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465) SE
 - [ ] [激流葬](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114) UR
 - [ ] [虚無空間](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9153) SE
@@ -39,7 +39,6 @@
 - [ ] [セイクリッド・プレアデス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9824)
 - [ ] [旋壊のヴェスペネイト](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15281)
 - [ ] [CX 激烈華戦艦タオヤメ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10717)
-- [ ] [No.27 弩級戦艦－ドレッドノイド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13823)
 - [x] [No.67 パラダイスマッシャー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13824)
 - [ ] [No.85 クレイジー・ボックス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10707)
 - [ ] [超巨大空中宮殿ガンガリディア](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10718)
@@ -60,7 +59,7 @@
 - [ ] [煉獄の災天](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15051)
 ## ほしい罠
 - [ ] [拮抗勝負](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13293)*3
-- [ ] [御前試合](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934)*2
+- [ ] [御前試合](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934)*1
 - [ ] [巨神封じの矢](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15065)
 - [ ] [天龍雪獄](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15313)
 - [ ] [レッド・リブート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13622)*2

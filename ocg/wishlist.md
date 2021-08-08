@@ -6,6 +6,7 @@
 - [x] [天霆號アーゼウス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15524)
 - [x] [No.27 弩級戦艦－ドレッドノイド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13823)
 - [x] [シャーク・フォートレス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10529)
+- [ ] [迅雷の騎士ガイアドラグーン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10069)
 - [x] [Evil★Twin’s トラブル・サニー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16537)
 ## ほしい高レア
 - [ ] [エフェクト・ヴェーラー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8933) SE*3

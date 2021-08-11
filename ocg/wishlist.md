@@ -1,18 +1,12 @@
 # 遊戯王 OCG欲しい物リスト
 
 ## デッキに入れたい
-- [x] [禁じられた一滴](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15299) SE*2
-- [x] [D-HERO ディバインガイ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12707)
-- [x] [天霆號アーゼウス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15524)
-- [x] [No.27 弩級戦艦－ドレッドノイド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13823)
-- [x] [シャーク・フォートレス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10529)
-- [x] [Evil★Twin’s トラブル・サニー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16537)
 - [ ] [ライトニング・ストーム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14876) SE*2
+- [ ] [トロイメア・ユニコーン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13601) SE
 ## ほしい高レア
 - [ ] [エフェクト・ヴェーラー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8933) SE*3
 - [ ] [激流葬](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114) UR
 - [ ] [虚無空間](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9153) SE
-- [ ] [トロイメア・ユニコーン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13601) SE
 - [ ] [捕食植物ヴェルテ・アナコンダ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14944) SE
 ## ほしい通常
 - [ ] [真紅眼の黒竜](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4088) ANNIVERSARY PACK
@@ -39,7 +33,7 @@
 - [ ] [セイクリッド・プレアデス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9824)
 - [ ] [旋壊のヴェスペネイト](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15281)
 - [ ] [CX 激烈華戦艦タオヤメ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10717)
-- [x] [No.67 パラダイスマッシャー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13824)
+- [ ] [No.67 パラダイスマッシャー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13824)
 - [ ] [No.85 クレイジー・ボックス](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10707)
 - [ ] [超巨大空中宮殿ガンガリディア](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10718)
 ## ほしいL

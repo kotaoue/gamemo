@@ -9,6 +9,7 @@
 - [ ] [激流葬](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114) UR
 - [ ] [虚無空間](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=9153) SE
 - [ ] [捕食植物ヴェルテ・アナコンダ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14944) SE
+- [ ] [レッド・リブート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13622) SE
 ## ほしい通常
 - [ ] [真紅眼の黒竜](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4088) ANNIVERSARY PACK
 ## ほしい効果
@@ -55,4 +56,3 @@
 - [ ] [御前試合](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934)*1
 - [ ] [巨神封じの矢](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15065)
 - [ ] [天龍雪獄](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15313)
-- [ ] [レッド・リブート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13622)*2

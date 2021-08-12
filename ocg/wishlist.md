@@ -3,6 +3,7 @@
 ## デッキに入れたい
 - [x] [ライトニング・ストーム](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14876) SE*2
 - [x] [トロイメア・ユニコーン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13601) SE
+- [ ] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465) SE*2
 ## ほしい高レア
 - [ ] [エフェクト・ヴェーラー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8933) SE*3
 - [ ] [激流葬](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114) UR

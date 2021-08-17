@@ -1,7 +1,23 @@
 # 遊戯王 OCG欲しい物リスト
 
 ## デッキに入れたい
-- [ ] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465) SE
+- [x] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465) SE
+- [ ] [紅蓮魔獣 ダ・イーザ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5834) *3
+- [ ] [機巧蛇－叢雲遠呂智](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14480) *3
+- [ ] [百万喰らいのグラットン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12767) *2
+- [ ] [天獄の王](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16516) *2
+- [ ] [怒炎壊獣ドゴラン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12038) *2
+- [ ] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950) *3
+- [ ] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465) *3
+- [ ] [強欲で金満な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14144) *3
+- [ ] [金満で謙虚な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15756) *3
+- [ ] [スモール・ワールド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16555) *3
+- [x] [王宮の勅命](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4960)
+- [ ] [神の宣告](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4861) *2
+- [ ] [センサー万別](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13447) *2
+- [ ] [巨神封じの矢](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15065) *3
+- [ ] [レッド・リブート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13622)
+- [ ] [トリックスター・リンカーネイション](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13107)
 ## ほしい高レア
 - [ ] [エフェクト・ヴェーラー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8933) SE*3
 - [ ] [激流葬](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5114) UR
@@ -50,5 +66,4 @@
 ## ほしい罠
 - [ ] [拮抗勝負](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13293)*3
 - [ ] [御前試合](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=7934)*1
-- [ ] [巨神封じの矢](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15065)
 - [ ] [天龍雪獄](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15313)

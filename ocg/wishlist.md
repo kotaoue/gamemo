@@ -7,12 +7,9 @@
 - [x] [百万喰らいのグラットン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12767) *2
 - [x] [天獄の王](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16516) *2
 - [x] [怒炎壊獣ドゴラン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12038) *2
-- [x] [灰流うらら](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12950) *3
 - [ ] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465) *3
-- [x] [スモール・ワールド](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=16555) *3
 - [ ] [神の宣告](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4861) *2
 - [ ] [センサー万別](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13447) *2
-- [x] [巨神封じの矢](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=15065) *3
 - [ ] [レッド・リブート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13622)
 - [ ] [トリックスター・リンカーネイション](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13107)
 ## ほしい高レア

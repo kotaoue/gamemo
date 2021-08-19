@@ -9,7 +9,7 @@
 - [x] [怒炎壊獣ドゴラン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12038) *2
 - [ ] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465) *3
 - [ ] [神の宣告](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4861) *2
-- [ ] [センサー万別](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13447) *2
+- [x] [センサー万別](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13447) *2
 - [ ] [レッド・リブート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13622)
 - [ ] [トリックスター・リンカーネイション](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13107)
 ## ほしい高レア

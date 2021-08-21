@@ -2,13 +2,11 @@
 
 ## デッキに入れたい
 - [x] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465) SE
-- [ ] [紅蓮魔獣 ダ・イーザ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5834) *3
-- [ ] [機巧蛇－叢雲遠呂智](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14480) *3
+- [x] [紅蓮魔獣 ダ・イーザ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5834) *3
+- [x] [機巧蛇－叢雲遠呂智](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14480) *3
 - [x] [百万喰らいのグラットン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12767) *2
-- [x] [怒炎壊獣ドゴラン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12038) *2
 - [ ] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465) *3
 - [ ] [神の宣告](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4861) *2
-- [x] [センサー万別](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13447) *2
 - [ ] [レッド・リブート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13622)
 - [x] [トリックスター・リンカーネイション](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13107)
 ## ほしい高レア

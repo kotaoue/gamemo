@@ -9,7 +9,7 @@
 - [ ] [抹殺の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14627) *2
 - [ ] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465) *3
 - [ ] [強欲で金満な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14144) *3
-- [ ] [ブレイクスルー・スキル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10437) *2
+- [x] [ブレイクスルー・スキル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10437) *2
 - [x] [神の宣告](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4861) *2
 - [x] [レッド・リブート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13622)
 - [x] [トリックスター・リンカーネイション](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13107)

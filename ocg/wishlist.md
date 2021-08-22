@@ -5,9 +5,13 @@
 - [x] [紅蓮魔獣 ダ・イーザ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=5834) *3
 - [x] [機巧蛇－叢雲遠呂智](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14480) *3
 - [x] [百万喰らいのグラットン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12767) *2
+- [ ] [墓穴の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13619) *2
+- [ ] [抹殺の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14627) *2
 - [ ] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465) *3
-- [ ] [神の宣告](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4861) *2
-- [ ] [レッド・リブート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13622)
+- [ ] [強欲で金満な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14144) *3
+- [ ] [ブレイクスルー・スキル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10437) *2
+- [x] [神の宣告](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4861) *2
+- [x] [レッド・リブート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13622)
 - [x] [トリックスター・リンカーネイション](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13107)
 ## ほしい高レア
 - [ ] [エフェクト・ヴェーラー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8933) SE*3

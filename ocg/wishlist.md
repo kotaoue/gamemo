@@ -7,7 +7,7 @@
 - [x] [百万喰らいのグラットン](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12767) *2
 - [ ] [墓穴の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13619) *2
 - [ ] [抹殺の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14627) *2
-- [ ] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465) *3
+- [x] [強欲で貪欲な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12465) *3
 - [ ] [強欲で金満な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14144) *3
 - [x] [ブレイクスルー・スキル](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=10437) *2
 - [x] [神の宣告](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4861) *2

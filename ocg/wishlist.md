@@ -3,7 +3,6 @@
 ## デッキに入れたい
 - [x] [機巧蛇－叢雲遠呂智](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14480) *3
 - [x] [墓穴の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13619) *2
-- [x] [強欲で金満な壺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14144) *3
 - [x] [レッド・リブート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13622)
 ## ほしい高レア
 - [ ] [エフェクト・ヴェーラー](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=8933) SE*3

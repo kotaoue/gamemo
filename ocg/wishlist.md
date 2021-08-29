@@ -1,7 +1,6 @@
 # 遊戯王 OCG欲しい物リスト
 
 ## デッキに入れたい
-- [x] [機巧蛇－叢雲遠呂智](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14480) *3
 - [x] [墓穴の指名者](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13619) *2
 - [x] [レッド・リブート](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13622)
 ## ほしい高レア

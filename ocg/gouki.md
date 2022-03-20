@@ -1,5 +1,6 @@
 # 【剛鬼】
-[レシピ Ver.1](https://twitter.com/kotaoue/status/1501546770198765575) - プラ4くらい
+* [最新レシピ](https://twitter.com/kotaoue/status/1505364646173155333) - プラ2〜1くらい
+* [レシピ Ver.1](https://twitter.com/kotaoue/status/1501546770198765575) - プラ4くらい
 
 ## Spec
 * 先行標準:パワーロード+ウイルスバーサーカー+マスカレーナ+ムーンサルト

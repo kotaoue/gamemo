@@ -3,13 +3,12 @@
 ```mermaid
 flowchart LR
     Web <-->|USB| Switch
-    Switch --->|HDMI| Monitor["モニター (外部出力なし)"]
+    Switch -->|HDMI| Monitor["モニター (外部出力なし)"]
     Switch -.->|3.5mm| ヘッドフォン["ヘッドフォン WH-1000XM3"]
     Web <-->|無線| MacBook
-    MacBook --->|DisplayPort| Monitor
-    MacBook -.->|3.5mm| Meeting{会議中}
-    Meeting -.->|Yes| イヤフォン["イヤフォン WI-1000XM2"]
-    Meeting -.->|No| ヘッドフォン
+    MacBook -->|DisplayPort| Monitor
+    MacBook -.->|3.5mm| イヤフォン["イヤフォン WI-1000XM2"]
+    MacBook -.->|3.5mm| ヘッドフォン
 ```
 
 ---
@@ -23,8 +22,13 @@ flowchart LR
     Web <-->|無線| MacBook
     MacBook --->|DisplayPort| Monitor
     MacBook -->|"ケーブル B"| Gadget[なんかすごいアイテム]
-    Gadget -->|"ケーブル C"| イヤフォン["イヤフォン WI-1000XM2"]
-    Gadget -->|"ケーブル D"| ヘッドフォン["ヘッドフォン WH-1000XM3"]
+    MacBook --->|なにか| 外付けカメラ
+    MacBook --->|なにか| 外付けマイク
+    Gadget -->|"3.5mm A"| イヤフォン["イヤフォン WI-1000XM2"]
+    Gadget -->|"3.5mm B"| ヘッドフォン["ヘッドフォン WH-1000XM3"]
+    style Gadget fill:#900,stroke:#f00,stroke-width:4px
+    style 外付けカメラ fill:#909
+    style 外付けマイク fill:#909
 ```
 
 ---

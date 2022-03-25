@@ -2,9 +2,9 @@
 ## current
 ```mermaid
 flowchart LR
-    Web <-->|USB| Switch
-    Switch -->|HDMI| Monitor["モニター (外部出力なし)"]
-    Switch -.->|3.5mm| ヘッドフォン["ヘッドフォン WH-1000XM3"]
+    Web <-->|有線| Game["Switch or PS4 or PC"]
+    Game -->|HDMI| Monitor["モニター (外部出力なし)"]
+    Game -.->|3.5mm| ヘッドフォン["ヘッドフォン WH-1000XM3"]
     Web <-->|無線| MacBook
     MacBook -->|DisplayPort| Monitor
     MacBook -.->|3.5mm| イヤフォン["イヤフォン WI-1000XM2"]
@@ -16,16 +16,16 @@ flowchart LR
 ## 理想
 ```mermaid
 flowchart LR
-    Web <-->|USB| Switch
-    Switch --->|HDMI| Monitor["モニター (外部出力なし)"]
-    Switch -->|"ケーブル A"| Gadget
+    Web <-->|有線| Game["Switch or PS4 or PC"]
+    Game --->|HDMI| Gadget
     Web <-->|無線| MacBook
-    MacBook --->|DisplayPort| Monitor
-    MacBook -->|"ケーブル B"| Gadget[なんかすごいアイテム]
-    MacBook --->|なにか| 外付けカメラ
-    MacBook --->|なにか| 外付けマイク
     Gadget -->|"3.5mm A"| イヤフォン["イヤフォン WI-1000XM2"]
     Gadget -->|"3.5mm B"| ヘッドフォン["ヘッドフォン WH-1000XM3"]
+    Gadget <-->|なにか| 外付けマイク
+    Gadget -->|HDMI| Monitor
+    MacBook --->|"Type-C -> DisplayPort"| Monitor["モニター (外部出力なし)"]
+    MacBook -->|"Type-c"| Gadget[なんかすごいアイテム]
+    MacBook <--->|"Type-c"| 外付けカメラ
     style Gadget fill:#900,stroke:#f00,stroke-width:4px
     style 外付けカメラ fill:#909
     style 外付けマイク fill:#909

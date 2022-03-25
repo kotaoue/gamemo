@@ -24,13 +24,20 @@ flowchart LR
     Gadget <-->|なにか| 外付けマイク
     Gadget -->|HDMI| Monitor
     MacBook --->|"Type-C -> DisplayPort"| Monitor["モニター (外部出力なし)"]
-    MacBook -->|"Type-c"| Gadget[なんかすごいアイテム]
+    MacBook -->|"Type-c"| Gadget[AVアンプ]
     MacBook <--->|"Type-c"| 外付けカメラ
     style Gadget fill:#900,stroke:#f00,stroke-width:4px
     style 外付けカメラ fill:#909
     style 外付けマイク fill:#909
 ```
 
+## メモ
+* AVアンプ HDMI Verにこだわらなければ中古でOK
+  * マランツはいいぞー
+* モニタのHDMI Ver調べる
+* HDMI分配の出力は相性問題ある
+* エアリア
+* キャプチャーボード ※パススルーじゃないと遅延する
 ---
 
 ## 変更したいポイント

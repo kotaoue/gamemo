@@ -1,6 +1,7 @@
 # @イグニスター
 
 ## Deployment
+### Play First
 1. アチチNS
 1. アチチ①ピカリ
 1. DインファントSS Aiランド

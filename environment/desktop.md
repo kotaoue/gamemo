@@ -1,56 +1,32 @@
 # デスク回りの設定
-## current
+## 環境
 ```mermaid
 flowchart LR
-    Web <-->|有線| Game["Switch or PS4 or PC"]
-    Game -->|HDMI| Monitor["モニター (外部出力なし)"]
-    Game -.->|3.5mm| ヘッドフォン["ヘッドフォン WH-1000XM3"]
     Web <-->|無線| MacBook
-    MacBook -->|DisplayPort| Monitor
-    MacBook -.->|3.5mm| イヤフォン["イヤフォン WI-1000XM2"]
-    MacBook -.->|3.5mm| ヘッドフォン
+    MacBook -->|Type-C| USBハブ
+    USBハブ -->|USB| DAC["Sound Blaster X4"]
+    USBハブ -->|USB| マイク["マイク T669"]
+    MacBook -->|HDMI| HDMI分配器
+    HDMI分配器 -->ゲーミングモニタ["ゲーミングモニタ(23.6) EX-LDGC242HT"]
+    MacBook -->|"HDMI(Type-C)"| PCモニタ["PCモニタ(23.8) VTF2401"]
+
+    ゲーミングモニタ -->|3.5mm| DAC
+    DAC -->|3.5mm| ヘッドホン["ヘッドホン ATH-AD500X"]
+    DAC -->|3.5mm| イヤフォン["イヤホン WI-1000XM2"]
+    
+    Web <-->|有線| Switch
+    Switch -->|HDMI| HDMI分配器
+
+    style モニタ fill:#00c
+    style ゲーミングモニタ fill:#00c
+    style PCモニタ fill:#00c
+
+    style 端末 fill:#060
+    style MacBook fill:#060
+    style Switch fill:#060
 ```
-
----
-
-## 理想
-```mermaid
-flowchart LR
-    Web <-->|有線| Game["Switch or PS4 or PC"]
-    Game --->|HDMI| Gadget
-    Web <-->|無線| MacBook
-    Gadget -->|"3.5mm A"| イヤフォン["イヤフォン WI-1000XM2"]
-    Gadget -->|"3.5mm B"| ヘッドフォン["ヘッドフォン WH-1000XM3"]
-    Gadget <-->|なにか| 外付けマイク
-    Gadget -->|HDMI| Monitor
-    MacBook --->|"Type-C -> DisplayPort"| Monitor["モニター (外部出力なし)"]
-    MacBook -->|"Type-c"| Gadget[AVアンプ]
-    MacBook <--->|"Type-c"| 外付けカメラ
-    style Gadget fill:#900,stroke:#f00,stroke-width:4px
-    style 外付けカメラ fill:#909
-    style 外付けマイク fill:#909
-```
-
-## メモ
-* AVアンプ HDMI Verにこだわらなければ中古でOK
-  * マランツはいいぞー
-* モニタのHDMI Ver調べる
-* HDMI分配の出力は相性問題ある
-* エアリア
-* キャプチャーボード ※パススルーじゃないと遅延する
----
-
 ## 変更したいポイント
 * 音回り
   * 3.5mmのつなぎ直しを減らしたい
-  * switch本体に3.5mm刺すのをやめたい
 * カメラ回り
   * 内蔵カメラから外付けカメラにしたい
-  * 外付けカメラにしたらマイクもほしい
-  * 照明を電球からLEDに変更したい
-
-## 現状ポイント
-* MacBookのUSBポートは、電源、キーボード
-* SwitchドックのUSBポートが有線LANで埋まってる
-* モニタからHDMIとかスピーカーは出力できない
-* デスク上の余剰スペースは15*25cmくらい

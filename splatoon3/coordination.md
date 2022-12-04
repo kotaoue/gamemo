@@ -3,7 +3,7 @@
 * 操作 4
 
 ## ブキ
-|名前|射程|ダメージ|必要P|サブ|スペ|重|エリア|ヤグラ|ホコ|アサリ|♡|
+|名前|射程|ダメージ|必要P|サブ|スペ|重量|エリア|ヤグラ|ホコ|アサリ|♡|
 |-|-|-|-|-|-|-|-|-|-|-|-|
 |もみじ|2.3|28|180|<img src="images/Torpedo.webp" width="32px" alt="トーピード" />|<img src="images/WaveBreaker.webp" width="32px" alt="ソナー" />|軽|○|○|○|○|★★★★|
 |シャーカー|2.4|28|200|<img src="images/BurstBomb.webp" width="32px" alt="クイボ" />|<img src="images/CrabTank.webp" width="32px" alt="カニ" />|軽|◎|○|○|◎|★★★★|

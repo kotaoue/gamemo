@@ -3,7 +3,7 @@
 * 操作 4
 
 ## ブキ
-|名前|射程|ダメージ|必要P|サブ|スペ|重量|<img src="images/SplatZone.png" width="32px" alt="エリア" />|<img src="images/TowerControl.png" width="32px" alt="ヤグラ" />|<img src="images/Rainmaker.png" width="32px" alt="ホコ" />|<img src="images/ClamBlitz.png" width="32px" alt="アサリ" />|♡|
+|名前|射程|ダメージ|必要P|サブ|スペ|重量|<img src="images/SplatZones.png" width="32px" alt="エリア" />|<img src="images/TowerControl.png" width="32px" alt="ヤグラ" />|<img src="images/Rainmaker.png" width="32px" alt="ホコ" />|<img src="images/ClamBlitz.png" width="32px" alt="アサリ" />|♡|
 |-|-|-|-|-|-|-|-|-|-|-|-|
 |もみじ|2.3|28|180|<img src="images/Torpedo.webp" width="32px" alt="トーピード" />|<img src="images/WaveBreaker.webp" width="32px" alt="ソナー" />|軽|○|○|○|○|★★★★|
 |シャーカー|2.4|28|200|<img src="images/BurstBomb.webp" width="32px" alt="クイボ" />|<img src="images/CrabTank.webp" width="32px" alt="カニ" />|軽|◎|○|○|◎|★★★★|

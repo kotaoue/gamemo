@@ -5,6 +5,7 @@
 ## ブキ
 |名前|射程|ダメージ|必要P|サブ|スペ|重量|エリア|ヤグラ|ホコ|アサリ|♡|
 |-|-|-|-|-|-|-|-|-|-|-|-|
+|金モデ|2.2|24|200|<img src="images/Sprinkler.webp" width="32px" alt="スプリンクラー" />|<img src="images/BooyahBomb.webp" width="32px" alt="ナイスダマ" />|軽|◯|△|△|◯|★★|
 |わかば|2.3|28|180|<img src="images/SplatBomb.webp" width="32px" alt="スプボ" />|<img src="images/BigBubbler.png" width="32px" alt="バリア" />|軽|○|◎|○|◎|★★★|
 |もみじ|2.3|28|180|<img src="images/Torpedo.webp" width="32px" alt="トーピード" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|軽|○|○|○|○|★★★★|
 |シャーカー|2.4|28|200|<img src="images/BurstBomb.webp" width="32px" alt="クイボ" />|<img src="images/CrabTank.webp" width="32px" alt="カニ" />|軽|◎|○|○|◎|★★★|

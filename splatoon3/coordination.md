@@ -17,7 +17,7 @@
 |弓|2.7<br>3.0<br>5.2|30\*3<br>35\*3 爆風28<br>35\*3 爆風28|200|<img src="images/Disruptor.webp" width="32px" alt="ポイズン" />|<img src="images/KillerWail5.1.webp" width="32px" alt="メガホン" />|中|△|△|△|△|★★★|
 |スプチャ|2.3<br>5.2<br>5.2|40<br>80<br>160|200|<img src="images/SplatBomb.webp" width="32px" alt="スプボ" />|<img src="images/InkVac.webp" width="32px" alt="キューイン" />|中|○|○|○|○|★|
 |オフロ|5.5|30\*4|190|<img src="images/Sprinkler.webp" width="32px" alt="スプリンクラー" />|<img src="images/InkStorm.webp" width="32px" alt="アメ" />|中|◎|○|◎|△|★★★★|
-|リッター|2.3<br>6.2<br>6.2|40<br>80<br>180|210|<img src="images/InkMine.png" width="32px" alt="トラップ" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|中|◯|◎|◯|○|★★★|
+|リッター|2.3<br>6.2<br>6.2|40<br>80<br>180|210|<img src="images/InkMine.png" width="32px" alt="トラップ" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|重|◯|◎|◯|○|★★★|
 
 - ♡ = 幸福度 = 練度 * 感じてる可能性 * モチベ
 ## コーデ

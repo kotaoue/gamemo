@@ -16,7 +16,7 @@
 |デュアル|3.5|28|200|<img src="images/SplatBomb.webp" width="32px" alt="スプボ" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|中|△|△|△|○|★|
 |ハイドラ|4.8|32<br>40|190|<img src="images/Autobomb.png" width="32px" alt="ロボム" />|<img src="images/BooyahBomb.png" width="32px" alt="ナイスダマ" />|重|△|○|○|△|★★|
 |オフロ|5.5|30\*4|190|<img src="images/Sprinkler.webp" width="32px" alt="スプリンクラー" />|<img src="images/InkStorm.webp" width="32px" alt="アメ" />|中|◎|○|◎|△|★★★★|
-|リッター|2.3<br>6.2<br>6.2|40<br>80<br>180|210|<img src="images/InkMine.png" width="32px" alt="トラップ" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|重|○|◎|○|○|★★★|
+|リッター|2.3<br>6.2<br>6.2|40<br>80<br>180|210|<img src="images/InkMine.png" width="32px" alt="トラップ" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|重|○|◎|○|○|★★|
 
 - ♡ = 幸福度 = 練度 * 感じてる可能性 * モチベ
 ## コーデ

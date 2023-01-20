@@ -11,6 +11,7 @@
 |シャーカー|2.4|28|200|<img src="images/BurstBomb.webp" width="32px" alt="クイボ" />|<img src="images/CrabTank.webp" width="32px" alt="カニ" />|軽|◎|○|○|◎|★★★|
 |スパイ|2.4|9〜40|180|<img src="images/InkMine.png" width="32px" alt="トラップ" />|<img src="images/Reefslider.png" width="32px" alt="サメ" />|軽|○|○|○|○|★★|
 |スシ|2.6|36|190|<img src="images/SuctionBomb.webp" width="32px" alt="キューバン" />|<img src="images/Trizooka.webp" width="32px" alt="ウルショ" />|中|◎|◎|◎|◎|★★★★|
+|スシコラ|2.6|36|190|<img src="images/SplatBomb.webp" width="32px" alt="スプボ" />|<img src="images/TripleInkstrike.png" width="32px" alt="トルネ" />|中|◎|○|◎|○|★★★|
 |52|2.8|52|190|<img src="images/SplashWall.webp" width="32px" alt="シールド" />|<img src="images/KillerWail5.1.webp" width="32px" alt="メガホン" />|中|○|○|○|○|★★|
 |プライム|3.5|42|180|<img src="images/AngleShooter.webp" width="32px" alt="マーカー" />|<img src="images/CrabTank.webp" width="32px" alt="カニ" />|中|△|△|○|○|★★|
 |デュアル|3.5|28|200|<img src="images/SplatBomb.webp" width="32px" alt="スプボ" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|中|△|△|△|○|★|

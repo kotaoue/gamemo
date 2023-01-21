@@ -14,6 +14,7 @@
 |スシコラ|2.5|36|190|<img src="images/SplatBomb.webp" width="32px" alt="スプボ" />|<img src="images/TripleInkstrike.png" width="32px" alt="トルネ" />|中|◎|○|◎|○|★★★|
 |52|2.6|52|190|<img src="images/SplashWall.webp" width="32px" alt="シールド" />|<img src="images/KillerWail5.1.webp" width="32px" alt="メガホン" />|中|○|○|○|○|★★|
 |デュアル|3.1<br>3.4|28|200|<img src="images/SplatBomb.webp" width="32px" alt="スプボ" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|中|△|△|△|○|★|
+|スペシュ|3.2|24|190|<img src="images/PointSensor.png" width="32px" alt="ポイセン" />|<img src="images/KillerWail5.webp" width="32px" alt="メガホン" />|中|○|△|○|○|★★|
 |プライム|3.4|42|180|<img src="images/AngleShooter.webp" width="32px" alt="マーカー" />|<img src="images/CrabTank.webp" width="32px" alt="カニ" />|中|△|△|○|○|★★|
 |オフロ|4.5|30\*4|190|<img src="images/Sprinkler.webp" width="32px" alt="スプリンクラー" />|<img src="images/InkStorm.webp" width="32px" alt="アメ" />|中|◎|○|◎|△|★★★★|
 |ハイドラ|4.8|32<br>40|190|<img src="images/Autobomb.png" width="32px" alt="ロボム" />|<img src="images/BooyahBomb.png" width="32px" alt="ナイスダマ" />|重|△|○|○|△|★★|

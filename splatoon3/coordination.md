@@ -16,6 +16,7 @@
 |デュアル|3.1<br>3.4|28|200|<img src="images/SplatBomb.webp" width="32px" alt="スプボ" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|中|△|△|△|○|★|
 |スペシュ|3.2|24|190|<img src="images/PointSensor.png" width="32px" alt="ポイセン" />|<img src="images/KillerWail5.1.webp" width="32px" alt="メガホン" />|中|○|△|○|○|★★|
 |プライム|3.4|42|180|<img src="images/AngleShooter.webp" width="32px" alt="マーカー" />|<img src="images/CrabTank.webp" width="32px" alt="カニ" />|中|△|△|○|○|★|
+|バレル|4.1|15<br>30|200|<img src="images/Sprinkler.webp" width="32px" alt="スプリンクラー" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|中|○|◎|◎|○|★★★|
 |オフロ|4.5|30\*4|190|<img src="images/Sprinkler.webp" width="32px" alt="スプリンクラー" />|<img src="images/InkStorm.webp" width="32px" alt="アメ" />|中|◎|○|◎|△|★★★★|
 |ハイドラ|4.8|32<br>40|190|<img src="images/Autobomb.png" width="32px" alt="ロボム" />|<img src="images/BooyahBomb.png" width="32px" alt="ナイスダマ" />|重|△|○|○|△|★★★|
 |リッター|2.3<br>6.2<br>6.2|40<br>80<br>180|210|<img src="images/InkMine.png" width="32px" alt="トラップ" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|重|○|◎|○|○|★★|

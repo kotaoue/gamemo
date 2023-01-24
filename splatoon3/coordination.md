@@ -6,21 +6,21 @@
 |名前|射程|ダメージ|必要P|サブ|スペ|重量|エリア|ヤグラ|ホコ|アサリ|♡|
 |-|-|-|-|-|-|-|-|-|-|-|-|
 |カーデコ|0.9〜1.7<br>1.3〜2.7|25〜100<br>35〜100|200|<img src="images/BurstBomb.png" width="32px" alt="クイボ" />|<img src="images/Trizooka.png" width="32px" alt="ウルショ" />|軽|○|○|○|◎|★★|
-|ホットブラスター|2.1<br>2.7|125<br>50〜70|180|<img src="images/Autobomb.png" width="32px" alt="スプボ" />|<img src="images/BigBubbler.png" width="32px" alt="バリア" />|中|○|◎|○|○|★★|
+|ホットブラスター|2.1<br>2.7|125<br>50〜70|180|<img src="images/Autobomb.png" width="32px" alt="スプボ" />|<img src="images/BigBubbler.png" width="32px" alt="バリア" />|中|○|◎|○|○|★|
 |わかば|2.2|28|180|<img src="images/SplatBomb.png" width="32px" alt="スプボ" />|<img src="images/BigBubbler.png" width="32px" alt="バリア" />|軽|○|◎|○|◎|★★|
 |もみじ|2.2|28|190|<img src="images/Torpedo.png" width="32px" alt="トーピード" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|軽|○|○|○|○|★★|
-|シャーカー|2.4|28|200|<img src="images/BurstBomb.png" width="32px" alt="クイボ" />|<img src="images/CrabTank.png" width="32px" alt="カニ" />|軽|◎|○|○|◎|★★|
-|スパイ|2.4|9〜40|180|<img src="images/InkMine.png" width="32px" alt="トラップ" />|<img src="images/Reefslider.png" width="32px" alt="サメ" />|軽|○|○|○|○|★★★|
-|スシ|2.5|36|190|<img src="images/SuctionBomb.png" width="32px" alt="キューバン" />|<img src="images/Trizooka.png" width="32px" alt="ウルショ" />|中|◎|◎|◎|◎|★★★★|
+|シャーカー|2.4|28|200|<img src="images/BurstBomb.png" width="32px" alt="クイボ" />|<img src="images/CrabTank.png" width="32px" alt="カニ" />|軽|◎|○|○|◎|★|
+|スパイ|2.4|9〜40|180|<img src="images/InkMine.png" width="32px" alt="トラップ" />|<img src="images/Reefslider.png" width="32px" alt="サメ" />|軽|○|○|○|○|★★|
+|スシ|2.5|36|190|<img src="images/SuctionBomb.png" width="32px" alt="キューバン" />|<img src="images/Trizooka.png" width="32px" alt="ウルショ" />|中|◎|◎|◎|◎|★★★|
 |スシコラ|2.5|36|190|<img src="images/SplatBomb.png" width="32px" alt="スプボ" />|<img src="images/TripleInkstrike.png" width="32px" alt="トルネ" />|中|◎|○|◎|○|★★★|
 |52|2.6|52|190|<img src="images/SplashWall.png" width="32px" alt="シールド" />|<img src="images/KillerWail5.1.png" width="32px" alt="メガホン" />|中|○|○|○|○|★★|
 |デュアル|3.1<br>3.4|28|200|<img src="images/SplatBomb.png" width="32px" alt="スプボ" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|中|△|△|△|○|★|
 |スペシュ|3.2|24|190|<img src="images/PointSensor.png" width="32px" alt="ポイセン" />|<img src="images/KillerWail5.1.png" width="32px" alt="メガホン" />|中|○|△|○|○|★★|
 |プライム|3.4|42|180|<img src="images/AngleShooter.png" width="32px" alt="マーカー" />|<img src="images/CrabTank.png" width="32px" alt="カニ" />|中|△|△|○|○|★|
 |バレル|4.1|15<br>30|200|<img src="images/Sprinkler.png" width="32px" alt="スプリンクラー" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|中|○|◎|◎|○|★★★|
-|オフロ|4.5|30\*4|190|<img src="images/Sprinkler.png" width="32px" alt="スプリンクラー" />|<img src="images/InkStorm.png" width="32px" alt="アメ" />|中|◎|○|◎|△|★★★★|
-|ハイドラ|4.8|32<br>40|190|<img src="images/Autobomb.png" width="32px" alt="ロボム" />|<img src="images/BooyahBomb.png" width="32px" alt="ナイスダマ" />|重|△|○|○|△|★★★|
-|リッター|2.3<br>6.2<br>6.2|40<br>80<br>180|210|<img src="images/InkMine.png" width="32px" alt="トラップ" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|重|○|◎|○|○|★★|
+|オフロ|4.5|30\*4|190|<img src="images/Sprinkler.png" width="32px" alt="スプリンクラー" />|<img src="images/InkStorm.png" width="32px" alt="アメ" />|中|◎|○|◎|△|★★★|
+|ハイドラ|4.8|32<br>40|190|<img src="images/Autobomb.png" width="32px" alt="ロボム" />|<img src="images/BooyahBomb.png" width="32px" alt="ナイスダマ" />|重|△|○|○|△|★★|
+|リッター|2.3<br>6.2<br>6.2|40<br>80<br>180|210|<img src="images/InkMine.png" width="32px" alt="トラップ" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|重|○|◎|○|○|★|
 
 - ♡ = 幸福度 = 練度 * 感じてる可能性 * モチベ
 ## コーデ

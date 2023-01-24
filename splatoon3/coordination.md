@@ -6,6 +6,7 @@
 |名前|射程|ダメージ|必要P|サブ|スペ|重量|エリア|ヤグラ|ホコ|アサリ|♡|
 |-|-|-|-|-|-|-|-|-|-|-|-|
 |カーデコ|0.9〜1.7<br>1.3〜2.7|25〜100<br>35〜100|200|<img src="images/BurstBomb.webp" width="32px" alt="クイボ" />|<img src="images/Trizooka.webp" width="32px" alt="ウルショ" />|軽|○|○|○|◎|★★|
+|ホットブラスター|2.1<br>2.7|125<br>50〜70|180|<img src="images/Autobomb.png" width="32px" alt="スプボ" />|<img src="images/BigBubbler.png" width="32px" alt="バリア" />|中|○|◎|○|○|★★|
 |わかば|2.2|28|180|<img src="images/SplatBomb.webp" width="32px" alt="スプボ" />|<img src="images/BigBubbler.png" width="32px" alt="バリア" />|軽|○|◎|○|◎|★★|
 |もみじ|2.2|28|190|<img src="images/Torpedo.webp" width="32px" alt="トーピード" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|軽|○|○|○|○|★★|
 |シャーカー|2.4|28|200|<img src="images/BurstBomb.webp" width="32px" alt="クイボ" />|<img src="images/CrabTank.webp" width="32px" alt="カニ" />|軽|◎|○|○|◎|★★|

@@ -27,32 +27,32 @@
 ### アタマ
 |アイテム|★|メイン|サブ1|サブ2|サブ3|
 |-|-|-|-|-|-|
-|ミミタコ8 RAW|4|メイン効率|メイン効率|安全靴|サブ減|
-|ヤコメッシュ|2|スペ性|イカ速|安全靴|サブ減|
-|タレサン18K|4|ラスパ|イカ速|安全靴|サブ減|
-|バイカーシェード|5|ラスパ|サブ減|スペ減|メイン効率|
-|エラブリーズマスク|3|逆境|スペ増|スペ増|ジャン短|
-|ウールウーニーズクラシック|5|カムバ|スペ減|安全靴|サブ減|
+|ミミタコ8 RAW|4|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|
+|ヤコメッシュ|2|<img src="./images/SpecialPowerUp.webp" width="32px" alt="スペ性" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|
+|タレサン18K|4|<img src="./images/LastDitchEffort.webp" width="32px" alt="ラスパ" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|
+|バイカーシェード|5|<img src="./images/LastDitchEffort.webp" width="32px" alt="ラスパ" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|<img src="./images/SpecialSaver.webp" width="32px" alt="スペ減" />|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|
+|エラブリーズマスク|3|<img src="./images/Tenacity.webp" width="32px" alt="逆境" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|
+|ウールウーニーズクラシック|5|<img src="./images/Comeback.webp" width="32px" alt="カムバ" />|<img src="./images/SpecialSaver.webp" width="32px" alt="スペ減" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|
 ### フク
 |アイテム|★|メイン|サブ1|サブ2|サブ3|
 |-|-|-|-|-|-|
-|マウンテンオリーブ|5|ヒト速|イカ速|イカ速|安全靴|
-|タコピステブルー|4|イカ速|スペ増|スペ|スペ蔵|
-|アイロニックレイヤード|3|イカ速|イカ速|インク回復|サブ減|
-|バハフーディー セレステ|2|イカニン|イカ速|イカ速|イカ速|
-|コテボレロ ネガ|5|サーマル|インク回復|メイン効率|スペ性|
-|トワイライトグラデT|4|サーマル|復短|復短|メイン効率|
-|ケンサキコーチ|3|ペナアップ|イカ速|スペ増|ジャン短|
+|マウンテンオリーブ|5|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
+|タコピステブルー|4|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|
+|アイロニックレイヤード|3|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/InkRecoveryUp.webp" width="32px" alt="インク" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|
+|バハフーディー セレステ|2|<img src="./images/NinjaSquid.webp" width="32px" alt="イカニン" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|
+|コテボレロ ネガ|5|<img src="./images/ThermalInk.webp" width="32px" alt="サーマル" />|<img src="./images/InkRecoveryUp.webp" width="32px" alt="インク回復" />|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|<img src="./images/SpecialPowerUp.webp" width="32px" alt="スペ性" />|
+|トワイライトグラデT|4|<img src="./images/ThermalInk.webp" width="32px" alt="サーマル" />|<img src="./images/QuickRespawn.webp" width="32px" alt="復短" />|<img src="./images/QuickRespawn.webp" width="32px" alt="復短" />|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|
+|ケンサキコーチ|3|<img src="./images/RespawnPunisher.webp" width="32px" alt="ペナアップ" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="スジャン" />|
 ### クツ
 |アイテム|★|メイン|サブ1|サブ2|サブ3|
 |-|-|-|-|-|-|
-|オレンジアローズ|3|メイン効率|サブ減|サブ減|安全靴|
-|ザ・ベース・ルーキー|5|メイン効率|インク回復|ジャン短|安全靴|
-|ザ・ベース・ボス|5|サブ効率|サブ効率|ジャン短|安全靴|
-|ベリベリホワイト|4|スペ性|スペ増|ジャン短|安全靴|
-|エギング4 アカクロ|2|スペ増|ジャン短|安全靴|サブ減|
-|フカヒレニマイバ サンド|5|対物|ジャン短|安全靴|メイン効率|
-|チャッカブーツ サンド|5|ステジャン|スペ減|ジャン短|安全靴|
+|オレンジアローズ|3|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
+|ザ・ベース・ルーキー|5|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|<img src="./images/InkRecoveryUp.webp" width="32px" alt="インク回復" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
+|ザ・ベース・ボス|5|<img src="./images/InkSaver(Sub).webp" width="32px" alt="サブ効率" />|<img src="./images/InkSaver(Sub).webp" width="32px" alt="サブ効率" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
+|ベリベリホワイト|4|<img src="./images/SpecialPowerUp.webp" width="32px" alt="スペ性" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
+|エギング4 アカクロ|2|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|
+|フカヒレニマイバ サンド|5|<img src="./images/ObjectShredder.webp" width="32px" alt="対物" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|
+|チャッカブーツ サンド|5|<img src="./images/StealthJump.webp" width="32px" alt="ステジャン" />|<img src="./images/SpecialSaver.webp" width="32px" alt="スペ減" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
 ## 所持ギア
 |ブランド|かけら|頭|体|足|
 |-|-|-|-|-|

@@ -25,7 +25,7 @@
 - ♡ = 幸福度 = 練度 * 感じてる可能性 * モチベ
 ## コーデ
 ### アタマ
-|アイテム|★|メイン|サブ1|サブ2|サブ3|
+|アイテム|★|1|0.3|0.3|0.3|
 |-|-|-|-|-|-|
 |ミミタコ8 RAW|★★★★|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|
 |マルサンSV925|★★|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
@@ -35,7 +35,7 @@
 |エラブリーズマスク|★★|<img src="./images/Tenacity.webp" width="32px" alt="逆境" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|
 |ウールウーニーズクラシック|★★★★★|<img src="./images/Comeback.webp" width="32px" alt="カムバ" />|<img src="./images/SpecialSaver.webp" width="32px" alt="スペ減" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|
 ### フク
-|アイテム|★|メイン|サブ1|サブ2|サブ3|
+|アイテム|★|1|0.3|0.3|0.3|
 |-|-|-|-|-|-|
 |マウンテンオリーブ|★★★★★|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
 |タコピステブルー|★★★★|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|
@@ -46,7 +46,7 @@
 |トワイライトグラデT|★★★★|<img src="./images/ThermalInk.webp" width="32px" alt="サーマル" />|<img src="./images/QuickRespawn.webp" width="32px" alt="復短" />|<img src="./images/QuickRespawn.webp" width="32px" alt="復短" />|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|
 |ケンサキコーチ|★★★|<img src="./images/RespawnPunisher.webp" width="32px" alt="ペナアップ" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="スジャン" />|
 ### クツ
-|アイテム|★|メイン|サブ1|サブ2|サブ3|
+|アイテム|★|1|0.3|0.3|0.3|
 |-|-|-|-|-|-|
 |オレンジアローズ|★★★|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
 |ザ・ベース・ルーキー|★★★★★|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|<img src="./images/InkRecoveryUp.webp" width="32px" alt="インク回復" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|

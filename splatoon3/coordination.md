@@ -14,6 +14,7 @@
 |<img src="./images/Splattershot.png" width="32px" alt="スシ" />|2.5|36|190|<img src="images/SuctionBomb.png" width="32px" alt="キューバン" />|<img src="images/Trizooka.png" width="32px" alt="ウルショ" />|中|○|◎|◎|◎|◎|★★|
 |<img src="./images/TentatekSplattershot.png" width="32px" alt="スシコラ" />|2.5|36|190|<img src="images/SplatBomb.png" width="32px" alt="スプボ" />|<img src="images/TripleInkstrike.png" width="32px" alt="トルネ" />|中|◎|◎|◎|◎|◎|★★★|
 |<img src="./images/52Gal.png" width="32px" alt="52" />|2.6|52|190|<img src="images/SplashWall.png" width="32px" alt="シールド" />|<img src="images/KillerWail5.1.png" width="32px" alt="メガホン" />|中|○|○|○|○|○|★★|
+|<img src="./images/ZinkMiniSplatling.png" width="32px" alt="スピコラ" />|3.0|32|200|<img src="images/PoisonMist.png" width="32px" alt="ポイズン" />|<img src="images/BigBubbler.png" width="32px" alt="バリア" />|中|◎|◎|◎|○|○|★★|
 |<img src="./images/DualieSquelchers.png" width="32px" alt="デュアル" />|3.1<br>3.4|28|200|<img src="images/SplatBomb.png" width="32px" alt="スプボ" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|中|△|△|△|△|○|★|
 |<img src="./images/SplattershotNova.png" width="32px" alt="スペシュ" />|3.2|24|190|<img src="images/PointSensor.png" width="32px" alt="ポイセン" />|<img src="images/KillerWail5.1.png" width="32px" alt="メガホン" />|中|◎|○|△|○|○|★|
 |<img src="./images/SplattershotPro.png" width="32px" alt="プライム" />|3.4|42|180|<img src="images/AngleShooter.png" width="32px" alt="マーカー" />|<img src="images/CrabTank.png" width="32px" alt="カニ" />|中|△|△|△|○|○|★|

@@ -2,7 +2,7 @@
 * ジャイロ 4
 * 操作 4
 
-## ブキ
+## 持ちブキ
 |名前|射程|ダメージ|必要P|サブ|スペ|重量|ナワバリ|エリア|ヤグラ|ホコ|アサリ|♡|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |<img src="./images/CarbonRollerDeco.png" width="32px" alt="カーデコ" />|0.9〜1.7<br>1.3〜2.7|25〜100<br>35〜100|200|<img src="images/BurstBomb.png" width="32px" alt="クイボ" />|<img src="images/Trizooka.png" width="32px" alt="ウルショ" />|軽|△|○|○|○|◎|★|

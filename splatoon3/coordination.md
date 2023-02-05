@@ -14,6 +14,7 @@
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |<img src="./images/CarbonRollerDeco.png" width="32px" alt="カーデコ" />|0.9〜1.7<br>1.3〜2.7|25〜100<br>35〜100|200|<img src="images/BurstBomb.png" width="32px" alt="クイボ" />|<img src="images/Trizooka.png" width="32px" alt="ウルショ" />|軽|△|○|○|○|◎|★|
 |<img src="./images/Blaster.png" width="32px" alt="ホットブラスター" />|2.1<br>2.7|125<br>50〜70|180|<img src="images/Autobomb.png" width="32px" alt="スプボ" />|<img src="images/BigBubbler.png" width="32px" alt="バリア" />|中|△|○|◎|○|○|★|
+|<img src="./images/AerosprayRG.png" width="32px" alt="金モデ" />|2.2|24|200|<img src="images/Sprinkler.png" width="32px" alt="スプリンクラー" />|<img src="images/BooyahBomb.png" width="32px" alt="ナイスダマ" />|軽|◎|◎|△|△|○|★|
 |<img src="./images/SplattershotJr.png" width="32px" alt="わかば" />|2.2|28|180|<img src="images/SplatBomb.png" width="32px" alt="スプボ" />|<img src="images/BigBubbler.png" width="32px" alt="バリア" />|軽|◎|○|◎|○|◎|★★|
 |<img src="./images/CustomSplattershotJr.png" width="32px" alt="もみじ" />|2.2|28|190|<img src="images/Torpedo.png" width="32px" alt="トーピード" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|軽|◎|○|○|○|○|★|
 |<img src="./images/Splash-O-Matic.png" width="32px" alt="シャーカー" />|2.4|28|200|<img src="images/BurstBomb.png" width="32px" alt="クイボ" />|<img src="images/CrabTank.png" width="32px" alt="カニ" />|軽|◎|◎|○|○|◎|★|

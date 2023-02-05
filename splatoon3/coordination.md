@@ -18,6 +18,7 @@
 |<img src="./images/SplattershotNova.png" width="32px" alt="スペシュ" />|3.2|24|190|<img src="images/PointSensor.png" width="32px" alt="ポイセン" />|<img src="images/KillerWail5.1.png" width="32px" alt="メガホン" />|中|○|△|○|○|★|
 |<img src="./images/SplattershotPro.png" width="32px" alt="プライム" />|3.4|42|180|<img src="images/AngleShooter.png" width="32px" alt="マーカー" />|<img src="images/CrabTank.png" width="32px" alt="カニ" />|中|△|△|○|○|★|
 |<img src="./images/HeavySplatling.png" width="32px" alt="バレル" />|4.1|15<br>30|200|<img src="images/Sprinkler.png" width="32px" alt="スプリンクラー" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|中|○|◎|◎|○|★★★|
+|<img src="./images/Explosher.png" width="32px" alt="エクス" />|4.1|55+35|200|<img src="images/PointSensor.png" width="32px" alt="ポイセン" />|<img src="images/InkStorm.png" width="32px" alt="アメ" />|重|◎|◎|△|△|★★|
 |<img src="./images/Bloblobber.png" width="32px" alt="オフロ" />|4.5|30\*4|190|<img src="images/Sprinkler.png" width="32px" alt="スプリンクラー" />|<img src="images/InkStorm.png" width="32px" alt="アメ" />|中|◎|○|◎|△|★★★|
 |<img src="./images/HydraSplatling.png" width="32px" alt="ハイドラ" />|4.8|32<br>40|190|<img src="images/Autobomb.png" width="32px" alt="ロボム" />|<img src="images/BooyahBomb.png" width="32px" alt="ナイスダマ" />|重|△|○|○|△|★★|
 |<img src="./images/E-liter4K.png" width="32px" alt="リッター" />|2.3<br>6.2<br>6.2|40<br>80<br>180|210|<img src="images/InkMine.png" width="32px" alt="トラップ" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|重|○|◎|○|○|★|

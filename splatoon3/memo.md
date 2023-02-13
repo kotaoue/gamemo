@@ -97,6 +97,8 @@
     - 防衛は金網後ろの壁上。薄いけど前の段差を縦に使う
     - 攻めるなら左の壁上に降りる。室外機にも前の道にも触れる
     - [この動画を見るだけでヒラメが丘団地バレルスピナーの立ち回りが分かります【スプラトゥーン3】](https://www.youtube.com/watch?v=sSO1gZKmWus)
+  - ユノハナ大渓谷
+    - 金網上が強い
 - 参考
   - [【初心者向け】バレルスピナーで強くなるための使い方＆練習法解説【Splatoon3】](https://www.youtube.com/watch?v=jhMx-DkDREU)
   - [スピナーで簡単にキルが取れる方法解説【バレルスピナー】](https://www.youtube.com/watch?v=kH2dufXwR0o)

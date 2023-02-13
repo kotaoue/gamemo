@@ -52,6 +52,7 @@
 ### フク
 |アイテム|★|1|0.3|0.3|0.3|
 |-|-|-|-|-|-|
+|F-190|★★|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SpecialSaver.webp" width="32px" alt="スペ減" />|
 |マウンテンオリーブ|★★★★★|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
 |タコピステブルー|★★★★|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|
 |アイロニックレイヤード|★★★★★|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|
@@ -68,7 +69,7 @@
 |ザ・ベース・ボス|★★★★★|<img src="./images/InkSaver(Sub).webp" width="32px" alt="サブ効率" />|<img src="./images/InkSaver(Sub).webp" width="32px" alt="サブ効率" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
 |ベリベリホワイト|★★★★|<img src="./images/SpecialPowerUp.webp" width="32px" alt="スペ性" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
 |エギング4 アカクロ|★★|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|
-|キャンバスHi トマト|★★★|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|
+|キャンバスHi トマト|★★★|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|
 |フカヒレニマイバ サンド|★★★★★|<img src="./images/ObjectShredder.webp" width="32px" alt="対物" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|
 |チャッカブーツ サンド|★★★★★|<img src="./images/StealthJump.webp" width="32px" alt="ステジャン" />|<img src="./images/SpecialSaver.webp" width="32px" alt="スペ減" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
 ## 所持ギア

@@ -42,7 +42,7 @@
 |アイテム|★|1|0.3|0.3|0.3|
 |-|-|-|-|-|-|
 |ミミタコ8 RAW|★★★★|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|
-|ボーラークラシック|★★★★|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|
+|ボーラークラシック|★★★★★|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|
 |マルサンSV925|★★★|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
 |ヤコメッシュ|★★|<img src="./images/SpecialPowerUp.webp" width="32px" alt="スペ性" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|
 |タレサン18K|★★★★|<img src="./images/LastDitchEffort.webp" width="32px" alt="ラスパ" />|<img src="./images/SpecialSaver.webp" width="32px" alt="スペ減" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|
@@ -84,7 +84,7 @@
 |フォーリマ|スペシャル性能アップ|★★★★|★★|未発売|
 |ホッコリー|インク効率アップ(サブ)|★★|★★|★★|
 |ホタックス|復活時間短縮|★★|★★★★|-|
-|ジモン|インク効率アップ(メイン)|★★★★|★★|★★★★|
+|ジモン|インク効率アップ(メイン)|★★★★★|★★|★★★★|
 |シグレニ|サブ影響軽減|★★|★★★★★|★★|
 |アロメ|インク回復力アップ|★★|★★|★★|
 |ヤコ|スペシャル増加量アップ|★★|★★★★|★★★|

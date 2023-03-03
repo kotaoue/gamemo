@@ -30,6 +30,7 @@
 |<img src="./images/DualieSquelchers.png" width="32px" alt="デュアル" />|3.1<br>3.4|28|200|<img src="images/SplatBomb.png" width="32px" alt="スプボ" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|中|△|△|△|△|○|★|
 |<img src="./images/SplattershotNova.png" width="32px" alt="スペシュ" />|3.2|24|190|<img src="images/PointSensor.png" width="32px" alt="ポイセン" />|<img src="images/KillerWail5.1.png" width="32px" alt="メガホン" />|中|◎|○|△|○|○|★|
 |<img src="./images/SplattershotPro.png" width="32px" alt="プライム" />|3.4|42|180|<img src="images/AngleShooter.png" width="32px" alt="マーカー" />|<img src="images/CrabTank.png" width="32px" alt="カニ" />|中|△|△|△|○|○|★|
+|96デコ|3.5|62|200|<img src="images/SplashWall.png" width="32px" alt="シールド" />|<img src="images/KrakenRoyale.png" width="32px" alt="テイオウ" />|中|△|△|○|◎|◎|★★|
 |<img src="./images/HeavySplatling.png" width="32px" alt="バレル" />|4.1|30|200|<img src="images/Sprinkler.png" width="32px" alt="スプリンクラー" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|中|○|◎|◎|◎|◎|★★★★|
 |<img src="./images/Bloblobber.png" width="32px" alt="オフロ" />|4.5|30\*4|190|<img src="images/Sprinkler.png" width="32px" alt="スプリンクラー" />|<img src="images/InkStorm.png" width="32px" alt="アメ" />|中|○|◎|○|◎|△|★★★★|
 |<img src="./images/Explosher.png" width="32px" alt="エクス" />|4.1+0.5|55+35|200|<img src="images/PointSensor.png" width="32px" alt="ポイセン" />|<img src="images/InkStorm.png" width="32px" alt="アメ" />|重|○|◎|◎|△|△|★★|

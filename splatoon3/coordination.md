@@ -16,26 +16,17 @@
 ## 持ちブキ
 |名前|射程|ダメージ|必要P|サブ|スペ|重量|ナワバリ|エリア|ヤグラ|ホコ|アサリ|♡|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-|<img src="./images/CarbonRollerDeco.png" width="32px" alt="カーデコ" />|0.9〜1.7<br>1.3〜2.7|25〜100<br>35〜100|200|<img src="images/BurstBomb.png" width="32px" alt="クイボ" />|<img src="images/Trizooka.png" width="32px" alt="ウルショ" />|軽|△|○|○|○|◎|★|
-|<img src="./images/Blaster.png" width="32px" alt="ホットブラスター" />|2.1<br>2.7|125<br>50〜70|180|<img src="images/Autobomb.png" width="32px" alt="スプボ" />|<img src="images/BigBubbler.png" width="32px" alt="バリア" />|中|△|○|◎|○|○|★|
-|<img src="./images/AerosprayRG.png" width="32px" alt="金モデ" />|2.2|24|200|<img src="images/Sprinkler.png" width="32px" alt="スプリンクラー" />|<img src="images/BooyahBomb.png" width="32px" alt="ナイスダマ" />|軽|◎|◎|△|△|○|★|
 |<img src="./images/SplattershotJr.png" width="32px" alt="わかば" />|2.2|28|180|<img src="images/SplatBomb.png" width="32px" alt="スプボ" />|<img src="images/BigBubbler.png" width="32px" alt="バリア" />|軽|◎|○|◎|○|◎|★★|
-|<img src="./images/CustomSplattershotJr.png" width="32px" alt="もみじ" />|2.2|28|190|<img src="images/Torpedo.png" width="32px" alt="トーピード" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|軽|◎|○|○|○|○|★|
-|<img src="./images/Splash-O-Matic.png" width="32px" alt="シャーカー" />|2.4|28|200|<img src="images/BurstBomb.png" width="32px" alt="クイボ" />|<img src="images/CrabTank.png" width="32px" alt="カニ" />|軽|◎|◎|○|○|◎|★★★|
+|<img src="./images/Splash-O-Matic.png" width="32px" alt="シャーカー" />|2.4|28|200|<img src="images/BurstBomb.png" width="32px" alt="クイボ" />|<img src="images/CrabTank.png" width="32px" alt="カニ" />|軽|◎|◎|◎|◎|◎|★★★|
 |<img src="./images/UndercoverBrella.png" width="32px" alt="スパイ" />|2.4|9〜40|180|<img src="images/InkMine.png" width="32px" alt="トラップ" />|<img src="images/Reefslider.png" width="32px" alt="サメ" />|軽|○|○|○|○|○|★|
 |<img src="./images/Splattershot.png" width="32px" alt="スシ" />|2.5|36|190|<img src="images/SuctionBomb.png" width="32px" alt="キューバン" />|<img src="images/Trizooka.png" width="32px" alt="ウルショ" />|中|○|◎|◎|◎|◎|★★|
 |<img src="./images/TentatekSplattershot.png" width="32px" alt="スシコラ" />|2.5|36|190|<img src="images/SplatBomb.png" width="32px" alt="スプボ" />|<img src="images/TripleInkstrike.png" width="32px" alt="トルネ" />|中|◎|◎|◎|◎|◎|★★★|
 |<img src="./images/52Gal.png" width="32px" alt="52" />|2.6|52|190|<img src="images/SplashWall.png" width="32px" alt="シールド" />|<img src="images/KillerWail5.1.png" width="32px" alt="メガホン" />|中|○|○|○|○|○|★★|
-|<img src="./images/ZinkMiniSplatling.png" width="32px" alt="スピコラ" />|3.0|32|200|<img src="images/PoisonMist.png" width="32px" alt="ポイズン" />|<img src="images/BigBubbler.png" width="32px" alt="バリア" />|中|◎|◎|◎|○|○|★★|
-|<img src="./images/DualieSquelchers.png" width="32px" alt="デュアル" />|3.1<br>3.4|28|200|<img src="images/SplatBomb.png" width="32px" alt="スプボ" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|中|△|△|△|△|○|★|
-|<img src="./images/SplattershotNova.png" width="32px" alt="スペシュ" />|3.2|24|190|<img src="images/PointSensor.png" width="32px" alt="ポイセン" />|<img src="images/KillerWail5.1.png" width="32px" alt="メガホン" />|中|◎|○|△|○|○|★|
-|<img src="./images/SplattershotPro.png" width="32px" alt="プライム" />|3.4|42|180|<img src="images/AngleShooter.png" width="32px" alt="マーカー" />|<img src="images/CrabTank.png" width="32px" alt="カニ" />|中|△|△|△|○|○|★|
 |96デコ|3.5|62|200|<img src="images/SplashWall.png" width="32px" alt="シールド" />|<img src="images/KrakenRoyale.png" width="32px" alt="テイオウ" />|中|△|△|○|◎|◎|★★|
 |<img src="./images/HeavySplatling.png" width="32px" alt="バレル" />|4.1|30|200|<img src="images/Sprinkler.png" width="32px" alt="スプリンクラー" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|中|○|◎|◎|◎|◎|★★★★|
 |<img src="./images/Bloblobber.png" width="32px" alt="オフロ" />|4.5|30\*4|190|<img src="images/Sprinkler.png" width="32px" alt="スプリンクラー" />|<img src="images/InkStorm.png" width="32px" alt="アメ" />|中|○|◎|○|◎|△|★★★★|
 |<img src="./images/Explosher.png" width="32px" alt="エクス" />|4.1+0.5|55+35|200|<img src="images/PointSensor.png" width="32px" alt="ポイセン" />|<img src="images/InkStorm.png" width="32px" alt="アメ" />|重|○|◎|◎|△|△|★★|
 |<img src="./images/HydraSplatling.png" width="32px" alt="ハイドラ" />|4.8|32<br>40|190|<img src="images/Autobomb.png" width="32px" alt="ロボム" />|<img src="images/BooyahBomb.png" width="32px" alt="ナイスダマ" />|重|△|△|○|○|△|★★|
-|<img src="./images/E-liter4K.png" width="32px" alt="リッター" />|2.3<br>6.2<br>6.2|40<br>80<br>180|210|<img src="images/InkMine.png" width="32px" alt="トラップ" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|重|△|○|○|○|○|★|
 
 - ♡ = 幸福度 = 練度 * 感じてる可能性 * モチベ
 ## コーデ

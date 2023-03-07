@@ -22,6 +22,7 @@
 |<img src="./images/Splattershot.png" width="32px" alt="スシ" />|2.5|36|190|<img src="images/SuctionBomb.png" width="32px" alt="キューバン" />|<img src="images/Trizooka.png" width="32px" alt="ウルショ" />|中|○|◎|◎|◎|◎|★★|
 |<img src="./images/TentatekSplattershot.png" width="32px" alt="スシコラ" />|2.5|36|190|<img src="images/SplatBomb.png" width="32px" alt="スプボ" />|<img src="images/TripleInkstrike.png" width="32px" alt="トルネ" />|中|◎|◎|◎|◎|◎|★★★|
 |<img src="./images/52Gal.png" width="32px" alt="52" />|2.6|52|190|<img src="images/SplashWall.png" width="32px" alt="シールド" />|<img src="images/KillerWail5.1.png" width="32px" alt="メガホン" />|中|○|○|○|○|○|★★|
+|<img src="./images/SloshingMachine.png" width="32px" alt="スクスロ" />|3.0|38〜76|220|<img src="images/FizzyBomb.png" width="32px" alt="タンサン" />|<img src="images/BooyahBomb.png" width="32px" alt="ナイスダマ" />|中|◎|◎|◎|○|◎|★★|
 |96デコ|3.5|62|200|<img src="images/SplashWall.png" width="32px" alt="シールド" />|<img src="images/KrakenRoyale.png" width="32px" alt="テイオウ" />|中|△|△|○|◎|◎|★★|
 |<img src="./images/HeavySplatling.png" width="32px" alt="バレル" />|4.1|30|200|<img src="images/Sprinkler.png" width="32px" alt="スプリンクラー" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|中|○|◎|◎|◎|◎|★★★★|
 |<img src="./images/Bloblobber.png" width="32px" alt="オフロ" />|4.5|30\*4|190|<img src="images/Sprinkler.png" width="32px" alt="スプリンクラー" />|<img src="images/InkStorm.png" width="32px" alt="アメ" />|中|○|◎|○|◎|△|★★★★|

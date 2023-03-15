@@ -68,6 +68,7 @@
 |キャンバスHi トマト|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|
 |フカヒレニマイバ サンド|<img src="./images/ObjectShredder.webp" width="32px" alt="対物" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|
 |BBサンダル|<img src="./images/ObjectShredder.webp" width="32px" alt="対物" />|<img src="./images/SubPowerUp.webp" width="32px" alt="サブ性" />|<img src="./images/SubPowerUp.webp" width="32px" alt="サブ性" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
+|エギング5 シロアカ|<img src="./images/StealthJump.webp" width="32px" alt="ステジャン" />|<img src="./images/SubPowerUp.webp" width="32px" alt="サブ性" />|<img src="./images/SubPowerUp.webp" width="32px" alt="サブ性" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
 |チャッカブーツ サンド|<img src="./images/StealthJump.webp" width="32px" alt="ステジャン" />|<img src="./images/SpecialSaver.webp" width="32px" alt="スペ減" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
 ## 所持ギア
 |ブランド|かけら|頭|体|足|

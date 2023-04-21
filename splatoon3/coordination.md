@@ -2,8 +2,8 @@
 |役割|ナワバリ|エリア|ヤグラ|ホコ|アサリ|
 |-|-|-|-|-|-|
 |前衛|<img src="./images/Splash-O-Matic.png" width="32px" alt="シャーカー" /><img src="./images/NeoSplash-O-Matic.webp" width="32px" alt="シマネ" />|<img src="./images/Splash-O-Matic.png" width="32px" alt="シャーカー" /><img src="./images/NeoSplash-O-Matic.webp" width="32px" alt="シマネ" />|<img src="./images/Splash-O-Matic.png" width="32px" alt="シャーカー" />|<img src="./images/Splash-O-Matic.png" width="32px" alt="シャーカー" />|<img src="./images/Splash-O-Matic.png" width="32px" alt="シャーカー" />|
-|中衛|<img src="./images/HeavySplatling.png" width="32px" alt="バレル" />|<img src="./images/HeavySplatling.png" width="32px" alt="バレル" />|<img src="./images/HeavySplatling.png" width="32px" alt="バレル" />|<img src="./images/HeavySplatling.png" width="32px" alt="バレル" />|<img src="./images/HeavySplatling.png" width="32px" alt="バレル" />|
-|後衛|<img src="./images/Explosher.png" width="32px" alt="エクス" />|<img src="./images/Explosher.png" width="32px" alt="エクス" /><img src="./images/HydraSplatling.png" width="32px" alt="ハイドラ" />|<img src="./images/HydraSplatling.png" width="32px" alt="ハイドラ" /><img src="./images/Explosher.png" width="32px" alt="エクス" />|<img src="./images/HydraSplatling.png" width="32px" alt="ハイドラ" />|<img src="./images/HydraSplatling.png" width="32px" alt="ハイドラ" />|
+|中衛|<img src="./images/SloshingMachine.png" width="32px" alt="スクスロ" />|<img src="./images/SloshingMachine.png" width="32px" alt="スクスロ" />|<img src="./images/SloshingMachine.png" width="32px" alt="スクスロ" />|<img src="./images/SloshingMachine.png" width="32px" alt="スクスロ" />|<img src="./images/SloshingMachine.png" width="32px" alt="スクスロ" />|
+|後衛|<img src="./images/HeavySplatling.png" width="32px" alt="バレル" />|<img src="./images/HeavySplatling.png" width="32px" alt="バレル" />|<img src="./images/HeavySplatling.png" width="32px" alt="バレル" />|<img src="./images/HeavySplatling.png" width="32px" alt="バレル" />|<img src="./images/HeavySplatling.png" width="32px" alt="バレル" />|
 
 ## 持ちブキ
 |名前|射程|ダメージ|必要P|サブ|スペ|重量|ナワバリ|エリア|ヤグラ|ホコ|アサリ|♡|

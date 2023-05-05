@@ -26,6 +26,7 @@
 ### アタマ
 |アイテム|1|0.3|0.3|0.3|
 |-|-|-|-|-|
+|ショートビーニー|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|<img src="./images/SpecialSaver.webp" width="32px" alt="スペ減" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|
 |ミミタコ8 RAW|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|
 |ボーラークラシック|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|
 |マルサンSV925|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
@@ -58,6 +59,7 @@
 |ザ・ベース・ボス|<img src="./images/InkSaver(Sub).webp" width="32px" alt="サブ効率" />|<img src="./images/InkSaver(Sub).webp" width="32px" alt="サブ効率" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
 |エゾックロッグ レッド|<img src="./images/InkSaver(Sub).webp" width="32px" alt="サブ効率" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
 |キャンバスHi モロヘイヤ|<img src="./images/InkRecoveryUp.webp" width="32px" alt="インク回復" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
+|ロッキンチェリー|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
 |ベリベリホワイト|<img src="./images/SpecialPowerUp.webp" width="32px" alt="スペ性" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
 |エギング4 アカクロ|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|
 |キャンバスHi トマト|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|
@@ -92,11 +94,3 @@
   - 頭 バイカーシェード
   - 服 サーマル-イカ速(0/10)-イカ速(0/20)-イカ速(0/30) バンドカラー ムジ
   - 靴 メイン効率-イカ速(0/10)-ジャン短(0/10)-安全靴(0/10) ネイビーチップ レッドソール
-- スクスロ汎用
-  - 頭 メイン効率-スペ減(0/10)-安全靴(0/10)-サブ減(0/10) アナアキバスクベレー
-  - 服 クラーゲス 528
-  - 靴 イカ速-スペ増(0/10)-ジャン短(0/10)-安全靴(0/10) ラバーソール ホワイト
-- スクスロエリア
-  - 頭 タレサン18K
-  - 服 クラーゲス 528
-  - 靴 イカ速-スペ増(0/10)-ジャン短(0/10)-安全靴(0/10) ラバーソール ホワイト

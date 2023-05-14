@@ -40,6 +40,7 @@
 |アイテム|1|0.3|0.3|0.3|
 |-|-|-|-|-|
 |イカノメT ブラック|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|
+|ガチガサネ|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/IntensifyAction.webp" width="32px" alt="アク強" />|<img src="./images/IntensifyAction.webp" width="32px" alt="アク強" />|
 |F-190|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SpecialSaver.webp" width="32px" alt="スペ減" />|
 |クラーゲス528|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|
 |マウンテンオリーブ|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|

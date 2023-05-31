@@ -50,6 +50,7 @@
 |イカライダーBLACK|<img src="./images/SubPowerUp.webp" width="32px" alt="サブ性" />|<img src="./images/InkSaver(Sub).webp" width="32px" alt="サブ効率" />|<img src="./images/InkSaver(Sub).webp" width="32px" alt="サブ効率" />|<img src="./images/InkRecoveryUp.webp" width="32px" alt="インク回復" />|
 |バハフーディー セレステ|<img src="./images/NinjaSquid.webp" width="32px" alt="イカニン" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|
 |タコT|<img src="./images/Haunt.webp" width="32px" alt="リベンジ" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|
+|バンドカラー ムジ|<img src="./images/ThermalInk.webp" width="32px" alt="サーマル" />|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|
 |コテボレロ ネガ|<img src="./images/ThermalInk.webp" width="32px" alt="サーマル" />|<img src="./images/InkRecoveryUp.webp" width="32px" alt="インク回復" />|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|<img src="./images/SpecialPowerUp.webp" width="32px" alt="スペ性" />|
 |トワイライトグラデT|<img src="./images/ThermalInk.webp" width="32px" alt="サーマル" />|<img src="./images/QuickRespawn.webp" width="32px" alt="復短" />|<img src="./images/QuickRespawn.webp" width="32px" alt="復短" />|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|
 |ケンサキコーチ|<img src="./images/RespawnPunisher.webp" width="32px" alt="ペナアップ" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="スジャン" />|
@@ -90,9 +91,3 @@
 |エゾッコリー|スペシャル減少量ダウン|★★|★★|★★|
 |バラズシ|アクション強化|★★★★★|★★|★★★★★|
 |シチリン|アクション強化|★★|★★|★★★★★|
-
-## 製作中
-- オフロ
-  - 頭 バイカーシェード
-  - 服 サーマル-イカ速(0/10)-イカ速(0/20)-イカ速(0/30) バンドカラー ムジ
-  - 靴 メイン効率-イカ速(0/10)-ジャン短(0/10)-安全靴(0/10) ネイビーチップ レッドソール

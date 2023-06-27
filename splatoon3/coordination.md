@@ -69,24 +69,3 @@
 |BBサンダル|<img src="./images/ObjectShredder.webp" width="32px" alt="対物" />|<img src="./images/SubPowerUp.webp" width="32px" alt="サブ性" />|<img src="./images/SubPowerUp.webp" width="32px" alt="サブ性" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
 |エギング5 シロアカ|<img src="./images/StealthJump.webp" width="32px" alt="ステジャン" />|<img src="./images/SubPowerUp.webp" width="32px" alt="サブ性" />|<img src="./images/SubPowerUp.webp" width="32px" alt="サブ性" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
 |チャッカブーツ サンド|<img src="./images/StealthJump.webp" width="32px" alt="ステジャン" />|<img src="./images/SpecialSaver.webp" width="32px" alt="スペ減" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|
-## 所持ギア
-|ブランド|かけら|頭|体|足|
-|-|-|-|-|-|
-|バトロイカ|相手インク影響軽減|★★|★★|★★|
-|アイロニック|スーパージャンプ時間短縮|★★|★★★★★|★★|
-|クラーゲス|イカダッシュ速度アップ|★★★★★|★★|★★★★|
-|ロッケンベルグ|ヒト移動速度アップ|★★★★|★★|★★|
-|エゾッコ|スペシャル減少量ダウン|★★|★★|★★★|
-|フォーリマ|スペシャル性能アップ|★★★★|★★★★|未発売|
-|ホッコリー|インク効率アップ(サブ)|★★★★|★★|★★|
-|ホタックス|復活時間短縮|★★|★★★★|-|
-|ジモン|インク効率アップ(メイン)|★★★★★|★★|★★★★|
-|シグレニ|サブ影響軽減|★★|★★★★★|★★|
-|アロメ|インク回復力アップ|★★|★★★|★★|
-|ヤコ|スペシャル増加量アップ|★★|★★★★|★★★|
-|アナアキ|インク効率アップ(サブ)|★★|★★|★★|
-|エンペリー|サブ性能アップ|★★|★★|★★★|
-|タタキケンサキ|インク効率アップ(メイン)|★★|★★★★★|★★★|
-|エゾッコリー|スペシャル減少量ダウン|★★|★★|★★|
-|バラズシ|アクション強化|★★★★★|★★|★★★★★|
-|シチリン|アクション強化|★★|★★|★★★★★|

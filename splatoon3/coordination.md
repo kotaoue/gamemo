@@ -19,6 +19,7 @@
 |<img src="./images/Bloblobber.png" width="32px" alt="オフロ" />|4.5|30\*4|190|<img src="images/Sprinkler.png" width="32px" alt="スプリンクラー" />|<img src="images/InkStorm.png" width="32px" alt="アメ" />|中|△|△|△|△|△|★★★|
 |<img src="./images/Explosher.png" width="32px" alt="エクス" />|4.1+0.5|55+35|200|<img src="images/PointSensor.png" width="32px" alt="ポイセン" />|<img src="images/InkStorm.png" width="32px" alt="アメ" />|重|○|○|○|△|△|★|
 |<img src="./images/HydraSplatling.png" width="32px" alt="ハイドラ" />|4.8|32<br>40|190|<img src="images/Autobomb.png" width="32px" alt="ロボム" />|<img src="images/BooyahBomb.png" width="32px" alt="ナイスダマ" />|重|△|△|○|○|○|★|
+|<img src="./images/Tri-Stringer.png" width="32px" alt="トラスト" />|2.7<br>3.0<br>5.2|30<br>35+30<br>35+30|190|<img src="images/PoisonMist.png" width="32px" alt="ポイズン" />|<img src="images/KillerWail5.1.png" width="32px" alt="メガホン" />|中|△|△|◎|○|○|★★★★|
 
 - ♡ = 幸福度 = 練度 * 感じてる可能性 * モチベ
 ## コーデ

@@ -1,7 +1,7 @@
 ## Private ブキTier
 |役割|ナワバリ|エリア|ヤグラ|ホコ|アサリ|
 |-|-|-|-|-|-|
-|前衛|<img src="./images/CustomSplattershotJr.png" width="32px" alt="もみじ" /><img src="./images/Splash-O-Matic.png" width="32px" alt="シャーカー" /><img src="./images/NeoSplash-O-Matic.webp" width="32px" alt="シマネ" />|<img src="./images/Splash-O-Matic.png" width="32px" alt="シャーカー" /><img src="./images/NeoSplash-O-Matic.webp" width="32px" alt="シマネ" />|<img src="./images/Splash-O-Matic.png" width="32px" alt="シャーカー" />|<img src="./images/Splash-O-Matic.png" width="32px" alt="シャーカー" />|<img src="./images/Splash-O-Matic.png" width="32px" alt="シャーカー" />|
+|前衛|<img src="./images/Splash-O-Matic.png" width="32px" alt="シャーカー" /><img src="./images/NeoSplash-O-Matic.webp" width="32px" alt="シマネ" />|<img src="./images/Splash-O-Matic.png" width="32px" alt="シャーカー" />|<img src="./images/Splash-O-Matic.png" width="32px" alt="シャーカー" />|<img src="./images/Splash-O-Matic.png" width="32px" alt="シャーカー" />|<img src="./images/Splash-O-Matic.png" width="32px" alt="シャーカー" />|
 |中衛|-|<img src="./images/ForgeSplattershotPro.png" width="32px" alt="プラコラ" />|<img src="./images/ForgeSplattershotPro.png" width="32px" alt="プラコラ" />|<img src="./images/ForgeSplattershotPro.png" width="32px" alt="プラコラ" />|<img src="./images/ForgeSplattershotPro.png" width="32px" alt="プラコラ" />|
 |後衛|<img src="./images/HeavySplatling.png" width="32px" alt="バレル" /><img src="./images/HeavySplatlingDeco.png" width="32px" alt="バレデコ" />|<img src="./images/HeavySplatling.png" width="32px" alt="バレル" /><img src="./images/HeavySplatlingDeco.png" width="32px" alt="バレデコ" />|<img src="./images/HeavySplatling.png" width="32px" alt="バレル" /><img src="./images/HeavySplatlingDeco.png" width="32px" alt="バレデコ" />|<img src="./images/HeavySplatling.png" width="32px" alt="バレル" /><img src="./images/HeavySplatlingDeco.png" width="32px" alt="バレデコ" />|<img src="./images/HeavySplatling.png" width="32px" alt="バレル" /><img src="./images/HeavySplatlingDeco.png" width="32px" alt="バレデコ" />|
 
@@ -9,16 +9,12 @@
 |名前|射程|ダメージ|必要P|サブ|スペ|重量|ナワバリ|エリア|ヤグラ|ホコ|アサリ|♡|
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 |<img src="./images/SplattershotJr.png" width="32px" alt="わかば" />|2.2|28|180|<img src="images/SplatBomb.png" width="32px" alt="スプボ" />|<img src="images/BigBubbler.png" width="32px" alt="バリア" />|軽|○|○|○|○|○|★|
-|<img src="./images/CustomSplattershotJr.png" width="32px" alt="もみじ" />|2.2|28|190|<img src="images/Torpedo.png" width="32px" alt="トピ" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|軽|○|○|○|○|○|★|
-|<img src="./images/Splash-O-Matic.png" width="32px" alt="シャーカー" />|2.4|28|200|<img src="images/BurstBomb.png" width="32px" alt="クイボ" />|<img src="images/CrabTank.png" width="32px" alt="カニ" />|軽|○|◎|◎|○|○|★★|
-|<img src="./images/NeoSplash-O-Matic.webp" width="32px" alt="シマネ" />|2.4|28|210|<img src="images/SuctionBomb.png" width="32px" alt="キューバン" />|<img src="images/TripleInkstrike.png" width="32px" alt="トルネ" />|軽|◎|◎|○|○|○|★★|
-|<img src="./images/TentatekSplattershot.png" width="32px" alt="スシコラ" />|2.5|36|190|<img src="images/SplatBomb.png" width="32px" alt="スプボ" />|<img src="images/TripleInkstrike.png" width="32px" alt="トルネ" />|中|○|○|○|○|○|★★★|
-|<img src="./images/ForgeSplattershotPro.png" width="32px" alt="プラコラ" />|3.4|42|210|<img src="images/SuctionBomb.png" width="32px" alt="キューバン" />|<img src="images/BooyahBomb.png" width="32px" alt="ナイスダマ" />|中|○|○|○|○|○|★★|
-|<img src="./images/HeavySplatling.png" width="32px" alt="バレル" />|4.1|30|200|<img src="images/Sprinkler.png" width="32px" alt="スプリンクラー" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|中|○|◎|◎|◎|◎|★★★★|
-|<img src="./images/HeavySplatlingDeco.png" width="32px" alt="バレデコ" />|4.1|30|200|<img src="images/PointSensor.png" width="32px" alt="ポイセン" />|<img src="images/KrakenRoyale.png" width="32px" alt="テイオウ" />|中|○|◎|◎|◎|◎|★★★★|
-|<img src="./images/Bloblobber.png" width="32px" alt="オフロ" />|4.5|30\*4|190|<img src="images/Sprinkler.png" width="32px" alt="スプリンクラー" />|<img src="images/InkStorm.png" width="32px" alt="アメ" />|中|△|△|△|△|△|★★★|
-|<img src="./images/Explosher.png" width="32px" alt="エクス" />|4.1+0.5|55+35|200|<img src="images/PointSensor.png" width="32px" alt="ポイセン" />|<img src="images/InkStorm.png" width="32px" alt="アメ" />|重|○|○|○|△|△|★|
-|<img src="./images/HydraSplatling.png" width="32px" alt="ハイドラ" />|4.8|32<br>40|190|<img src="images/Autobomb.png" width="32px" alt="ロボム" />|<img src="images/BooyahBomb.png" width="32px" alt="ナイスダマ" />|重|△|△|○|○|○|★|
+|<img src="./images/Splash-O-Matic.png" width="32px" alt="シャーカー" />|2.4|28|200|<img src="images/BurstBomb.png" width="32px" alt="クイボ" />|<img src="images/CrabTank.png" width="32px" alt="カニ" />|軽|○|◎|◎|○|○|★|
+|<img src="./images/TentatekSplattershot.png" width="32px" alt="スシコラ" />|2.5|36|190|<img src="images/SplatBomb.png" width="32px" alt="スプボ" />|<img src="images/TripleInkstrike.png" width="32px" alt="トルネ" />|中|○|○|○|○|○|★★|
+|<img src="./images/ForgeSplattershotPro.png" width="32px" alt="プラコラ" />|3.4|42|210|<img src="images/SuctionBomb.png" width="32px" alt="キューバン" />|<img src="images/BooyahBomb.png" width="32px" alt="ナイスダマ" />|中|○|○|○|○|○|★|
+|<img src="./images/HeavySplatling.png" width="32px" alt="バレル" />|4.1|30|200|<img src="images/Sprinkler.png" width="32px" alt="スプリンクラー" />|<img src="images/WaveBreaker.png" width="32px" alt="ソナー" />|中|○|◎|◎|◎|◎|★★★|
+|<img src="./images/HeavySplatlingDeco.png" width="32px" alt="バレデコ" />|4.1|30|200|<img src="images/PointSensor.png" width="32px" alt="ポイセン" />|<img src="images/KrakenRoyale.png" width="32px" alt="テイオウ" />|中|○|◎|◎|◎|◎|★★★|
+|<img src="./images/Bloblobber.png" width="32px" alt="オフロ" />|4.5|30\*4|190|<img src="images/Sprinkler.png" width="32px" alt="スプリンクラー" />|<img src="images/InkStorm.png" width="32px" alt="アメ" />|中|△|△|△|△|△|★★|
 |<img src="./images/Tri-Stringer.png" width="32px" alt="トラスト" />|2.7<br>3.0<br>5.2|30<br>35+30<br>35+30|190|<img src="images/PoisonMist.png" width="32px" alt="ポイズン" />|<img src="images/KillerWail5.1.png" width="32px" alt="メガホン" />|中|△|△|◎|○|○|★★★★|
 
 - ♡ = 幸福度 = 練度 * 感じてる可能性 * モチベ

@@ -1,12 +1,19 @@
 #!/bin/zsh
 
-echo "Please enter your API key: "
-read API_KEY
-export API_KEY
+# 設定ファイルの読み込み
+CONFIG_FILE="./config.env"
+if [[ -f "$CONFIG_FILE" ]]; then
+  source "$CONFIG_FILE"
+else
+  echo "Error: Configuration file not found: $CONFIG_FILE"
+  exit 1
+fi
 
-echo "Please enter your Spreadsheet ID: "
-read SPREADSHEET_ID
-export SPREADSHEET_ID
+# 必須変数の確認
+if [[ -z "$API_KEY" || -z "$SPREADSHEET_ID" ]]; then
+  echo "Error: API_KEY and SPREADSHEET_ID must be set in $CONFIG_FILE"
+  exit 1
+fi
 
 echo "Getting sheet list..."
 SHEETS_RESPONSE=$(curl -s "https://sheets.googleapis.com/v4/spreadsheets/${SPREADSHEET_ID}?fields=sheets.properties.title&key=${API_KEY}")

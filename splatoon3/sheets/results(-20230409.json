@@ -1,5 +1,5 @@
 {
-  "range": "'results(-20230409'!A1:Z1000",
+  "range": "'results(-20230409'!A1:Z965",
   "majorDimension": "ROWS",
   "values": [
     [

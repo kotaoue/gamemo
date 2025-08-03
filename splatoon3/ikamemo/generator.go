@@ -3,66 +3,64 @@ package main
 import (
 	"fmt"
 	"os"
-	"path/filepath"
 	"regexp"
 	"strings"
 	"time"
 )
 
-type MemoGenerator struct {
+type Generator struct {
 	templatePath string
 	outputDir    string
 }
 
-type MemoConfig struct {
+type Config struct {
 	Weapon  string
 	Rules   []string
 	Stages  []string
 	Results []string
 }
 
-func NewMemoGenerator(templatePath, outputDir string) *MemoGenerator {
-	return &MemoGenerator{
+func NewGenerator(templatePath, outputDir string) *Generator {
+	return &Generator{
 		templatePath: templatePath,
 		outputDir:    outputDir,
 	}
 }
 
-func (mg *MemoGenerator) Generate(config MemoConfig) (string, error) {
-	now := time.Now()
-	filename := fmt.Sprintf("result_%s.md", now.Format("20060102150405"))
+func (g *Generator) Generate(config Config) (string, error) {
+	content, err := g.GenerateContent(config)
+	if err != nil {
+		return "", err
+	}
 
-	content, err := os.ReadFile(mg.templatePath)
+	return g.WriteToFile(content)
+}
+
+func (g *Generator) GenerateContent(config Config) (string, error) {
+	now := time.Now()
+
+	content, err := os.ReadFile(g.templatePath)
 	if err != nil {
 		return "", fmt.Errorf("テンプレートファイルが読み込めません: %v", err)
 	}
 
 	modifiedContent := string(content)
 
-	modifiedContent = mg.insertDate(modifiedContent, now)
-	modifiedContent = mg.insertWeapon(modifiedContent, config.Weapon)
-	modifiedContent = mg.checkRules(modifiedContent, config.Rules)
-	modifiedContent = mg.checkStages(modifiedContent, config.Stages)
-	modifiedContent = mg.checkResults(modifiedContent, config.Results)
+	modifiedContent = g.insertDate(modifiedContent, now)
+	modifiedContent = g.insertWeapon(modifiedContent, config.Weapon)
+	modifiedContent = g.checkRules(modifiedContent, config.Rules)
+	modifiedContent = g.checkStages(modifiedContent, config.Stages)
+	modifiedContent = g.checkResults(modifiedContent, config.Results)
 
-	if err := os.MkdirAll(mg.outputDir, 0755); err != nil {
-		return "", fmt.Errorf("出力ディレクトリの作成に失敗: %v", err)
-	}
-
-	outputPath := filepath.Join(mg.outputDir, filename)
-	if err := os.WriteFile(outputPath, []byte(modifiedContent), 0644); err != nil {
-		return "", fmt.Errorf("ファイルの作成に失敗: %v", err)
-	}
-
-	return outputPath, nil
+	return modifiedContent, nil
 }
 
-func (mg *MemoGenerator) insertDate(content string, now time.Time) string {
+func (g *Generator) insertDate(content string, now time.Time) string {
 	dateStr := now.Format("2006-01-02 15:04:05")
 	return strings.Replace(content, "日付: ", fmt.Sprintf("日付: %s", dateStr), 1)
 }
 
-func (mg *MemoGenerator) insertWeapon(content, weapon string) string {
+func (g *Generator) insertWeapon(content, weapon string) string {
 	if weapon == "" {
 		return content
 	}
@@ -73,7 +71,7 @@ func (mg *MemoGenerator) insertWeapon(content, weapon string) string {
 	return content
 }
 
-func (mg *MemoGenerator) checkRules(content string, rules []string) string {
+func (g *Generator) checkRules(content string, rules []string) string {
 	for _, rule := range rules {
 		switch strings.ToLower(rule) {
 		case "エリア", "area":
@@ -85,13 +83,13 @@ func (mg *MemoGenerator) checkRules(content string, rules []string) string {
 		case "アサリ", "asari":
 			content = strings.Replace(content, "  - [ ] ガチアサリ", "  - [x] ガチアサリ", 1)
 		default:
-			content = mg.findAndCheckRule(content, rule)
+			content = g.findAndCheckRule(content, rule)
 		}
 	}
 	return content
 }
 
-func (mg *MemoGenerator) findAndCheckRule(content, rule string) string {
+func (g *Generator) findAndCheckRule(content, rule string) string {
 	rulePattern := regexp.MustCompile(`  - \[ \] (ガチ.+)`)
 	matches := rulePattern.FindAllStringSubmatch(content, -1)
 
@@ -110,14 +108,14 @@ func (mg *MemoGenerator) findAndCheckRule(content, rule string) string {
 	return content
 }
 
-func (mg *MemoGenerator) checkStages(content string, stages []string) string {
+func (g *Generator) checkStages(content string, stages []string) string {
 	for _, stage := range stages {
-		content = mg.findAndCheckStage(content, stage)
+		content = g.findAndCheckStage(content, stage)
 	}
 	return content
 }
 
-func (mg *MemoGenerator) findAndCheckStage(content, stage string) string {
+func (g *Generator) findAndCheckStage(content, stage string) string {
 	stagePattern := regexp.MustCompile(`- ステージ:\n((?:\s+- \[ \] .+\n)+)`)
 	stageMatch := stagePattern.FindStringSubmatch(content)
 
@@ -142,7 +140,7 @@ func (mg *MemoGenerator) findAndCheckStage(content, stage string) string {
 	return content
 }
 
-func (mg *MemoGenerator) checkResults(content string, results []string) string {
+func (g *Generator) checkResults(content string, results []string) string {
 	for _, result := range results {
 		switch strings.ToLower(result) {
 		case "win", "勝利":

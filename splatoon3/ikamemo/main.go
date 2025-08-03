@@ -36,16 +36,16 @@ func main() {
 }
 
 func runCommand(cmd *cobra.Command, args []string) error {
-	memoGen := NewMemoGenerator("../results/template.md", "../results")
+	gen := NewGenerator("../results/template.md", "../results")
 	
-	config := MemoConfig{
+	config := Config{
 		Weapon:  weapon,
 		Rules:   rules,
 		Stages:  stages,
 		Results: outcomes,
 	}
 	
-	outputPath, err := memoGen.Generate(config)
+	outputPath, err := gen.Generate(config)
 	if err != nil {
 		return err
 	}

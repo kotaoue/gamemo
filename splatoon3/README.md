@@ -17,3 +17,6 @@
 |<img src="./images/Tri-Stringer.png" width="32px" alt="トラスト" />|長|2.7<br>3.0<br>5.2|30<br>35+30<br>35+30|190|<img src="images/PoisonMist.png" width="32px" alt="ポイズン" />|<img src="images/KillerWail5.1.png" width="32px" alt="メガホン" />|中|△|△|○|○|△|★★
 
 - ♡ = 幸福度 = 練度 * 感じてる可能性 * モチベ
+
+## ギア
+- [ギアまとめ](https://x.com/kotaoue/status/1979514125622620457)

@@ -1,6 +1,7 @@
 # スプラ3
+
 ## バレル
-- 
+
 - 立ち回り
   - 全体
     - なんでもできるからなんでもしないとダメ
@@ -89,7 +90,9 @@
   - カジキ空港
   - リュウグウターミナル
   - デカライン高架下
-- 参考
-  - [スピナーで簡単にキルが取れる方法解説【バレルスピナー】](https://www.youtube.com/watch?v=kH2dufXwR0o)
-  - [【スピナー】誰でも上級者の動きになるキャラコン解説【スプラ３】](https://www.youtube.com/watch?v=-rm13bAuax8)
-  - [【必見】王冠勢がバレルで「最も効率よく」塗る方法教えます【バレルスピナー】【バレリミ】【ガチエリア】](https://www.youtube.com/watch?v=SpR-de0AIMM)
+
+## links
+
+- [スピナーで簡単にキルが取れる方法解説【バレルスピナー】](https://www.youtube.com/watch?v=kH2dufXwR0o)
+- [【スピナー】誰でも上級者の動きになるキャラコン解説【スプラ３】](https://www.youtube.com/watch?v=-rm13bAuax8)
+- [【必見】王冠勢がバレルで「最も効率よく」塗る方法教えます【バレルスピナー】【バレリミ】【ガチエリア】](https://www.youtube.com/watch?v=SpR-de0AIMM)

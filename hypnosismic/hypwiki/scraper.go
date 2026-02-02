@@ -44,33 +44,34 @@ func ScrapeCharacters(url string) ([]Character, error) {
 	}
 
 	var characters []Character
-	var currentGroup, currentGroupKana string
 
 	// h3とdtを順に処理
 	doc.Find("h3").Each(func(i int, h3 *goquery.Selection) {
 		headingText := h3.Text()
 		groupRegex := regexp.MustCompile(`^(.+?)（(.+?)）`)
 		if matches := groupRegex.FindStringSubmatch(headingText); len(matches) >= 3 {
-			currentGroup = strings.TrimSpace(matches[1])
-			currentGroupKana = strings.TrimSpace(matches[2])
+			currentGroup := strings.TrimSpace(matches[1])
+			currentGroupKana := strings.TrimSpace(matches[2])
 
-			// このh3の後のdtを探す
-			h3.Parent().Parent().Find("dt").Each(func(j int, dt *goquery.Selection) {
-				dtText := dt.Text()
-				if !strings.Contains(dtText, "【") {
-					return
-				}
+			// このh3の後から次のh3の前までのdt要素を探す
+			h3.Parent().NextUntil("div.mw-heading").Each(func(j int, sibling *goquery.Selection) {
+				sibling.Find("dt").Each(func(k int, dt *goquery.Selection) {
+					dtText := dt.Text()
+					if !strings.Contains(dtText, "【") {
+						return
+					}
 
-				// dt の後の dd 要素を集める
-				var ddTexts []string
-				for next := dt.Next(); next.Length() > 0 && goquery.NodeName(next) == "dd"; next = next.Next() {
-					ddTexts = append(ddTexts, next.Text())
-				}
+					// dt の後の dd 要素を集める
+					var ddTexts []string
+					for next := dt.Next(); next.Length() > 0 && goquery.NodeName(next) == "dd"; next = next.Next() {
+						ddTexts = append(ddTexts, next.Text())
+					}
 
-				char := parseCharacterFromDt(dtText, ddTexts, currentGroup, currentGroupKana)
-				if char.Name != "" {
-					characters = append(characters, char)
-				}
+					char := parseCharacterFromDt(dtText, ddTexts, currentGroup, currentGroupKana)
+					if char.Name != "" {
+						characters = append(characters, char)
+					}
+				})
 			})
 		}
 	})

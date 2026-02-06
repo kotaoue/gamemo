@@ -1,5 +1,7 @@
-## コーデ
-### アタマ
+# コーデ
+
+## アタマ
+
 |アイテム|1|0.3|0.3|0.3|
 |-|-|-|-|-|
 |ショートビーニー|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|<img src="./images/SpecialSaver.webp" width="32px" alt="スペ減" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|
@@ -15,7 +17,9 @@
 |エラブリーズマスク|<img src="./images/Tenacity.webp" width="32px" alt="逆境" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|
 |アローバンド ブラック|<img src="./images/Tenacity.webp" width="32px" alt="逆境" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|
 |ウールウーニーズクラシック|<img src="./images/Comeback.webp" width="32px" alt="カムバ" />|<img src="./images/SpecialSaver.webp" width="32px" alt="スペ減" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|
-### フク
+
+## フク
+
 |アイテム|1|0.3|0.3|0.3|
 |-|-|-|-|-|
 |イカノメT ブラック|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/RunSpeedUp.webp" width="32px" alt="ヒト速" />|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|
@@ -33,7 +37,9 @@
 |コテボレロ ネガ|<img src="./images/ThermalInk.webp" width="32px" alt="サーマル" />|<img src="./images/InkRecoveryUp.webp" width="32px" alt="インク回復" />|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|<img src="./images/SpecialPowerUp.webp" width="32px" alt="スペ性" />|
 |トワイライトグラデT|<img src="./images/ThermalInk.webp" width="32px" alt="サーマル" />|<img src="./images/QuickRespawn.webp" width="32px" alt="復短" />|<img src="./images/QuickRespawn.webp" width="32px" alt="復短" />|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|
 |ケンサキコーチ|<img src="./images/RespawnPunisher.webp" width="32px" alt="ペナアップ" />|<img src="./images/SwimSpeedUp.webp" width="32px" alt="イカ速" />|<img src="./images/SpecialChargeUp.webp" width="32px" alt="スペ増" />|<img src="./images/QuickSuperJump.webp" width="32px" alt="ジャン短" />|
-### クツ
+
+## クツ
+
 |アイテム|1|0.3|0.3|0.3|
 |-|-|-|-|-|
 |オレンジアローズ|<img src="./images/InkSaver(Main).webp" width="32px" alt="メイン効率" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|<img src="./images/SubResistanceUp.webp" width="32px" alt="サブ減" />|<img src="./images/InkResistanceUp.webp" width="32px" alt="安全靴" />|

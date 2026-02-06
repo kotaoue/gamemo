@@ -2,7 +2,7 @@
 
 ## links
 
-- https://www.youtube.com/watch?v=QXcIL1P6RWc
+- [【スプラ3初心者向け】スペシャル全15種類の使い方とキルを取る方法を解説！【スプラトゥーン3】](https://www.youtube.com/watch?v=QXcIL1P6RWc)
 
 ## 対策
 

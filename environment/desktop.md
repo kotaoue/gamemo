@@ -1,5 +1,7 @@
 # デスク回りの設定
+
 ## 環境
+
 ```mermaid
 flowchart LR
     Web <-->|無線| MacBook
@@ -25,7 +27,9 @@ flowchart LR
     style MacBook fill:#060
     style Switch fill:#060
 ```
+
 ## 変更したいポイント
+
 * 音回り
   * 3.5mmのつなぎ直しを減らしたい
 * カメラ回り

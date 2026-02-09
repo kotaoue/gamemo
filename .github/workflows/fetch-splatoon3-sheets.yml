@@ -1,0 +1,49 @@
+name: Fetch Splatoon3 sheets
+
+on:
+    schedule:
+        - cron: "0 20 * * 5"
+    workflow_dispatch: {}
+
+permissions:
+    contents: write
+    pull-requests: write
+
+concurrency:
+    group: fetch-splatoon3-sheets
+    cancel-in-progress: false
+
+jobs:
+    fetch-sheets:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v4
+
+            - name: Set JST date
+              id: date
+              run: |
+                  echo "today=$(TZ=Asia/Tokyo date +'%Y-%m-%d')" >> "$GITHUB_OUTPUT"
+
+            - name: Prepare config
+              run: |
+                  cat << 'EOF' > splatoon3/sheets/config.env
+                  API_KEY=${{ secrets.SPLATOON3_SHEETS_API_KEY }}
+                  SPREADSHEET_ID=${{ secrets.SPLATOON3_SHEETS_SPREADSHEET_ID }}
+                  EOF
+
+            - name: Fetch sheets
+              shell: zsh
+              run: |
+                  cd splatoon3/sheets
+                  ./download_sheets.sh
+
+            - name: Create pull request
+              uses: peter-evans/create-pull-request@v6
+              with:
+                  commit-message: "Fetch Splatoon3 sheets ${{ steps.date.outputs.today }}"
+                  title: "Fetch Splatoon3 sheets ${{ steps.date.outputs.today }}"
+                  body: "Automated fetch from Google Sheets."
+                  branch: chore/fetch-splatoon3-sheets-${{ steps.date.outputs.today }}
+                  add-paths: |
+                      splatoon3/sheets/*.json

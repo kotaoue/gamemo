@@ -38,10 +38,9 @@ jobs:
                   EOF
 
             - name: Fetch sheets
-              shell: zsh
               run: |
                   cd splatoon3/sheets
-                  ./download_sheets.sh
+                  zsh ./download_sheets.sh
 
             - name: Create pull request
               uses: peter-evans/create-pull-request@v6

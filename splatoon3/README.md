@@ -24,3 +24,10 @@
 ## ギア
 
 - [ギアまとめ](https://x.com/kotaoue/status/1979514125622620457)
+
+## Links
+
+- [Splatoon3 - スプラトゥーン3 攻略＆検証 Wiki*](https://wikiwiki.jp/splatoon3mix/)
+- [INKIPEDIA](https://splatoonwiki.org/wiki/Main_Page)
+- [sendou.ink](https://sendou.ink/)
+- [スプラトゥーン3　ステージ図面](https://note.com/sunfish3/n/nc029f8edb031)

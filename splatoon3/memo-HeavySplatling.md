@@ -1,5 +1,7 @@
 # バレル
 
+<img src="./images/HeavySplatling.png" width="64px" alt="バレル" />
+
 ## 立ち回り
 
 [根気] / [協力] / [安定]

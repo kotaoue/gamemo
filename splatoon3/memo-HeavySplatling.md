@@ -11,6 +11,7 @@
 | 初動/拮抗 | <ol><li>状況良くなるまで塗る</li><li>[if]ミカタがSP使ったら → 合わせる</li><li>[if]2人有利になったら → 前に出る</li></ol> |
 | 抑え/打開 | <ol><li>状況良くなるまで塗る</li><li>[if]SP無いなら → SP貯める</li><li>[if]2人有利になったら → 前に出る</li></ol> |
 | 射撃 | <ul><li>[if]チャージするなら → 壁裏</li><li>[if]チャージしたなら → 周りを見る</li><li>[if]撃つなら → 動き続ける</li></ul> |
+| ライン | <ul><li>[if]テキインクまで2本以内なら → 下がる</li><li>[if]画面にミカタの名前が無いなら → 下がる</li><li>[if]ミカタより前に弾が飛んでいないなら → 索敵する</li><li>[if]人数有利だったら → ラインを上げる</li></ul> |
 | ライン上げ下げ | <ul><li>[if]ライン上げるなら → 次の遮蔽まで</li><li>[if]ライン下げるなら → 一つ前の遮蔽まで</li></ul> |
 | カバー | <ul><li>[if]チャージがあれば → 積極的にカバーする</li><li>[if]チャージがなければ → 無理をしない</li></ul> |
 
@@ -76,6 +77,7 @@
 - [スピナーで簡単にキルが取れる方法解説【バレルスピナー】](https://www.youtube.com/watch?v=kH2dufXwR0o)
 - [【スピナー】誰でも上級者の動きになるキャラコン解説【スプラ３】](https://www.youtube.com/watch?v=-rm13bAuax8)
 - [【必見】王冠勢がバレルで「最も効率よく」塗る方法教えます【バレルスピナー】【バレリミ】【ガチエリア】](https://www.youtube.com/watch?v=SpR-de0AIMM)
+- [有効キルは立ち位置で決まる【オーバーフロッシャー】](https://www.youtube.com/watch?v=cbxmMGWsROc) ※ バレルの考え方とも一致
 - [難所で崩れないハイドラの立ち回り。私の”安定ルーティン”公開【スプラトゥーン３】](https://www.youtube.com/watch?v=2iWkbRPVMPQ) ※ 下がり方が参考になる
 - ステージ
   - [スプラ気をつけるポイント:バレル:ステージ](https://docs.google.com/spreadsheets/d/1JlSD02TxEMjEiwJZ0Kd5NAbjlgZKQplCbdxq-N9SC8s/edit?gid=1579070159#gid=1579070159)

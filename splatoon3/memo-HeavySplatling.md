@@ -13,8 +13,8 @@
 | 状況 | if-then |
 | -- | -- |
 | 原則 | <ol><li>塗る</li><li>[if]危険を感じたら → 引く</li><li>[if]ミカタがSP使ったら → 合わせる</li><li>[if]2人有利になったら → 前に出る</li></ol> |
+| 確認 | <ul><li>[if]情報手に入れたら → わかったことを口に出す<ul><li>e.g. ミカタ落ちた</li><li>e.g. 壁裏ブラスターいる</li><li>e.g. SP溜まったけどミカタまだ</li></ul></li></ul> |
 | 索敵 | <ul><li>[if]対面していない時は → 注意するポイントを順番に見る<ul><li>❌️ 全部を見る。※ それは無理</li><li>⭕️ 先に決めた注意すべき場所を順番に見ていく。※ 危ない順に目視確認をしていく</li></ul></ul> |
-| 確認 | <ul><li>[if]情報手に入れたら → 声に出す<ul><li>なんでも良いからわかったことを口に出す</li><ul><li>e.g. ミカタ落ちた</li><li>e.g. 壁裏ブラスターいる</li><li>e.g. SP溜まったけどミカタまだ</li></ul></ul></li></ul> |
 | 射撃 | <ul><li>[if]チャージする前に → 周りを見る</li><li>[if]チャージするなら → 壁裏</li><li>[if]チャージしたなら → 周りを見る</li><li>[if]撃つなら → 動き続ける</li></ul> |
 
 ### 余裕があったら考える
@@ -118,11 +118,11 @@ graph TB
 | ポイント | 詳細 | ブキ |
 | ---- | -- | -- |
 | バレル以上の射程 | > 0.5 | <img src="./images/Bamboozler14MkI.png" width="32px" alt="竹" /><img src="./images/GooTuber.png" width="32px" alt="ソイチュ" />(<img src="./images/SplatanaStamper.png" width="32px" alt="ジム" />)<img src="./images/JetSquelcher.png" width="32px" alt="ジェット" /><img src="./images/Explosher.png" width="32px" alt="エクス" />(<img src="./images/BallpointSplatling.png" width="32px" alt="クゲ" />) |
-| | >= 1.0 | (<img src="./images/DynamoRoller.png" width="32px" alt="ダイナモ" />)<img src="./images/HydraSplatling.png" width="32px" alt="ハイドラ" /><img src="./images/SplatCharger.png" width="32px" alt="スプチャ" /><img src="./images/WellstringV.png" width="32px" alt="フルイド" /><img src="./images/Bloblobber.png" width="32px" alt="オフロ" /> |
-| | >= 1.5 | (<img src="./images/SplatCharger.png" width="32px" alt="チャースコ" />)<img src="./images/Snipewriter5H.png" width="32px" alt="ペン" /><img src="./images/Tri-Stringer.png" width="32px" alt="弓" /> |
-| | >= 2.0 | <img src="./images/E-liter4K.png" width="32px" alt="リッター" /> |
+| - | >= 1.0 | (<img src="./images/DynamoRoller.png" width="32px" alt="ダイナモ" />)<img src="./images/HydraSplatling.png" width="32px" alt="ハイドラ" /><img src="./images/SplatCharger.png" width="32px" alt="スプチャ" /><img src="./images/WellstringV.png" width="32px" alt="フルイド" /><img src="./images/Bloblobber.png" width="32px" alt="オフロ" /> |
+| - | >= 1.5 | (<img src="./images/SplatCharger.png" width="32px" alt="チャースコ" />)<img src="./images/Snipewriter5H.png" width="32px" alt="ペン" /><img src="./images/Tri-Stringer.png" width="32px" alt="弓" /> |
+| - | >= 2.0 | <img src="./images/E-liter4K.png" width="32px" alt="リッター" /> |
 | バレル以上のキル速 | !1確 | <img src="./images/Sploosh-O-Matic.png" width="32px" alt="ボールド" /><img src="./images/52Gal.png" width="32px" alt="52" /><img src="./images/DappleDualies.png" width="32px" alt="スパ" />(<img src="./images/GloogaDualies.png" width="32px" alt="ケルビン" />)(<img src="./images/BallpointSplatling.png" width="32px" alt="クゲ" />)<img src="./images/Nautilus47.png" width="32px" alt="ノーチ" />(<img src="./images/HydraSplatling.png" width="32px" alt="ハイドラ" />) |
-| バレル以上の射程&キル速 | | <img src="./images/HydraSplatling.png" width="32px" alt="ハイドラ" /><img src="./images/SplatCharger.png" width="32px" alt="スプチャ" /><img src="./images/Tri-Stringer.png" width="32px" alt="弓" /><img src="./images/E-liter4K.png" width="32px" alt="リッター" /> |
+| バレル以上の射程&キル速 | - | <img src="./images/HydraSplatling.png" width="32px" alt="ハイドラ" /><img src="./images/SplatCharger.png" width="32px" alt="スプチャ" /><img src="./images/Tri-Stringer.png" width="32px" alt="弓" /><img src="./images/E-liter4K.png" width="32px" alt="リッター" /> |
 
 ## links
 

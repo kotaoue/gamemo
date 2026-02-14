@@ -27,7 +27,13 @@
 ### 突き詰めた立ち回り
 
 ```mermaid
-%%{ init: { 'theme':'dark', 'flowchart': { 'curve': 'linear' } } }%%
+%%{ init: { 
+  'theme':'dark', 
+  'themeVariables': { 'edgeLabelBackground':'#1f1f1f' },
+  'flowchart': { 'curve': 'linear' } 
+  } 
+}%%
+
 graph TB
   if_weigh_pros_cons{状況確認}
   if_weigh_pros_cons--2人有利-->action_push

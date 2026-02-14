@@ -1,18 +1,39 @@
 # バレル
 
-<img src="./images/HeavySplatling.png" width="64px" alt="バレル" />
+<img src="./images/HeavySplatling.png" width="32px" alt="バレル" />
+<img src="./images/is.png" width="18px" alt="is" />
+<img src="./images/konnakotomoaroukato.png" width="32px" alt="is" />
 
 ## 立ち回り
 
-### まずはコレだけ
+バレルの真髄は「事前準備」
 
-[根気] / [協力] / [安定]
+- ❌️ 一回のチャンスで勝つ ⭕️ 少しずつアドバンテージを増やす
+- 相手の土俵で戦わずこちらの有利を押し付ける
+
+### まずはコレだけ
 
 | 状況 | if-then |
 | -- | -- |
-| 原則 | <ol><li>塗る</li><li>[if]ミカタがSP使ったら → 合わせる</li><li>[if]2人有利になったら → 前に出る</li></ol> |
-| 射撃 | <ul><li>[if]チャージするなら → 壁裏</li><li>[if]チャージしたなら → 周りを見る</li><li>[if]撃つなら → 動き続ける</li></ul> |
+| 原則 | <ol><li>塗る</li><li>[if]危険を感じたら → 引く</li><li>[if]ミカタがSP使ったら → 合わせる</li><li>[if]2人有利になったら → 前に出る</li></ol> |
+| 射撃 | <ul><li>[if]チャージする前に → 周りを見る</li><li>[if]チャージするなら → 壁裏</li><li>[if]チャージしたなら → 周りを見る</li><li>[if]撃つなら → 動き続ける</li></ul> |
 | ライン上げ下げ | <ul><li>[if]ライン上げるなら → 次の遮蔽まで</li><li>[if]ライン下げるなら → 一つ前の遮蔽まで</li></ul> |
+
+#### ミニマムフロー
+
+```mermaid
+graph TB
+  if_weigh_pros_cons{状況確認}
+  if_weigh_pros_cons--2人有利-->action_push
+  if_weigh_pros_cons--1人有利-->action_paint
+  if_weigh_pros_cons--拮抗-->action_paint
+  if_weigh_pros_cons--1人不利-->action_paint
+  if_weigh_pros_cons--2人不利-->action_pull
+  action_push[ラインを上げる]-->action_return
+  action_paint[塗る]-->action_return
+  action_pull[ラインを下げる]-->action_return
+  action_return[状況確認に戻る]
+```
 
 ### 余裕があったら考える
 
@@ -39,6 +60,7 @@
   - 長射程がいたら高台に立たない
 - 戦術
   - 敵が来たそうな場所に置き撃ちしておく
+  - 「テキが通りたいルートを塗っておく」「ミカタが通りたいルートを塗っておく」
   - 射程とダメージ変わらないので一周チャージを有効に使う
     - フルチャばっかりだと前線に遅れるし、インクもなくなりがち
   - 短射程相手はブロック近くで戦わず、広い場所で射程を押し付ける

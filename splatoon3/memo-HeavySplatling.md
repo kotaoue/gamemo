@@ -1,6 +1,6 @@
 # バレル
 
-<img src="./images/HeavySplatling.png" width="32px" alt="バレル" />&nbsp;<img src="./images/is.png" width="18px" alt="is" />&nbsp;<img src="./images/konnakotomoaroukato.png" width="32px" alt="こんなこともあろうかと" />
+<img src="./images/HeavySplatling.png" width="32px" alt="バレル" />&nbsp;<img src="./images/is.png" width="18px" alt="is" />&nbsp;<img src="./images/JustInCaseSomethingLikeThisHappens.png" width="32px" alt="こんなこともあろうかと" />
 
 ## 立ち回り
 

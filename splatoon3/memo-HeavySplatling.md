@@ -9,15 +9,7 @@
 - ❌️ 一回のチャンスで勝つ ⭕️ 少しずつアドバンテージを増やす
 - 相手の土俵で戦わずこちらの有利を押し付ける
 
-### まずはコレだけ
-
-| 状況 | if-then |
-| -- | -- |
-| 原則 | <ol><li>塗る</li><li>[if]危険を感じたら → 引く</li><li>[if]ミカタがSP使ったら → 合わせる</li><li>[if]2人有利になったら → 前に出る</li></ol> |
-| 射撃 | <ul><li>[if]チャージする前に → 周りを見る</li><li>[if]チャージするなら → 壁裏</li><li>[if]チャージしたなら → 周りを見る</li><li>[if]撃つなら → 動き続ける</li></ul> |
-| ライン上げ下げ | <ul><li>[if]ライン上げるなら → 次の遮蔽まで</li><li>[if]ライン下げるなら → 一つ前の遮蔽まで</li></ul> |
-
-### ミニマムフロー
+### 突き詰めた立ち回り
 
 ```mermaid
 graph TB
@@ -25,13 +17,22 @@ graph TB
   if_weigh_pros_cons--2人有利-->action_push
   if_weigh_pros_cons--1人有利-->action_paint
   if_weigh_pros_cons--拮抗-->action_paint
-  if_weigh_pros_cons--1人不利-->action_paint
+  if_weigh_pros_cons--1人不利-->action_stay
   if_weigh_pros_cons--2人不利-->action_pull
   action_push[ラインを上げる]-->action_return
-  action_paint[塗る]-->action_return
+  action_paint[塗り広げ]-->action_return
+  action_stay[塗り維持]-->action_return
   action_pull[ラインを下げる]-->action_return
   action_return[状況確認に戻る]
 ```
+
+### キホンのif-then
+
+| 状況 | if-then |
+| -- | -- |
+| 原則 | <ol><li>塗る</li><li>[if]危険を感じたら → 引く</li><li>[if]ミカタがSP使ったら → 合わせる</li><li>[if]2人有利になったら → 前に出る</li></ol> |
+| 射撃 | <ul><li>[if]チャージする前に → 周りを見る</li><li>[if]チャージするなら → 壁裏</li><li>[if]チャージしたなら → 周りを見る</li><li>[if]撃つなら → 動き続ける</li></ul> |
+| ライン上げ下げ | <ul><li>[if]ライン上げるなら → 次の遮蔽まで</li><li>[if]ライン下げるなら → 一つ前の遮蔽まで</li></ul> |
 
 ### 余裕があったら考える
 

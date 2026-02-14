@@ -29,7 +29,10 @@
 ```mermaid
 %%{ init: { 
   'theme':'dark', 
-  'themeVariables': { 'edgeLabelBackground':'#1f1f1f' },
+  'themeVariables': { 
+    'canvasBackground': '#1f1f1f',
+    'edgeLabelBackground':'#1f1f1f'
+  },
   'flowchart': { 'curve': 'linear' } 
   } 
 }%%
@@ -46,6 +49,10 @@ graph TB
   action_stay[塗り維持]-->action_return
   action_pull[ラインを下げる]-->action_return
   action_return[状況確認に戻る]
+
+  %% 開始終了
+  style if_weigh_pros_cons color:#ffffff,fill:#1f1f1f
+  style action_return color:#ffffff,fill:#1f1f1f
 
   %% 2人有利
   style action_push color:#ffffff,fill:#00a300

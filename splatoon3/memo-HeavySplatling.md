@@ -114,12 +114,12 @@ graph TB
 
 | ポイント | 詳細 | ブキ |
 | ---- | -- | -- |
-| バレル以上の射程 | > 0.5 | <img src="./images/Bamboozler14MkI.png" width="24px" alt="竹" /><img src="./images/GooTuber.png" width="24px" alt="ソイチュ" />(<img src="./images/SplatanaStamper.png" width="24px" alt="ジム" />)<img src="./images/JetSquelcher.png" width="24px" alt="ジェット" /><img src="./images/Explosher.png" width="24px" alt="エクス" />(<img src="./images/BallpointSplatling.png" width="24px" alt="クゲ" />) |
-| | >= 1.0 | (<img src="./images/DynamoRoller.png" width="24px" alt="ダイナモ" />)<img src="./images/HydraSplatling.png" width="24px" alt="ハイドラ" /><img src="./images/SplatCharger.png" width="24px" alt="スプチャ" /><img src="./images/WellstringV.png" width="24px" alt="フルイド" /><img src="./images/Bloblobber.png" width="24px" alt="オフロ" /> |
-| | >= 1.5 | (<img src="./images/SplatCharger.png" width="24px" alt="チャースコ" />)<img src="./images/Snipewriter5H.png" width="24px" alt="ペン" /><img src="./images/Tri-Stringer.png" width="24px" alt="弓" /> |
-| | >= 2.0 | <img src="./images/E-liter4K.png" width="24px" alt="リッター" /> |
-| バレル以上のキル速 | !1確 | <img src="./images/Sploosh-O-Matic.png" width="24px" alt="ボールド" /><img src="./images/52Gal.png" width="24px" alt="52" /><img src="./images/DappleDualies.png" width="24px" alt="スパ" />(<img src="./images/GloogaDualies.png" width="24px" alt="ケルビン" />)(<img src="./images/BallpointSplatling.png" width="24px" alt="クゲ" />)<img src="./images/Nautilus47.png" width="24px" alt="ノーチ" />(<img src="./images/HydraSplatling.png" width="24px" alt="ハイドラ" />) |
-| バレル以上の射程&キル速 | | <img src="./images/HydraSplatling.png" width="24px" alt="ハイドラ" /><img src="./images/SplatCharger.png" width="24px" alt="スプチャ" /><img src="./images/Tri-Stringer.png" width="24px" alt="弓" /><img src="./images/E-liter4K.png" width="24px" alt="リッター" /> |
+| バレル以上の射程 | > 0.5 | <img src="./images/Bamboozler14MkI.png" width="32px" alt="竹" /><img src="./images/GooTuber.png" width="32px" alt="ソイチュ" />(<img src="./images/SplatanaStamper.png" width="32px" alt="ジム" />)<img src="./images/JetSquelcher.png" width="32px" alt="ジェット" /><img src="./images/Explosher.png" width="32px" alt="エクス" />(<img src="./images/BallpointSplatling.png" width="32px" alt="クゲ" />) |
+| | >= 1.0 | (<img src="./images/DynamoRoller.png" width="32px" alt="ダイナモ" />)<img src="./images/HydraSplatling.png" width="32px" alt="ハイドラ" /><img src="./images/SplatCharger.png" width="32px" alt="スプチャ" /><img src="./images/WellstringV.png" width="32px" alt="フルイド" /><img src="./images/Bloblobber.png" width="32px" alt="オフロ" /> |
+| | >= 1.5 | (<img src="./images/SplatCharger.png" width="32px" alt="チャースコ" />)<img src="./images/Snipewriter5H.png" width="32px" alt="ペン" /><img src="./images/Tri-Stringer.png" width="32px" alt="弓" /> |
+| | >= 2.0 | <img src="./images/E-liter4K.png" width="32px" alt="リッター" /> |
+| バレル以上のキル速 | !1確 | <img src="./images/Sploosh-O-Matic.png" width="32px" alt="ボールド" /><img src="./images/52Gal.png" width="32px" alt="52" /><img src="./images/DappleDualies.png" width="32px" alt="スパ" />(<img src="./images/GloogaDualies.png" width="32px" alt="ケルビン" />)(<img src="./images/BallpointSplatling.png" width="32px" alt="クゲ" />)<img src="./images/Nautilus47.png" width="32px" alt="ノーチ" />(<img src="./images/HydraSplatling.png" width="32px" alt="ハイドラ" />) |
+| バレル以上の射程&キル速 | | <img src="./images/HydraSplatling.png" width="32px" alt="ハイドラ" /><img src="./images/SplatCharger.png" width="32px" alt="スプチャ" /><img src="./images/Tri-Stringer.png" width="32px" alt="弓" /><img src="./images/E-liter4K.png" width="32px" alt="リッター" /> |
 
 ## links
 

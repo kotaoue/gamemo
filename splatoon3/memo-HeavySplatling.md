@@ -43,23 +43,23 @@ graph TB
 
   %% 2人有利
   style action_push color:#ffffff,fill:#00a300
-  linkStyle 0 stroke-width:4px,stroke:#00a300
+  linkStyle 0 stroke-width:4px,stroke:#00a300,color:#00a300
   linkStyle 5 stroke-width:4px,stroke:#00a300
 
   %% 1人有利
   style action_paint color:#ffffff,fill:#7b8c00
-  linkStyle 1 stroke-width:4px,stroke:#7b8c00
-  linkStyle 2 stroke-width:4px,stroke:#7b8c00
+  linkStyle 1 stroke-width:4px,stroke:#7b8c00,color:#7b8c00
+  linkStyle 2 stroke-width:4px,stroke:#7b8c00,color:#7b8c00
   linkStyle 6 stroke-width:4px,stroke:#7b8c00
 
   %% 1人不利
   style action_stay color:#ffffff,fill:#d26900
-  linkStyle 3 stroke-width:4px,stroke:#d26900
+  linkStyle 3 stroke-width:4px,stroke:#d26900,color:#d26900
   linkStyle 7 stroke-width:4px,stroke:#d26900
 
   %% 2人不利
   style action_pull color:#ffffff,fill:#dc143c
-  linkStyle 4 stroke-width:4px,stroke:#dc143c
+  linkStyle 4 stroke-width:4px,stroke:#dc143c,color:#dc143c
   linkStyle 8 stroke-width:4px,stroke:#dc143c
 ```
 

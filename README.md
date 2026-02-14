@@ -1,6 +1,6 @@
 # gamemo
 
-My memo collection for game.
+I play, therefore I overanalyze.
 
 ## Links
 

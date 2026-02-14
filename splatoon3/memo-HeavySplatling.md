@@ -27,14 +27,14 @@
 ### 突き詰めた立ち回り
 
 ```mermaid
-%%{ init: { 
-  'theme':'dark', 
-  'themeVariables': { 
-    'canvasBackground': '#1f1f1f',
-    'edgeLabelBackground':'#1f1f1f'
-  },
-  'flowchart': { 'curve': 'linear' } 
-  } 
+%%{ 
+  init: { 
+    'theme': 'dark',
+    'themeVariables': { 
+      'edgeLabelBackground':'#000000'
+    },
+    'flowchart': { 'curve': 'linear' } 
+  }
 }%%
 
 graph TB
@@ -51,8 +51,8 @@ graph TB
   action_return[状況確認に戻る]
 
   %% 開始終了
-  style if_weigh_pros_cons color:#ffffff,fill:#1f1f1f
-  style action_return color:#ffffff,fill:#1f1f1f
+  style if_weigh_pros_cons color:#ffffff,fill:#000000
+  style action_return color:#ffffff,fill:#000000
 
   %% 2人有利
   style action_push color:#ffffff,fill:#00a300

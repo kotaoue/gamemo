@@ -11,7 +11,8 @@
 
 ### キホンのif-then
 
-試合 = 「原則」を参照しつつ動くこと = 「射撃」を最小単位としたループを繰り返すこと
+1. 試合とは 「原則」を守りながらプレイするもの
+1. プレイとは「射撃」を最小単位としたループを繰り返すこと
 
 | 状況 | if-then |
 | -- | -- |
@@ -33,6 +34,8 @@
 ### 試合後のif-then
 
 試合が終わった後のふりかえりも「一貫性」が大事。同じ基準で比較していく
+
+- なんとなくで試合するのはNG。試合に目的持つのが大事
 
 | 状況 | if-then |
 | -- | -- |
@@ -142,13 +145,19 @@ graph TB
 
 ## links
 
-- [勝ち負けトントンから始めるスプラトゥーン攻略メモ with バレルスピナー](https://note.com/kotaoue/n/nb3e3413c759a)
-- [スピナーで簡単にキルが取れる方法解説【バレルスピナー】](https://www.youtube.com/watch?v=kH2dufXwR0o)
-- [【スピナー】誰でも上級者の動きになるキャラコン解説【スプラ３】](https://www.youtube.com/watch?v=-rm13bAuax8)
-- [【必見】王冠勢がバレルで「最も効率よく」塗る方法教えます【バレルスピナー】【バレリミ】【ガチエリア】](https://www.youtube.com/watch?v=SpR-de0AIMM)
-- [有効キルは立ち位置で決まる【オーバーフロッシャー】](https://www.youtube.com/watch?v=cbxmMGWsROc) ※ バレルの考え方とも一致
-- [難所で崩れないハイドラの立ち回り。私の”安定ルーティン”公開【スプラトゥーン３】](https://www.youtube.com/watch?v=2iWkbRPVMPQ) ※ 下がり方が参考になる
+- 記事
+  - [勝ち負けトントンから始めるスプラトゥーン攻略メモ with バレルスピナー](https://note.com/kotaoue/n/nb3e3413c759a)
+  - [スプラ3wiki:バレルスピナー](https://wikiwiki.jp/splatoon3mix/%E3%83%96%E3%82%AD/%E3%83%90%E3%83%AC%E3%83%AB%E3%82%B9%E3%83%94%E3%83%8A%E3%83%BC)
+  - [より賢くプレイする：戦術的思考を改善するためのガイド](https://note.com/hara_di/n/nb82d45cd30e7)
+- 動画
+  - [再生リスト:バレル](https://youtube.com/playlist?list=PLp_4KCODScDE_rMZY5TIUXE3yNhVBxk1W&si=NPFi70v2GzXO4yQ3)
+  - [【ブキ解説】金バッジ常連マルチウェポナーがバレルスピナーの全部を教えます【るす】](https://www.youtube.com/watch?v=U0BYkf0Dm00)
+  - [スピナーで簡単にキルが取れる方法解説【バレルスピナー】](https://www.youtube.com/watch?v=kH2dufXwR0o)
+  - [【スピナー】誰でも上級者の動きになるキャラコン解説【スプラ３】](https://www.youtube.com/watch?v=-rm13bAuax8)
+  - [有効キルは立ち位置で決まる【オーバーフロッシャー】](https://www.youtube.com/watch?v=cbxmMGWsROc) ※ バレルの考え方とも一致
+  - [難所で崩れないハイドラの立ち回り。私の”安定ルーティン”公開【スプラトゥーン３】](https://www.youtube.com/watch?v=2iWkbRPVMPQ) ※ 下がり方が参考になる
 - ステージ
   - [スプラ気をつけるポイント:バレル:ステージ](https://docs.google.com/spreadsheets/d/1JlSD02TxEMjEiwJZ0Kd5NAbjlgZKQplCbdxq-N9SC8s/edit?gid=1579070159#gid=1579070159)
   - [この動画を見るだけでヒラメが丘団地バレルスピナーの立ち回りが分かります【スプラトゥーン3】](https://www.youtube.com/watch?v=sSO1gZKmWus)
-- [3D Model Heavy Splatling](https://sketchfab.com/3d-models/heavy-splatling-e7317dddfa594fbebd75dc3593455533)
+- その他
+  - [3D Model Heavy Splatling](https://sketchfab.com/3d-models/heavy-splatling-e7317dddfa594fbebd75dc3593455533)

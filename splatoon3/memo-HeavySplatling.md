@@ -13,8 +13,10 @@
 
 | 状況 | if-then |
 | -- | -- |
-| プレイ | <ol><li>チャージ前確認</li><li>壁裏チャージ</li><li>チャージ完了再確認</li><li>歩き撃ち</li></ol><ul><li>Scan -> Wall -> Stay -> Walk</li></ul> |
+| プレイ | <ol><li>チャージ前確認</li><li>壁裏チャージ</li><li>チャージ完了再確認</li><li>歩き撃ち</li></ol> |
 | 思考 | <ul><li>まずは確認</li><li>[if]確認したら → 口に出す</li><li>[if]ラインを上げる前に → プランを口に出す</li><li>[if]SP使う前に → プランを口に出す</li><li>[if]連デスしたら → 手を止める</li></ul> |
+
+<img src="./images/swsw.png" width="256px" alt="Scan->Wall->Stay->Walk">
 
 ### 試合中のif-then
 

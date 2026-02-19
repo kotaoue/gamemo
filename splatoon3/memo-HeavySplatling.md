@@ -1,6 +1,6 @@
 # バレル
 
-<img src="./images/HeavySplatling.png" width="256px" alt="バレル" />&nbsp;<img src="./images/is.png" width="128px" alt="is" />&nbsp;<img src="./images/JustInCaseSomethingLikeThisHappens.png" width="192px" alt="こんなこともあろうかと" />
+<img src="./images/HeavySplatling.png" width="128px" alt="バレル" />&nbsp;<img src="./images/is.png" width="64px" alt="is" />&nbsp;<img src="./images/JustInCaseSomethingLikeThisHappens.png" width="96px" alt="こんなこともあろうかと" />
 
 ## 立ち回り
 
@@ -11,12 +11,10 @@
 1. 試合とは 「思考」しながら「プレイ」を繰り返すこと
 1. 試合を「プレイ」の繰り返しにするのは「思考」を繰り返すため
 
-| 状況 | if-then |
-| -- | -- |
-| プレイ | <ol><li>チャージ前確認</li><li>壁裏チャージ</li><li>チャージ完了再確認</li><li>歩き撃ち</li></ol> |
-| 思考 | <ul><li>まずは確認</li><li>[if]確認したら → 口に出す</li><li>[if]ラインを上げる前に → プランを口に出す</li><li>[if]SP使う前に → プランを口に出す</li><li>[if]連デスしたら → 手を止める</li></ul> |
-
-<img src="./images/swsw.png" width="256px" alt="Scan->Wall->Stay->Walk">
+| 状況 | if-then | イメージ |
+| -- | -- | -- |
+| プレイ | <ol><li>チャージ前確認</li><li>壁裏チャージ</li><li>チャージ完了再確認</li><li>歩き撃ち</li></ol> | <img src="./images/swsw.png" width="96px" alt="Scan->Wall->Stay->Walk"> |
+| 思考 | <ul><li>まずは確認</li><li>[if]確認したら → 口に出す</li><li>[if]ラインを上げる前に → プランを口に出す</li><li>[if]SP使う前に → プランを口に出す</li><li>[if]連デスしたら → 手を止める</li></ul> | |
 
 ### 試合中のif-then
 

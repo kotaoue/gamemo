@@ -28,7 +28,7 @@
 ## Links
 
 - [全般メモ](./memo.md)
-- [バレル](./memo-HeavySplatling.md)
+- [バレル](./HeavySplatling.md)
 - [Splatoon3 - スプラトゥーン3 攻略＆検証 Wiki*](https://wikiwiki.jp/splatoon3mix/)
 - [INKIPEDIA](https://splatoonwiki.org/wiki/Main_Page)
 - [sendou.ink](https://sendou.ink/)

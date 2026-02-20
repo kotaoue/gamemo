@@ -4,14 +4,14 @@
 
 ## 立ち回り
 
-- バレルとは「事前準備」のブキ
-- 移動は遮蔽から遮蔽
+- バレルは「事前準備」のブキ。
+- バレルは「壁裏チャージ」と「歩き撃ち」の繰り返しで「遮蔽」から「遮蔽」に進むブキ
 
 ### キホンのif-then
 
 | 状況 | if-then | 補足 |
 | -- | -- | -- |
-| プレイ | <ol><li>チャージ前に一呼吸</li><li>壁裏チャージ</li><li>チャージ完了したら一呼吸</li><li>歩き撃ち</li></ol> | <img src="./images/swsw.png" width="96px" alt="Scan->Wall->Stay->Walk"> |
+| プレイ | <ol><li>[if]チャージ前 → 一呼吸</li><li>壁裏チャージ</li><li>[if]チャージ後 → 一呼吸</li><li>歩き撃ち</li></ol> | <img src="./images/swsw.png" width="96px" alt="Scan->Wall->Stay->Walk"> |
 | 思考 | <ul><li>[if]観察したら → 口に出す</li><li>[if]状況判断したら → 口に出す</li><li>[if]意思決定したら → 口に出す</li><li>[if]実行するとき → 口に出す</li></ul> | |
 
 ### 試合中のif-then

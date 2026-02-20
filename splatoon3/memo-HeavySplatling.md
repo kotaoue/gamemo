@@ -4,7 +4,9 @@
 
 ## 立ち回り
 
-バレルとは「事前準備」のブキ。いつでも「こんなこともあろうかと」が言えるように事前準備！！
+- バレルとは「事前準備」のブキ
+- 移動は遮蔽から遮蔽
+- [OODAループ](https://ja.wikipedia.org/wiki/OODA%E3%83%AB%E3%83%BC%E3%83%97)と[射撃と運動](https://ja.wikipedia.org/wiki/%E5%B0%84%E6%92%83%E3%81%A8%E9%81%8B%E5%8B%95)
 
 ### キホンのif-then
 
@@ -14,13 +16,13 @@
 | 状況 | if-then | 補足 |
 | -- | -- | -- |
 | プレイ | <ol><li>OODA</li><li>壁裏チャージ</li><li>OODA</li><li>歩き撃ち</li></ol> | <img src="./images/swsw.png" width="96px" alt="Scan->Wall->Stay->Walk"> |
-| 思考 | <ul><li>声出しOODA</li><li>[if]観察したら → 口に出す</li><li>[if]状況判断したら → 口に出す</li><li>[if]意思決定したら → 口に出す</li><li>[if]実行するとき → 口に出す</li></ul> | |
+| 思考 | <ul><li>[if]観察したら → 口に出す</li><li>[if]状況判断したら → 口に出す</li><li>[if]意思決定したら → 口に出す</li><li>[if]実行するとき → 口に出す</li></ul> | |
 
 ### 試合中のif-then
 
 | 状況 | if-then | 補足 |
 | -- | -- | -- |
-| [声出しOODA](https://ja.wikipedia.org/wiki/OODA%E3%83%AB%E3%83%BC%E3%83%97) | <ul><li>[if]Observe: 観察したら → 口に出す</li><li>[if]Orient: 状況判断したら → 口に出す</li><li>[if]Decide: 意思決定したら → 口に出す</li><li>[if]Act: 実行するとき → 口に出す</li></ul> | <ol><li>Observe: 右からテキ詰めてきてる</li><li>Orient: 52だな。チャージできてる</li><li>Decide: 引き撃ちするか</li><li>Act: 引き撃ち！</li></ol> |
+| OODA | <ul><li>[if]Observe: 観察したら → 口に出す</li><li>[if]Orient: 状況判断したら → 口に出す</li><li>[if]Decide: 意思決定したら → 口に出す</li><li>[if]Act: 実行するとき → 口に出す</li></ul> | <ol><li>Observe: 右からテキ詰めてきてる</li><li>Orient: 52だな。チャージできてる</li><li>Decide: 引き撃ちするか</li><li>Act: 引き撃ち！</li></ol> |
 | 索敵 | <ul><li>[if]対面していない時は → 注意するポイントを順番に見る</ul> | <ol><li>見るべき場所を先に決めておく</li><li>危ない順に目視確認をする</li><li>確認終わったら、再度最初から確認</li></ol> |
 | 視線 | <ul><li>[if]自キャラを見てるなら → 視線を上げる</li><li>[if]射撃を開始するなら → レティクルを見る</li><li>[if]射撃してるなら → レティクル以外を見る</li><li>[if]画面上部に視線移動して索敵したなら → ついでにイカランプ見る</li></ul> | |
 | 上げ判断 | <ul><li>[if]ミカタ2人以上が前にいるなら → 索敵する</li><li>[if]人数有利だったら → ラインを上げる</li></ul> | |

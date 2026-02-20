@@ -6,7 +6,6 @@
 
 - バレルとは「事前準備」のブキ
 - 移動は遮蔽から遮蔽
-- [OODAループ](https://ja.wikipedia.org/wiki/OODA%E3%83%AB%E3%83%BC%E3%83%97)と[射撃と運動](https://ja.wikipedia.org/wiki/%E5%B0%84%E6%92%83%E3%81%A8%E9%81%8B%E5%8B%95)
 
 ### キホンのif-then
 
@@ -151,6 +150,8 @@ graph TB
   - [勝ち負けトントンから始めるスプラトゥーン攻略メモ with バレルスピナー](https://note.com/kotaoue/n/nb3e3413c759a)
   - [スプラ3wiki:バレルスピナー](https://wikiwiki.jp/splatoon3mix/%E3%83%96%E3%82%AD/%E3%83%90%E3%83%AC%E3%83%AB%E3%82%B9%E3%83%94%E3%83%8A%E3%83%BC)
   - [より賢くプレイする：戦術的思考を改善するためのガイド](https://note.com/hara_di/n/nb82d45cd30e7)
+  - [OODAループ](https://ja.wikipedia.org/wiki/OODA%E3%83%AB%E3%83%BC%E3%83%97)
+  - [射撃と運動](https://ja.wikipedia.org/wiki/%E5%B0%84%E6%92%83%E3%81%A8%E9%81%8B%E5%8B%95)
 - 動画
   - [再生リスト:バレル](https://youtube.com/playlist?list=PLp_4KCODScDE_rMZY5TIUXE3yNhVBxk1W&si=NPFi70v2GzXO4yQ3)
   - [【ブキ解説】金バッジ常連マルチウェポナーがバレルスピナーの全部を教えます【るす】](https://www.youtube.com/watch?v=U0BYkf0Dm00)

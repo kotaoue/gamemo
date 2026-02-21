@@ -2,6 +2,10 @@
 
 <img src="./images/HeavySplatling.png" width="128px" alt="バレル" />&nbsp;<img src="./images/is.png" width="64px" alt="is" />&nbsp;<img src="./images/JustInCaseSomethingLikeThisHappens.png" width="96px" alt="こんなこともあろうかと" />
 
+|射程|ダメージ|必要P|一周チャージ|フルチャージ|
+|-|-|-|-|-|
+|4.1|30|200|48F（0.8秒）|72F（1.2秒）|
+
 ## 立ち回り
 
 - バレルは「事前準備」のブキ。

@@ -160,9 +160,9 @@ graph TB
   - [射撃と運動](https://ja.wikipedia.org/wiki/%E5%B0%84%E6%92%83%E3%81%A8%E9%81%8B%E5%8B%95)
 - 動画
   - [再生リスト:バレル](https://youtube.com/playlist?list=PLp_4KCODScDE_rMZY5TIUXE3yNhVBxk1W&si=NPFi70v2GzXO4yQ3)
-  - [【ブキ解説】金バッジ常連マルチウェポナーがバレルスピナーの全部を教えます【るす】](https://www.youtube.com/watch?v=U0BYkf0Dm00)
-  - [スピナーで簡単にキルが取れる方法解説【バレルスピナー】](https://www.youtube.com/watch?v=kH2dufXwR0o)
-  - [【スピナー】誰でも上級者の動きになるキャラコン解説【スプラ３】](https://www.youtube.com/watch?v=-rm13bAuax8)
+    - [【ブキ解説】金バッジ常連マルチウェポナーがバレルスピナーの全部を教えます【るす】](https://youtu.be/U0BYkf0Dm00?si=1WC6BNLvfXVT-_sz)
+    - [塗ってるだけで勝手に敵が全滅するありえない武器【Splatoon3】](https://youtu.be/kYcSMDZoKQg?si=JZ7AL8Hm9s76DOty) ※ 塗り良くなったらラインが上がるのわかりやすい例
+    - [超絶強化されたバレルスピナーでXPを爆上げするしゅーた](https://youtu.be/bsHN7_yItnQ?si=TgbPwNUP7_J7IPE3) ※ 敵インクギリギリまで近寄って最大射程使ったらどうなるかという論値のような動画
   - [有効キルは立ち位置で決まる【オーバーフロッシャー】](https://www.youtube.com/watch?v=cbxmMGWsROc) ※ バレルの考え方とも一致
   - [難所で崩れないハイドラの立ち回り。私の”安定ルーティン”公開【スプラトゥーン３】](https://www.youtube.com/watch?v=2iWkbRPVMPQ) ※ 下がり方が参考になる
 - ステージ

@@ -24,11 +24,9 @@ if [[ $SHEETS_RESPONSE == *"error"* ]]; then
   exit 1
 fi
 
-SHEET_NAMES=$(echo $SHEETS_RESPONSE | jq -r '.sheets[].properties.title')
-
 echo "Downloading sheet data..."
-for SHEET_NAME in $SHEET_NAMES; do
-  ENCODED_SHEET_NAME=$(echo $SHEET_NAME | sed 's/ /%20/g')
+while IFS= read -r SHEET_NAME; do
+  ENCODED_SHEET_NAME=$(printf '%s' "$SHEET_NAME" | jq -sRr @uri)
 
   echo "Getting data for sheet \"${SHEET_NAME}\"..."
 
@@ -40,6 +38,6 @@ for SHEET_NAME in $SHEET_NAMES; do
   else
     echo "Failed to get data for \"${SHEET_NAME}\""
   fi
-done
+done < <(echo "$SHEETS_RESPONSE" | jq -r '.sheets[].properties.title')
 
 echo "All sheet data has been downloaded successfully"

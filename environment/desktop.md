@@ -2,6 +2,8 @@
 
 ## 環境
 
+### Before
+
 ```mermaid
 flowchart LR
     Web <-->|無線| MacBook

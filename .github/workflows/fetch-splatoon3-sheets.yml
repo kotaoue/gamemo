@@ -32,14 +32,14 @@ jobs:
 
             - name: Prepare config
               run: |
-                  cat << 'EOF' > splatoon3/sheets/config.env
+                  cat << 'EOF' > splatoon/splatoon3/sheets/config.env
                   API_KEY=${{ secrets.SPLATOON3_SHEETS_API_KEY }}
                   SPREADSHEET_ID=${{ secrets.SPLATOON3_SHEETS_SPREADSHEET_ID }}
                   EOF
 
             - name: Fetch sheets
               run: |
-                  cd splatoon3/sheets
+                  cd splatoon/splatoon3/sheets
                   zsh ./download_sheets.sh
 
             - name: Create pull request
@@ -50,4 +50,4 @@ jobs:
                   body: "Automated fetch from Google Sheets."
                   branch: chore/fetch-splatoon3-sheets-${{ steps.date.outputs.today }}
                   add-paths: |
-                      splatoon3/sheets/*.json
+                      splatoon/splatoon3/sheets/*.json

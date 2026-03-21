@@ -11,5 +11,4 @@
 * [ドン・サウザンドの契約](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=13005&request_locale=ja)+[手札抹殺](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=4821&request_locale=ja)で消費できない魔法を抱えて動けなくなったって相手を殴り続ける決闘が結構発生
   * ドン・サウザンドでの通常召喚ロックにはちょっと可能性を感じる
 * [ハイネ](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=14408&request_locale=ja)も試してみたが噛み合い悪かったので諦めた。降谷さんは女難の相っぽいし納得
-* [溶撃](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11105&request_locale=ja)と[領域](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11761&request_locale=ja)と貼った上から魔人コンビで殴りつつ、[熱き決闘者たち
-](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12897&request_locale=ja)発動したときは、「これ相手は冷え冷えじゃないかな」と申し訳ない気分になった
+* [溶撃](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11105&request_locale=ja)と[領域](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=11761&request_locale=ja)と貼った上から魔人コンビで殴りつつ、[熱き決闘者たち](https://www.db.yugioh-card.com/yugiohdb/card_search.action?ope=2&cid=12897&request_locale=ja)発動したときは、「これ相手は冷え冷えじゃないかな」と申し訳ない気分になった

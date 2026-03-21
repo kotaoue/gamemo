@@ -12,3 +12,19 @@ I play, therefore I overanalyze.
 ### Tools
 
 - [ikamemo](./splatoon/splatoon3/ikamemo/README.md)
+
+## Lint
+
+### Install
+
+```sh
+brew install cspell
+brew install markdownlint-cli2
+```
+
+### Usage
+
+```sh
+cspell "**/*.md" --config cspell.json
+markdownlint-cli2 "**/*.md"
+```

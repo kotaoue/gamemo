@@ -10,6 +10,30 @@
 | [DaVinci Resolve](https://www.blackmagicdesign.com/jp/products/davinciresolve) | macOS / Windows / Linux | 無料版でも機能が豊富。カラーグレーディングや音声編集も本格的にできる |
 | [HandBrake](https://handbrake.fr/) | macOS / Windows / Linux | 動画変換専用ツール。`.mov` を YouTube に最適な `.mp4`（H.264）に変換するのに適している |
 
+## 発展的な動画編集：ゆっくり実況・複数動画合成
+
+### ゆっくり実況スタイルの編集（画像・吹き出し追加）
+
+ゆっくり実況のように画像キャラクターや吹き出しを動画に重ねたい場合は、以下のツールが使われている。
+
+| ツール | 対応 OS | 特徴 |
+| --- | --- | --- |
+| [VOICEVOX](https://voicevox.hiroshiba.jp/) | macOS / Windows / Linux | 無料の音声合成ソフト。ずんだもん・四国めたん等のキャラクターボイスを生成でき、macOS では DaVinci Resolve と組み合わせて使う |
+| [DaVinci Resolve](https://www.blackmagicdesign.com/jp/products/davinciresolve) | macOS / Windows / Linux | Fusion ページを使うと画像・テキスト・吹き出し等の合成（コンポジット）が可能。慣れれば高品質な仕上がりになる |
+
+> **おすすめの組み合わせ（macOS）**: VOICEVOX で音声生成 → DaVinci Resolve でキャラクター画像・吹き出し・字幕を配置 → 動画を書き出し
+
+### 複数動画の結合・2 画面表示（ピクチャー・イン・ピクチャー）
+
+複数の動画を 1 本にまとめたり、メイン動画＋サブ動画を 1 画面に同時表示したい場合は以下の方法がある。
+
+| ツール | 対応 OS | 機能 |
+| --- | --- | --- |
+| [ffmpeg](https://ffmpeg.org/) | macOS / Windows / Linux | CLI ツール。動画の連結・フィルタを使った 2 画面合成（PiP）が可能。自由度が高い |
+| [DaVinci Resolve](https://www.blackmagicdesign.com/jp/products/davinciresolve) | macOS / Windows / Linux | タイムライン上に複数トラックを並べてオーバーレイするだけで 2 画面合成が実現できる。GUI 操作で完結 |
+| [OBS Studio](https://obsproject.com/ja) | macOS / Windows / Linux | 録画・配信ソフトだが、シーン機能を使って複数映像ソースを配置した状態で録画することで 2 画面構成の動画を作れる |
+| [iMovie](https://www.apple.com/jp/imovie/) | macOS / iOS | ピクチャー・イン・ピクチャー機能を標準搭載。サブ動画を小窓で重ねる程度のシンプルな 2 画面合成ならこれで十分 |
+
 ## .mov を MP4 に変換する（推奨）
 
 YouTube は `.mov` を直接アップロードできるが、`.mp4`（H.264 + AAC）に変換してからアップロードすると安定しやすい。

@@ -18,12 +18,10 @@
 
 | ツール | 対応 OS | 特徴 |
 | --- | --- | --- |
-| [AviUtl](http://spring-fragrance.mints.ne.jp/aviutl/) | Windows | 日本の実況・解説動画界で定番の無料動画編集ソフト。拡張編集プラグインを導入することで画像・テキスト・吹き出しをタイムライン上で自由に配置できる |
-| [ゆっくりMovieMaker4（YMM4）](https://manjubox.net/ymm4/) | Windows | ゆっくり実況動画の作成に特化した無料ツール。VOICEVOX / AquesTalk 等の音声合成と連携し、キャラクター画像・吹き出し・字幕を簡単に配置できる |
-| [VOICEVOX](https://voicevox.hiroshiba.jp/) | macOS / Windows / Linux | 無料の音声合成ソフト。ずんだもん・四国めたん等のキャラクターボイスを生成でき、YMM4 や AviUtl と組み合わせて使う |
+| [VOICEVOX](https://voicevox.hiroshiba.jp/) | macOS / Windows / Linux | 無料の音声合成ソフト。ずんだもん・四国めたん等のキャラクターボイスを生成でき、動画編集ソフトと組み合わせて使う |
 | [DaVinci Resolve](https://www.blackmagicdesign.com/jp/products/davinciresolve) | macOS / Windows / Linux | Fusion ページを使うと画像・テキスト・吹き出し等の合成（コンポジット）が可能。慣れれば高品質な仕上がりになる |
 
-> **おすすめの組み合わせ（Windows）**: VOICEVOX で音声生成 → YMM4 でキャラクター・吹き出しを配置 → 動画を書き出し
+> **おすすめの組み合わせ（macOS）**: VOICEVOX で音声生成 → DaVinci Resolve でキャラクター画像・吹き出し・字幕を配置 → 動画を書き出し
 
 ### 複数動画の結合・2 画面表示（ピクチャー・イン・ピクチャー）
 

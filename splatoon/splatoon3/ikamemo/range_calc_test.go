@@ -5,7 +5,13 @@ import (
 	"testing"
 )
 
+// setupWeapons はテスト用にフォールバックデータで Weapons を初期化する
+func setupWeapons() {
+	Weapons = fallbackWeapons()
+}
+
 func TestCalcRangeAdvantage_BarrelVsSplattershot(t *testing.T) {
+	setupWeapons()
 	result, err := CalcRangeAdvantage("バレル", "スシ")
 	if err != nil {
 		t.Fatalf("CalcRangeAdvantage failed: %v", err)
@@ -31,6 +37,7 @@ func TestCalcRangeAdvantage_BarrelVsSplattershot(t *testing.T) {
 }
 
 func TestCalcRangeAdvantage_UnknownWeapon(t *testing.T) {
+	setupWeapons()
 	_, err := CalcRangeAdvantage("存在しないブキ", "スシ")
 	if err == nil {
 		t.Error("expected error for unknown weapon, got nil")
@@ -43,6 +50,7 @@ func TestCalcRangeAdvantage_UnknownWeapon(t *testing.T) {
 }
 
 func TestCalcRangeAdvantage_LongRangeMustBeGreater(t *testing.T) {
+	setupWeapons()
 	// スシの射程 > バレルの射程 という間違った引数
 	_, err := CalcRangeAdvantage("スシ", "バレル")
 	if err == nil {
@@ -105,12 +113,13 @@ func TestMovementSpeed(t *testing.T) {
 	}
 }
 
-func TestWeaponsData(t *testing.T) {
+func TestFallbackWeaponsData(t *testing.T) {
+	fb := fallbackWeapons()
 	// バレルとスシが登録されていること
 	for _, key := range []string{"バレル", "スシ"} {
-		w, ok := Weapons[key]
+		w, ok := fb[key]
 		if !ok {
-			t.Errorf("weapon %q not found in Weapons map", key)
+			t.Errorf("weapon %q not found in fallback weapons", key)
 			continue
 		}
 		if w.Range <= 0 {
@@ -123,6 +132,7 @@ func TestWeaponsData(t *testing.T) {
 }
 
 func TestFormatResult(t *testing.T) {
+	setupWeapons()
 	result, err := CalcRangeAdvantage("バレル", "スシ")
 	if err != nil {
 		t.Fatalf("CalcRangeAdvantage failed: %v", err)
@@ -133,3 +143,34 @@ func TestFormatResult(t *testing.T) {
 		t.Error("FormatResult returned empty string")
 	}
 }
+
+func TestFormatResult_NoFireRate(t *testing.T) {
+	// FireRate が 0 の場合、発数有利の行が出力されないこと
+	result := RangeAdvantage{
+		LongRangeWeapon:  Weapon{Name: "テスト長", Range: 4.0, Weight: WeightMedium, FireRate: 0},
+		ShortRangeWeapon: Weapon{Name: "テスト短", Range: 2.0, Weight: WeightLight},
+		RangeDiff:        2.0,
+		TimeAdv:          0.833,
+		ShotsAdv:         0,
+	}
+	formatted := result.FormatResult()
+	if formatted == "" {
+		t.Error("FormatResult returned empty string")
+	}
+	// 発数行が含まれていないこと
+	if contains(formatted, "発数有利") {
+		t.Error("FormatResult should not include shots advantage when FireRate is 0")
+	}
+}
+
+func contains(s, substr string) bool {
+	return len(s) >= len(substr) && func() bool {
+		for i := 0; i <= len(s)-len(substr); i++ {
+			if s[i:i+len(substr)] == substr {
+				return true
+			}
+		}
+		return false
+	}()
+}
+

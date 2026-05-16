@@ -27,54 +27,12 @@ type Weapon struct {
 	Range    float64     // 射程（ライン単位）
 	Damage   float64     // ダメージ
 	Weight   WeightClass // 重量クラス
-	FireRate float64     // 発射速度（発/秒）
+	FireRate float64     // 発射速度（発/秒）; スクレイピングでは取得できない場合は 0
 }
 
-// Weapons は主要なブキのデータ
-var Weapons = map[string]Weapon{
-	"バレル": {
-		Name:     "バレルスピナー",
-		Range:    4.1,
-		Damage:   30,
-		Weight:   WeightMedium,
-		FireRate: 15.0, // 一周チャージ48F(0.8秒)で12発 = 15発/秒
-	},
-	"スシ": {
-		Name:     "スプラシューター",
-		Range:    2.9,
-		Damage:   35,
-		Weight:   WeightLight,
-		FireRate: 10.0, // 6F間隔 = 10発/秒
-	},
-	"シャーカー": {
-		Name:     "スプラッシュボム・シャーカー",
-		Range:    2.4,
-		Damage:   28,
-		Weight:   WeightLight,
-		FireRate: 11.0, // 約5-6F間隔
-	},
-	"プラコラ": {
-		Name:     "フォルテスプラシューターコラボ",
-		Range:    3.4,
-		Damage:   42,
-		Weight:   WeightMedium,
-		FireRate: 6.0, // 約10F間隔
-	},
-	"52": {
-		Name:     ".52ガロン",
-		Range:    3.2,
-		Damage:   52,
-		Weight:   WeightMedium,
-		FireRate: 5.7, // 約10-11F間隔
-	},
-	"96": {
-		Name:     ".96ガロン",
-		Range:    3.6,
-		Damage:   62,
-		Weight:   WeightHeavy,
-		FireRate: 3.0, // 約20F間隔
-	},
-}
+// Weapons はブキ名→ブキ情報のマップ。
+// 実行時に ScrapeWeapons() で上書きされる。失敗時は fallbackWeapons() を使う。
+var Weapons map[string]Weapon
 
 // RangeAdvantage は射程差から算出したアドバンテージ情報
 type RangeAdvantage struct {
@@ -82,11 +40,10 @@ type RangeAdvantage struct {
 	ShortRangeWeapon Weapon
 	RangeDiff        float64 // 射程差（ライン）
 	TimeAdv          float64 // 時間有利（秒）
-	ShotsAdv         float64 // 発数有利（発）
+	ShotsAdv         float64 // 発数有利（発）; FireRate が 0 の場合は 0
 }
 
 // CalcRangeAdvantage は2つのブキ名から射程差アドバンテージを計算する
-// shortMoverWeight は射程の短い側（詰めてくる側）の重量クラス
 func CalcRangeAdvantage(longName, shortName string) (RangeAdvantage, error) {
 	long, ok := Weapons[longName]
 	if !ok {
@@ -159,14 +116,20 @@ func (r RangeAdvantage) FormatResult() string {
 	if longLabel == "" {
 		longLabel = fmt.Sprintf("%.1fライン", r.LongRangeWeapon.Range)
 	}
-	return fmt.Sprintf(
-		"射程差: %.2f ライン\n移動時間有利: %.3f 秒 （%s側の移動速度 %.1f ライン/秒）\n発数有利: %.1f 発 （%sの発射速度 %.1f 発/秒）",
+
+	s := fmt.Sprintf(
+		"射程差: %.2f ライン\n移動時間有利: %.3f 秒 （%s側の移動速度 %.1f ライン/秒）",
 		r.RangeDiff,
 		r.TimeAdv,
 		shortLabel,
 		MovementSpeed[r.ShortRangeWeapon.Weight],
-		r.ShotsAdv,
-		longLabel,
-		r.LongRangeWeapon.FireRate,
 	)
+
+	if r.ShotsAdv > 0 {
+		s += fmt.Sprintf("\n発数有利: %.1f 発 （%sの発射速度 %.1f 発/秒）",
+			r.ShotsAdv, longLabel, r.LongRangeWeapon.FireRate)
+	}
+
+	return s
 }
+

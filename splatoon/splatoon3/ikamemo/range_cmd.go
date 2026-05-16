@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"sort"
 	"strconv"
 	"strings"
 
@@ -15,12 +16,14 @@ var (
 	rangeVal2        float64
 	rangeMoverWeight string
 	rangeFireRate    float64
+	rangeOffline     bool
 )
 
 var rangeCmd = &cobra.Command{
 	Use:   "range",
 	Short: "射程差から時間・発数アドバンテージを計算する",
 	Long: `射程差を基に、長射程側が何秒・何発分有利かを計算します。
+ブキデータはwikiwiki.jp/splatoon3mixから自動取得します（--offlineで省略可）。
 
 ブキ名で計算する例:
   ikamemo range -a バレル -b スシ
@@ -28,7 +31,8 @@ var rangeCmd = &cobra.Command{
 射程・重量・発射速度を直接指定して計算する例:
   ikamemo range --range1 4.1 --range2 2.9 --weight 軽 --fire-rate 15
 
-利用可能なブキ名: バレル, スシ, シャーカー, プラコラ, 52, 96`,
+ブキ一覧を表示（データ取得を確認）:
+  ikamemo range`,
 	RunE: runRangeCommand,
 }
 
@@ -38,12 +42,31 @@ func init() {
 	rangeCmd.Flags().Float64Var(&rangeVal1, "range1", 0, "長射程値（ライン）")
 	rangeCmd.Flags().Float64Var(&rangeVal2, "range2", 0, "短射程値（ライン）")
 	rangeCmd.Flags().StringVarP(&rangeMoverWeight, "weight", "W", "", "短射程側の重量クラス（軽/中/重）")
-	rangeCmd.Flags().Float64VarP(&rangeFireRate, "fire-rate", "f", 0, "長射程ブキの発射速度（発/秒）")
+	rangeCmd.Flags().Float64VarP(&rangeFireRate, "fire-rate", "f", 0, "長射程ブキの発射速度（発/秒）。省略するとブキ名検索時の登録値を使用")
+	rangeCmd.Flags().BoolVar(&rangeOffline, "offline", false, "スクレイピングをスキップしてフォールバックデータを使う")
 
 	rootCmd.AddCommand(rangeCmd)
 }
 
+// initWeapons はコマンド実行前にブキデータを初期化する
+func initWeapons() {
+	if Weapons != nil {
+		return
+	}
+	if rangeOffline {
+		Weapons = fallbackWeapons()
+		return
+	}
+	weapons, fromWeb := LoadWeaponsWithFallback()
+	if !fromWeb {
+		fmt.Println("※ ブキデータの取得に失敗したため、フォールバックデータを使用しています")
+	}
+	Weapons = weapons
+}
+
 func runRangeCommand(cmd *cobra.Command, args []string) error {
+	initWeapons()
+
 	// ブキ名で指定された場合
 	if rangeWeapon1 != "" || rangeWeapon2 != "" {
 		return runRangeByWeaponName()
@@ -64,6 +87,14 @@ func runRangeByWeaponName() error {
 	}
 	if rangeWeapon2 == "" {
 		return fmt.Errorf("短射程ブキ名(-b)を指定してください")
+	}
+
+	// --fire-rate が指定された場合はブキのFireRateを上書きする
+	if rangeFireRate > 0 {
+		if w, ok := Weapons[rangeWeapon1]; ok {
+			w.FireRate = rangeFireRate
+			Weapons[rangeWeapon1] = w
+		}
 	}
 
 	result, err := CalcRangeAdvantage(rangeWeapon1, rangeWeapon2)
@@ -108,16 +139,24 @@ func runRangeByParams() error {
 }
 
 func printWeaponList() error {
-	fmt.Println("=== 利用可能なブキ一覧 ===")
-	fmt.Printf("%-12s %-20s %6s %8s %6s %10s\n", "キー", "名前", "射程", "ダメージ", "重量", "発射速度")
-	fmt.Println(strings.Repeat("-", 70))
+	fmt.Println("=== ブキ一覧 ===")
+	fmt.Printf("%-20s %6s %8s %6s %10s\n", "名前", "射程", "ダメージ", "重量", "発射速度")
+	fmt.Println(strings.Repeat("-", 56))
 
-	// 表示順を固定するためにキーをソート
-	keys := []string{"スシ", "シャーカー", "52", "プラコラ", "96", "バレル"}
+	keys := make([]string, 0, len(Weapons))
+	for k := range Weapons {
+		keys = append(keys, k)
+	}
+	sort.Strings(keys)
+
 	for _, k := range keys {
 		w := Weapons[k]
-		fmt.Printf("%-12s %-20s %6.1f %8.0f %6s %8.1f発/秒\n",
-			k, w.Name, w.Range, w.Damage, w.Weight, w.FireRate)
+		fireRateStr := "-"
+		if w.FireRate > 0 {
+			fireRateStr = fmt.Sprintf("%.1f発/秒", w.FireRate)
+		}
+		fmt.Printf("%-20s %6.1f %8.0f %6s %10s\n",
+			w.Name, w.Range, w.Damage, w.Weight, fireRateStr)
 	}
 	fmt.Println()
 	fmt.Printf("重量クラス別移動速度:\n")
@@ -137,3 +176,4 @@ func formatFloat(f float64) string {
 	s := strconv.FormatFloat(f, 'f', -1, 64)
 	return s
 }
+

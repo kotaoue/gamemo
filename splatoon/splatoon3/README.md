@@ -1,5 +1,13 @@
 # スプラ3
 
+## Private ブキTier
+
+|区分|ナワバリ|エリア|ヤグラ|ホコ|アサリ|
+|-|-|-|-|-|-|
+|短射程|<img src="./images/N-ZAP85.png" width="32px" alt="黒ZAP" />|<img src="./images/N-ZAP85.png" width="32px" alt="黒ZAP" />|<img src="./images/N-ZAP85.png" width="32px" alt="黒ZAP" />|<img src="./images/N-ZAP85.png" width="32px" alt="黒ZAP" />|<img src="./images/N-ZAP85.png" width="32px" alt="黒ZAP" />|
+|中射程|-|<img src="./images/ForgeSplattershotPro.png" width="32px" alt="プラコラ" />|<img src="./images/ForgeSplattershotPro.png" width="32px" alt="プラコラ" />|<img src="./images/SplattershotProFRZ-N.png" width="32px" alt="プラFR" />|<img src="./images/SplattershotProFRZ-N.png" width="32px" alt="プラFR" />|
+|長射程|<img src="./images/HeavySplatling.png" width="32px" alt="バレル" />|<img src="./images/HeavySplatling.png" width="32px" alt="バレル" />|<img src="./images/HeavySplatling.png" width="32px" alt="バレル" />|<img src="./images/HeavySplatling.png" width="32px" alt="バレル" />|<img src="./images/HeavySplatling.png" width="32px" alt="バレル" />|
+
 ## 持ちブキ
 
 |名前|区分|射程|ダメージ|必要P|サブ|スペ|重量|ナワバリ|エリア|ヤグラ|ホコ|アサリ|♡|
